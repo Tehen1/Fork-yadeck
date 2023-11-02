@@ -1,0 +1,7413 @@
+.yadeck-com-by-html {
+  background-color: #f4f1ed;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.yadeck-com-by-html .overlap-wrapper {
+  background-color: var(--yadeckcompampas);
+}
+
+.yadeck-com-by-html .overlap {
+  position: relative;
+}
+
+.yadeck-com-by-html .section {
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.yadeck-com-by-html .overlap-group {
+  height: 6495px;
+  left: 0;
+  position: absolute;
+  top: 70px;
+  width: 390px;
+}
+
+.yadeck-com-by-html .main {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 390px;
+}
+
+.yadeck-com-by-html .div-app-background {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  max-width: 1440px;
+  padding: 0px 80px;
+  position: absolute;
+  top: 0;
+  width: 390px;
+}
+
+.yadeck-com-by-html .div-mx {
+  align-self: stretch;
+  flex: 1;
+  flex-grow: 1;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .div-el-row {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0px 0px;
+  height: 753.56px;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .div-el-col {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  height: 753.56px;
+  max-width: 390px;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-headband {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  max-width: 1440px;
+  position: relative;
+}
+
+.yadeck-com-by-html .div {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .div-el-carousel-wrapper {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  max-width: 390px;
+  position: relative;
+  width: 390px;
+}
+
+.yadeck-com-by-html .div-el-carousel {
+  align-self: stretch;
+  height: 375.97px;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .div-el-carousel-item {
+  align-items: center;
+  display: inline-flex;
+  flex-direction: column;
+  height: 376px;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-el-image {
+  align-items: flex-start;
+  display: inline-flex;
+  height: 375.97px;
+  justify-content: center;
+  position: relative;
+}
+
+.yadeck-com-by-html .carroussel {
+  align-self: stretch;
+  background-image: url(https://cdn.animaapp.com/projects/64c03199d05949cd3e9fc7e2/releases/65432d3ce71150547576378f/img/carroussel3.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  flex: 1;
+  flex-grow: 1;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-headband-wrapper {
+  height: 377.59px;
+  max-width: 390px;
+  position: relative;
+  width: 390px;
+}
+
+.yadeck-com-by-html .div-wrapper {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  max-width: 390px;
+  padding: 48px 24px 80px;
+  position: relative;
+  top: -24px;
+}
+
+.yadeck-com-by-html .div-headband-wrapper-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 16px;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .heading {
+  align-self: stretch;
+  height: 150px;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .digital {
+  color: var(--yadeckcomblack);
+  font-family: "Inter", Helvetica;
+  font-size: 50px;
+  font-weight: 700;
+  height: 50px;
+  left: 72px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.yadeck-com-by-html .rap {
+  color: var(--yadeckcomblack);
+  font-family: "Inter", Helvetica;
+  font-size: 50px;
+  font-weight: 700;
+  height: 50px;
+  left: 170px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  text-align: center;
+  top: 49px;
+  white-space: nowrap;
+}
+
+.yadeck-com-by-html .league {
+  color: var(--yadeckcomblack);
+  font-family: "Inter", Helvetica;
+  font-size: 50px;
+  font-weight: 700;
+  height: 50px;
+  left: 96px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  text-align: center;
+  top: 99px;
+  white-space: nowrap;
+}
+
+.yadeck-com-by-html .div-2 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 16px;
+  position: relative;
+}
+
+.yadeck-com-by-html .p-appearing {
+  height: 41.59px;
+  position: relative;
+  width: 342px;
+}
+
+.yadeck-com-by-html .text-wrapper {
+  color: var(--yadeckcomblack);
+  font-family: var(--yadeck-com-inter-bold-14-63-font-family);
+  font-size: var(--yadeck-com-inter-bold-14-63-font-size);
+  font-style: var(--yadeck-com-inter-bold-14-63-font-style);
+  font-weight: var(--yadeck-com-inter-bold-14-63-font-weight);
+  height: 21px;
+  left: 11px;
+  letter-spacing: var(--yadeck-com-inter-bold-14-63-letter-spacing);
+  line-height: var(--yadeck-com-inter-bold-14-63-line-height);
+  position: absolute;
+  text-align: center;
+  top: -2px;
+  white-space: nowrap;
+}
+
+.yadeck-com-by-html .overlap-group-2 {
+  height: 42px;
+  left: 46px;
+  position: absolute;
+  top: -1px;
+  width: 284px;
+}
+
+.yadeck-com-by-html .sur-tes-artistes {
+  color: var(--yadeckcomblack);
+  font-family: var(--yadeck-com-inter-thin-15-63-font-family);
+  font-size: var(--yadeck-com-inter-thin-15-63-font-size);
+  font-style: var(--yadeck-com-inter-thin-15-63-font-style);
+  font-weight: var(--yadeck-com-inter-thin-15-63-font-weight);
+  height: 21px;
+  left: 0;
+  letter-spacing: var(--yadeck-com-inter-thin-15-63-letter-spacing);
+  line-height: var(--yadeck-com-inter-thin-15-63-line-height);
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+}
+
+.yadeck-com-by-html .text-wrapper-2 {
+  color: var(--yadeckcomblack);
+  font-family: var(--yadeck-com-inter-thin-16-font-family);
+  font-size: var(--yadeck-com-inter-thin-16-font-size);
+  font-style: var(--yadeck-com-inter-thin-16-font-style);
+  font-weight: var(--yadeck-com-inter-thin-16-font-weight);
+  height: 21px;
+  left: 18px;
+  letter-spacing: var(--yadeck-com-inter-thin-16-letter-spacing);
+  line-height: var(--yadeck-com-inter-thin-16-line-height);
+  position: absolute;
+  text-align: center;
+  top: 21px;
+  white-space: nowrap;
+}
+
+.yadeck-com-by-html .text-wrapper-3 {
+  color: var(--yadeckcomblack);
+  font-family: var(--yadeck-com-inter-bold-15-13-font-family);
+  font-size: var(--yadeck-com-inter-bold-15-13-font-size);
+  font-style: var(--yadeck-com-inter-bold-15-13-font-style);
+  font-weight: var(--yadeck-com-inter-bold-15-13-font-weight);
+  height: 21px;
+  left: 145px;
+  letter-spacing: var(--yadeck-com-inter-bold-15-13-letter-spacing);
+  line-height: var(--yadeck-com-inter-bold-15-13-line-height);
+  position: absolute;
+  text-align: center;
+  top: 20px;
+  white-space: nowrap;
+}
+
+.yadeck-com-by-html .text-wrapper-4 {
+  color: var(--yadeckcomblack);
+  font-family: var(--yadeck-com-inter-thin-16-font-family);
+  font-size: var(--yadeck-com-inter-thin-16-font-size);
+  font-style: var(--yadeck-com-inter-thin-16-font-style);
+  font-weight: var(--yadeck-com-inter-thin-16-font-weight);
+  height: 21px;
+  left: 228px;
+  letter-spacing: var(--yadeck-com-inter-thin-16-letter-spacing);
+  line-height: var(--yadeck-com-inter-thin-16-line-height);
+  position: absolute;
+  text-align: center;
+  top: 21px;
+  white-space: nowrap;
+}
+
+.yadeck-com-by-html .button {
+  all: unset;
+  align-items: center;
+  background-color: #e6821e;
+  border: 1px solid;
+  border-radius: 5px;
+  box-sizing: border-box;
+  display: inline-flex;
+  height: 50px;
+  justify-content: center;
+  max-width: 300px;
+  padding: 18px 86.75px 18px 86.73px;
+  position: relative;
+}
+
+.yadeck-com-by-html .span {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  padding: 0px 0.16px 0px 0.36px;
+  position: relative;
+}
+
+.yadeck-com-by-html .text-wrapper-5 {
+  color: var(--yadeckcomnero);
+  font-family: "Inter", Helvetica;
+  font-size: 13.1px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 14px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.yadeck-com-by-html .div-el-col-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0px 0px;
+  height: 248.17px;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .div-artists-and-wrapper {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  height: 248.17px;
+  max-width: 390px;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-artists-and {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  max-width: 1440px;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-main-title-wrapper {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  height: 248.17px;
+  max-width: 390px;
+  padding: 0px 0px 4.79px;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-main-title {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  padding: 8px 9.75px 16px;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .div-video-container {
+  height: 219.38px;
+  position: relative;
+  width: 370.5px;
+}
+
+.yadeck-com-by-html .iframe {
+  height: 219px;
+  overflow: hidden;
+  width: 370px;
+}
+
+.yadeck-com-by-html .body {
+  align-items: flex-start;
+  background-color: var(--yadeckcomblack);
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: 371px;
+}
+
+.yadeck-com-by-html .youtube-video-player {
+  align-self: stretch;
+  background-color: var(--yadeckcomblack);
+  height: 219px;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .overlap-2 {
+  height: 219px;
+  position: relative;
+  width: 371px;
+}
+
+.yadeck-com-by-html .div-ytp-cued {
+  height: 219px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 371px;
+}
+
+.yadeck-com-by-html .button-play-SVG-wrapper {
+  background-image: url(https://cdn.animaapp.com/projects/64c03199d05949cd3e9fc7e2/releases/65432d3ce71150547576378f/img/div-ytp-cued-thumbnail-overlay-image@2x.png);
+  background-size: 100% 100%;
+  height: 219px;
+  position: relative;
+  width: 370px;
+}
+
+.yadeck-com-by-html .button-play-SVG {
+  height: 48px;
+  left: 152px;
+  position: absolute;
+  top: 86px;
+  width: 68px;
+}
+
+.yadeck-com-by-html .div-ytp-gradient-top {
+  height: 99px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 370px;
+}
+
+.yadeck-com-by-html .div-ytp-chrome-top {
+  align-items: flex-start;
+  display: inline-flex;
+  justify-content: flex-end;
+  left: 12px;
+  position: absolute;
+  top: 0;
+}
+
+.yadeck-com-by-html .div-ytp-title {
+  align-items: flex-start;
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  min-height: 52px;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-ytp-title-text {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  max-width: 299px;
+  padding: 21px 0px 7.6px 50px;
+  position: relative;
+}
+
+.yadeck-com-by-html .link {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 2px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .p {
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 0;
+  color: var(--yadeckcomgallery);
+  display: -webkit-box;
+  font-family: var(--yadeck-com-roboto-regular-18-font-family);
+  font-size: var(--yadeck-com-roboto-regular-18-font-size);
+  font-style: var(--yadeck-com-roboto-regular-18-font-style);
+  font-weight: var(--yadeck-com-roboto-regular-18-font-weight);
+  letter-spacing: var(--yadeck-com-roboto-regular-18-letter-spacing);
+  line-height: var(--yadeck-com-roboto-regular-18-line-height);
+  margin-top: -1px;
+  overflow: hidden;
+  position: relative;
+  text-overflow: ellipsis;
+  text-shadow: 0px 0px 2px #00000080;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.yadeck-com-by-html .img {
+  align-self: stretch;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-ytp-title-2 {
+  align-items: flex-start;
+  border-radius: 25px;
+  display: flex;
+  height: 50px;
+  left: -5px;
+  overflow: hidden;
+  padding: 5px;
+  position: absolute;
+  top: 7px;
+  width: 50px;
+}
+
+.yadeck-com-by-html .link-photo-image-of {
+  align-self: stretch;
+  position: relative;
+  width: 40px;
+}
+
+.yadeck-com-by-html .div-el-row-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0px 0px;
+  height: 280.12px;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .div-text-align-wrapper {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  height: 280.12px;
+  max-width: 390px;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-text-align {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  max-width: 1440px;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-el-row-3 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 24px 24px 8px;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .heading-wrapper {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  max-width: 390px;
+  position: relative;
+}
+
+.yadeck-com-by-html .en-collaboration-wrapper {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 67.4px 4px 67.6px;
+  position: relative;
+}
+
+.yadeck-com-by-html .text-wrapper-6 {
+  color: var(--yadeckcomblack);
+  font-family: var(--yadeck-com-inter-bold-32-font-family);
+  font-size: var(--yadeck-com-inter-bold-32-font-size);
+  font-style: var(--yadeck-com-inter-bold-32-font-style);
+  font-weight: var(--yadeck-com-inter-bold-32-font-weight);
+  letter-spacing: var(--yadeck-com-inter-bold-32-letter-spacing);
+  line-height: var(--yadeck-com-inter-bold-32-line-height);
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.yadeck-com-by-html .div-el-row-wrapper {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  margin-top: -0.21px;
+  max-width: 390px;
+  padding: 4px;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-el-row-4 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  flex-wrap: wrap;
+  gap: 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .div-d-flex-wrapper {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  height: 111.33px;
+  max-width: 111.33px;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-d-flex {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  padding: 22.43px 0px 22.46px;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .div-el-image-2 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 16px;
+  position: relative;
+}
+
+.yadeck-com-by-html .warnermusicgroup {
+  background-image: url(https://cdn.animaapp.com/projects/64c03199d05949cd3e9fc7e2/releases/65432d3ce71150547576378f/img/warnermusicgroup-85558411-png@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  flex: 1;
+  flex-grow: 1;
+  position: relative;
+  width: 79.33px;
+}
+
+.yadeck-com-by-html .div-el-image-wrapper {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .snep-png {
+  background-image: url(https://cdn.animaapp.com/projects/64c03199d05949cd3e9fc7e2/releases/65432d3ce71150547576378f/img/snep-d8a13431-png@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  flex: 1;
+  flex-grow: 1;
+  position: relative;
+  width: 79.33px;
+}
+
+.yadeck-com-by-html .div-d-flex-2 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  justify-content: center;
+  padding: 11.61px 0px 11.61px;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .booskap-png {
+  background-image: url(https://cdn.animaapp.com/projects/64c03199d05949cd3e9fc7e2/releases/65432d3ce71150547576378f/img/booskap-25c0f803-png@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  flex: 1;
+  flex-grow: 1;
+  position: relative;
+  width: 79.33px;
+}
+
+.yadeck-com-by-html .div-el-row-5 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0px 0px;
+  height: 988.38px;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .div-cards-wrapper {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  height: 988.38px;
+  max-width: 390px;
+  padding: 80px 0px 128px;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-cards {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  max-width: 1440px;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-px {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 8px;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .div-el-row-6 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-el-col-2 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  justify-content: center;
+  max-width: 374px;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-el-row-7 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0px 0px;
+  height: 230.38px;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .div-el-col-3 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 15.79px;
+  height: 230.38px;
+  max-width: 374px;
+  padding: 0px 0px 16px;
+  position: relative;
+}
+
+.yadeck-com-by-html .des-cartes-uniques-wrapper {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 92.4px 0px 92.6px;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .p-pt {
+  height: 73.59px;
+  position: relative;
+  width: 374px;
+}
+
+.yadeck-com-by-html .overlap-3 {
+  height: 43px;
+  left: 39px;
+  position: relative;
+  top: 6px;
+  width: 296px;
+}
+
+.yadeck-com-by-html .text-wrapper-7 {
+  color: var(--yadeckcomblack);
+  font-family: var(--yadeck-com-inter-bold-14-25-font-family);
+  font-size: var(--yadeck-com-inter-bold-14-25-font-size);
+  font-style: var(--yadeck-com-inter-bold-14-25-font-style);
+  font-weight: var(--yadeck-com-inter-bold-14-25-font-weight);
+  height: 21px;
+  left: 0;
+  letter-spacing: var(--yadeck-com-inter-bold-14-25-letter-spacing);
+  line-height: var(--yadeck-com-inter-bold-14-25-line-height);
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+}
+
+.yadeck-com-by-html .overlap-group-3 {
+  height: 42px;
+  left: 24px;
+  position: absolute;
+  top: 1px;
+  width: 249px;
+}
+
+.yadeck-com-by-html .text-wrapper-8 {
+  color: var(--yadeckcomblack);
+  font-family: var(--yadeck-com-inter-thin-16-font-family);
+  font-size: var(--yadeck-com-inter-thin-16-font-size);
+  font-style: var(--yadeck-com-inter-thin-16-font-style);
+  font-weight: var(--yadeck-com-inter-thin-16-font-weight);
+  height: 21px;
+  left: 28px;
+  letter-spacing: var(--yadeck-com-inter-thin-16-letter-spacing);
+  line-height: var(--yadeck-com-inter-thin-16-line-height);
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+}
+
+.yadeck-com-by-html .text-wrapper-9 {
+  color: var(--yadeckcomblack);
+  font-family: var(--yadeck-com-inter-thin-16-font-family);
+  font-size: var(--yadeck-com-inter-thin-16-font-size);
+  font-style: var(--yadeck-com-inter-thin-16-font-style);
+  font-weight: var(--yadeck-com-inter-thin-16-font-weight);
+  height: 21px;
+  left: 125px;
+  letter-spacing: var(--yadeck-com-inter-thin-16-letter-spacing);
+  line-height: var(--yadeck-com-inter-thin-16-line-height);
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+}
+
+.yadeck-com-by-html .et {
+  color: var(--yadeckcomblack);
+  font-family: var(--yadeck-com-inter-thin-16-font-family);
+  font-size: var(--yadeck-com-inter-thin-16-font-size);
+  font-style: var(--yadeck-com-inter-thin-16-font-style);
+  font-weight: var(--yadeck-com-inter-thin-16-font-weight);
+  height: 21px;
+  left: 194px;
+  letter-spacing: var(--yadeck-com-inter-thin-16-letter-spacing);
+  line-height: var(--yadeck-com-inter-thin-16-line-height);
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+}
+
+.yadeck-com-by-html .text-wrapper-10 {
+  color: var(--yadeckcomblack);
+  font-family: var(--yadeck-com-inter-thin-15-5-font-family);
+  font-size: var(--yadeck-com-inter-thin-15-5-font-size);
+  font-style: var(--yadeck-com-inter-thin-15-5-font-style);
+  font-weight: var(--yadeck-com-inter-thin-15-5-font-weight);
+  height: 21px;
+  left: 0;
+  letter-spacing: var(--yadeck-com-inter-thin-15-5-letter-spacing);
+  line-height: var(--yadeck-com-inter-thin-15-5-line-height);
+  position: absolute;
+  text-align: center;
+  top: 21px;
+  white-space: nowrap;
+}
+
+.yadeck-com-by-html .text-wrapper-11 {
+  color: var(--yadeckcomblack);
+  font-family: var(--yadeck-com-inter-bold-14-63-font-family);
+  font-size: var(--yadeck-com-inter-bold-14-63-font-size);
+  font-style: var(--yadeck-com-inter-bold-14-63-font-style);
+  font-weight: var(--yadeck-com-inter-bold-14-63-font-weight);
+  height: 21px;
+  left: 59px;
+  letter-spacing: var(--yadeck-com-inter-bold-14-63-letter-spacing);
+  line-height: var(--yadeck-com-inter-bold-14-63-line-height);
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+}
+
+.yadeck-com-by-html .text-wrapper-12 {
+  color: var(--yadeckcomblack);
+  font-family: var(--yadeck-com-inter-bold-14-38-font-family);
+  font-size: var(--yadeck-com-inter-bold-14-38-font-size);
+  font-style: var(--yadeck-com-inter-bold-14-38-font-style);
+  font-weight: var(--yadeck-com-inter-bold-14-38-font-weight);
+  height: 21px;
+  left: 156px;
+  letter-spacing: var(--yadeck-com-inter-bold-14-38-letter-spacing);
+  line-height: var(--yadeck-com-inter-bold-14-38-line-height);
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+}
+
+.yadeck-com-by-html .text-wrapper-13 {
+  color: var(--yadeckcomblack);
+  font-family: var(--yadeck-com-inter-bold-14-63-font-family);
+  font-size: var(--yadeck-com-inter-bold-14-63-font-size);
+  font-style: var(--yadeck-com-inter-bold-14-63-font-style);
+  font-weight: var(--yadeck-com-inter-bold-14-63-font-weight);
+  height: 21px;
+  left: 238px;
+  letter-spacing: var(--yadeck-com-inter-bold-14-63-letter-spacing);
+  line-height: var(--yadeck-com-inter-bold-14-63-line-height);
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+}
+
+.yadeck-com-by-html .div-el-col-4 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  max-width: 374px;
+  padding: 0px 16px;
+  position: relative;
+  width: 374px;
+}
+
+.yadeck-com-by-html .div-el-carousel-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  height: 500px;
+  padding: 0px 0px 200px;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .div-el-carousel-item-wrapper {
+  align-self: stretch;
+  height: 300px;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .div-image-container-wrapper {
+  align-items: center;
+  display: inline-flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 0px 17px;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-image-container {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 50px;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-3 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 0px 4.8px;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .niska-legend-wrapper {
+  align-items: flex-start;
+  display: inline-flex;
+  height: 400px;
+  justify-content: center;
+  max-height: 400px;
+  max-width: 308px;
+  padding: 0px 4px;
+  position: relative;
+}
+
+.yadeck-com-by-html .niska-legend {
+  align-self: stretch;
+  background-image: url(https://cdn.animaapp.com/projects/64c03199d05949cd3e9fc7e2/releases/65432d3ce71150547576378f/img/niska-legend-eb66ae7c-webp@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  max-height: 400px;
+  max-width: 308px;
+  position: relative;
+  width: 300px;
+}
+
+.yadeck-com-by-html .div-image-shadow {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-image-shadow-2 {
+  background-color: var(--yadeckcomtuatara);
+  border-radius: 160.5px;
+  filter: blur(4px);
+  height: 13px;
+  opacity: 0.2;
+  position: relative;
+  width: 308px;
+}
+
+.yadeck-com-by-html .div-el-row-8 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-wrap: wrap;
+  gap: 0px 0px;
+  height: 50px;
+  position: relative;
+}
+
+.yadeck-com-by-html .link-wrapper {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  height: 50px;
+  max-width: 374px;
+  padding: 0px 37px;
+  position: relative;
+}
+
+.yadeck-com-by-html .button-wrapper {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  position: relative;
+}
+
+.yadeck-com-by-html .span-wrapper {
+  all: unset;
+  align-items: center;
+  background-color: #e6821e;
+  border: 1px solid;
+  border-radius: 5px;
+  box-sizing: border-box;
+  display: inline-flex;
+  flex: 0 0 auto;
+  height: 50px;
+  justify-content: center;
+  max-width: 300px;
+  padding: 18px 105.19px 18px 105.81px;
+  position: relative;
+}
+
+.yadeck-com-by-html .span-2 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  position: relative;
+}
+
+.yadeck-com-by-html .text-wrapper-14 {
+  color: var(--yadeckcomnero);
+  font-family: "Inter", Helvetica;
+  font-size: 13.3px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 14px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.yadeck-com-by-html .div-el-row-9 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0px 0px;
+  height: 1227.44px;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .div-bet-for-success-wrapper {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  height: 1227.44px;
+  max-width: 390px;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-bet-for-success {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--yadeckcomcod-gray);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 112px 16px 48px;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .div-limited-width {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  max-width: 1440px;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-px-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .div-el-row-10 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-wrap: wrap;
+  gap: 0px 0px;
+  height: 208px;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-el-col-5 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  height: 208px;
+  max-width: 358px;
+  position: relative;
+}
+
+.yadeck-com-by-html .mise-sur-le-succ-s-wrapper {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 70.4px 0px 70.6px;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .mise-sur-le-succ-s {
+  color: var(--yadeckcompampas);
+  font-family: "Inter", Helvetica;
+  font-size: 32px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 52px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.yadeck-com-by-html .div-el-row-11 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-wrap: wrap;
+  gap: 0px 0px;
+  height: 139.19px;
+  position: relative;
+}
+
+.yadeck-com-by-html .p-px-xs-wrapper {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 139.19px;
+  max-width: 358px;
+  padding: 40px 0px 16px;
+  position: relative;
+  width: 358px;
+}
+
+.yadeck-com-by-html .p-px-xs {
+  align-self: stretch;
+  height: 83.19px;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .overlap-group-4 {
+  height: 84px;
+  left: 5px;
+  position: relative;
+  top: -2px;
+  width: 347px;
+}
+
+.yadeck-com-by-html .text-wrapper-15 {
+  color: var(--yadeckcompampas);
+  font-family: var(--yadeck-com-inter-thin-15-5-font-family);
+  font-size: var(--yadeck-com-inter-thin-15-5-font-size);
+  font-style: var(--yadeck-com-inter-thin-15-5-font-style);
+  font-weight: var(--yadeck-com-inter-thin-15-5-font-weight);
+  height: 21px;
+  left: 1px;
+  letter-spacing: var(--yadeck-com-inter-thin-15-5-letter-spacing);
+  line-height: var(--yadeck-com-inter-thin-15-5-line-height);
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  white-space: nowrap;
+}
+
+.yadeck-com-by-html .text-wrapper-16 {
+  color: var(--yadeckcompampas);
+  font-family: var(--yadeck-com-inter-bold-14-63-font-family);
+  font-size: var(--yadeck-com-inter-bold-14-63-font-size);
+  font-style: var(--yadeck-com-inter-bold-14-63-font-style);
+  font-weight: var(--yadeck-com-inter-bold-14-63-font-weight);
+  height: 21px;
+  left: 256px;
+  letter-spacing: var(--yadeck-com-inter-bold-14-63-letter-spacing);
+  line-height: var(--yadeck-com-inter-bold-14-63-line-height);
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+}
+
+.yadeck-com-by-html .text-wrapper-17 {
+  color: var(--yadeckcompampas);
+  font-family: var(--yadeck-com-inter-thin-15-font-family);
+  font-size: var(--yadeck-com-inter-thin-15-font-size);
+  font-style: var(--yadeck-com-inter-thin-15-font-style);
+  font-weight: var(--yadeck-com-inter-thin-15-font-weight);
+  height: 21px;
+  left: 325px;
+  letter-spacing: var(--yadeck-com-inter-thin-15-letter-spacing);
+  line-height: var(--yadeck-com-inter-thin-15-line-height);
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+}
+
+.yadeck-com-by-html .text-wrapper-18 {
+  color: var(--yadeckcompampas);
+  font-family: var(--yadeck-com-inter-thin-15-75-font-family);
+  font-size: var(--yadeck-com-inter-thin-15-75-font-size);
+  font-style: var(--yadeck-com-inter-thin-15-75-font-style);
+  font-weight: var(--yadeck-com-inter-thin-15-75-font-weight);
+  height: 21px;
+  left: 13px;
+  letter-spacing: var(--yadeck-com-inter-thin-15-75-letter-spacing);
+  line-height: var(--yadeck-com-inter-thin-15-75-line-height);
+  position: absolute;
+  text-align: center;
+  top: 22px;
+  white-space: nowrap;
+}
+
+.yadeck-com-by-html .text-wrapper-19 {
+  color: var(--yadeckcompampas);
+  font-family: var(--yadeck-com-inter-bold-14-63-font-family);
+  font-size: var(--yadeck-com-inter-bold-14-63-font-size);
+  font-style: var(--yadeck-com-inter-bold-14-63-font-style);
+  font-weight: var(--yadeck-com-inter-bold-14-63-font-weight);
+  height: 21px;
+  left: 240px;
+  letter-spacing: var(--yadeck-com-inter-bold-14-63-letter-spacing);
+  line-height: var(--yadeck-com-inter-bold-14-63-line-height);
+  position: absolute;
+  text-align: center;
+  top: 21px;
+  white-space: nowrap;
+}
+
+.yadeck-com-by-html .text-wrapper-20 {
+  color: var(--yadeckcompampas);
+  font-family: var(--yadeck-com-inter-bold-14-13-font-family);
+  font-size: var(--yadeck-com-inter-bold-14-13-font-size);
+  font-style: var(--yadeck-com-inter-bold-14-13-font-style);
+  font-weight: var(--yadeck-com-inter-bold-14-13-font-weight);
+  height: 21px;
+  left: 0;
+  letter-spacing: var(--yadeck-com-inter-bold-14-13-letter-spacing);
+  line-height: var(--yadeck-com-inter-bold-14-13-line-height);
+  position: absolute;
+  text-align: center;
+  top: 42px;
+  white-space: nowrap;
+}
+
+.yadeck-com-by-html .dans-le-tout-premier {
+  color: var(--yadeckcompampas);
+  font-family: var(--yadeck-com-inter-thin-15-5-font-family);
+  font-size: var(--yadeck-com-inter-thin-15-5-font-size);
+  font-style: var(--yadeck-com-inter-thin-15-5-font-style);
+  font-weight: var(--yadeck-com-inter-thin-15-5-font-weight);
+  height: 21px;
+  left: 51px;
+  letter-spacing: var(--yadeck-com-inter-thin-15-5-letter-spacing);
+  line-height: var(--yadeck-com-inter-thin-15-5-line-height);
+  position: absolute;
+  text-align: center;
+  top: 43px;
+  white-space: nowrap;
+}
+
+.yadeck-com-by-html .text-wrapper-21 {
+  color: var(--yadeckcompampas);
+  font-family: var(--yadeck-com-inter-thin-15-75-font-family);
+  font-size: var(--yadeck-com-inter-thin-15-75-font-size);
+  font-style: var(--yadeck-com-inter-thin-15-75-font-style);
+  font-weight: var(--yadeck-com-inter-thin-15-75-font-weight);
+  height: 21px;
+  left: 32px;
+  letter-spacing: var(--yadeck-com-inter-thin-15-75-letter-spacing);
+  line-height: var(--yadeck-com-inter-thin-15-75-line-height);
+  position: absolute;
+  text-align: center;
+  top: 63px;
+  white-space: nowrap;
+}
+
+.yadeck-com-by-html .div-el-row-12 {
+  height: 68.8px;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-triggers-scroll {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-el-row-13 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-wrap: wrap;
+  gap: 0px 0px;
+  height: 134px;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-triggers-wrapper {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 134px;
+  max-width: 358px;
+  position: relative;
+  width: 358px;
+}
+
+.yadeck-com-by-html .div-triggers {
+  align-self: stretch;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: transparent;
+  border-image: linear-gradient(to bottom, rgba(230, 130, 30, 0.3), rgba(234, 159, 59, 0.3) 0%) 1;
+  border-top-style: solid;
+  border-top-width: 1px;
+  height: 134px;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .div-p {
+  align-items: center;
+  display: inline-flex;
+  flex-direction: column;
+  padding: 0px 58.14px 0px 58.34px;
+  position: relative;
+  top: -9px;
+}
+
+.yadeck-com-by-html .semaine-du-au {
+  color: transparent;
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 100;
+  letter-spacing: 6px;
+  line-height: 50px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  width: 241.52px;
+}
+
+.yadeck-com-by-html .span-3 {
+  color: #f4f1ed;
+}
+
+.yadeck-com-by-html .span-4 {
+  color: #ea9f3b;
+}
+
+.yadeck-com-by-html .div-middle {
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: var(--yadeckcompampas-70);
+  border-top-style: solid;
+  border-top-width: 1px;
+  height: 134px;
+  left: 125px;
+  position: absolute;
+  top: 0;
+  width: 107px;
+}
+
+.yadeck-com-by-html .div-el-row-14 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-wrap: wrap;
+  gap: 0px 0px;
+  height: 371.45px;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-triggers-bet-wrapper {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  height: 371.45px;
+  max-width: 358px;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-triggers-bet {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 24px 0px 8px;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .div-d-flex-3 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  margin-right: -0.04px;
+  padding: 0px 9.82px 0px 9.82px;
+  position: relative;
+}
+
+.yadeck-com-by-html .span-card-margin {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 6.4px;
+  position: relative;
+}
+
+.yadeck-com-by-html .span-card {
+  height: 140px;
+  position: relative;
+  width: 100px;
+}
+
+.yadeck-com-by-html .span-background {
+  border: 1px solid;
+  border-color: var(--yadeckcompampas-30);
+  border-radius: 10px;
+  height: 142px;
+}
+
+.yadeck-com-by-html .overlap-group-5 {
+  height: 125px;
+  left: 6px;
+  position: relative;
+  top: 8px;
+  width: 88px;
+}
+
+.yadeck-com-by-html .span-py {
+  align-items: center;
+  display: inline-flex;
+  flex-direction: column;
+  left: 28px;
+  position: absolute;
+  top: 3px;
+}
+
+.yadeck-com-by-html .ajoute {
+  color: var(--yadeckcompampas);
+  font-family: var(--yadeck-com-inter-thin-7-5-upper-font-family);
+  font-size: var(--yadeck-com-inter-thin-7-5-upper-font-size);
+  font-style: var(--yadeck-com-inter-thin-7-5-upper-font-style);
+  font-weight: var(--yadeck-com-inter-thin-7-5-upper-font-weight);
+  letter-spacing: var(--yadeck-com-inter-thin-7-5-upper-letter-spacing);
+  line-height: var(--yadeck-com-inter-thin-7-5-upper-line-height);
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  width: 31.83px;
+}
+
+.yadeck-com-by-html .une-carte-wrapper {
+  align-items: center;
+  display: inline-flex;
+  flex-direction: column;
+  left: 21px;
+  position: absolute;
+  top: 79px;
+}
+
+.yadeck-com-by-html .une-carte {
+  color: #e6821e;
+  font-family: var(--yadeck-com-inter-thin-7-5-upper-font-family);
+  font-size: var(--yadeck-com-inter-thin-7-5-upper-font-size);
+  font-style: var(--yadeck-com-inter-thin-7-5-upper-font-style);
+  font-weight: var(--yadeck-com-inter-thin-7-5-upper-font-weight);
+  letter-spacing: var(--yadeck-com-inter-thin-7-5-upper-letter-spacing);
+  line-height: var(--yadeck-com-inter-thin-7-5-upper-line-height);
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  width: 46.09px;
+}
+
+.yadeck-com-by-html .span-inside-border {
+  border: 1px solid;
+  border-color: var(--yadeckcomtulip-tree-30);
+  height: 125px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 88px;
+}
+
+.yadeck-com-by-html .span-plus-container {
+  height: 39px;
+  left: 25px;
+  position: absolute;
+  top: 43px;
+  width: 39px;
+}
+
+.yadeck-com-by-html .div-d-flex-4 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  margin-top: -0.01px;
+  padding: 0px 49.28px 0px 49.27px;
+  position: relative;
+}
+
+.yadeck-com-by-html .button-margin {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  margin-left: -0.01px;
+  padding: 16px;
+  position: relative;
+}
+
+.yadeck-com-by-html .span-card-wrapper {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 7.33px 7.33px 7.33px 7.33px;
+  position: relative;
+  width: 114.66px;
+}
+
+.yadeck-com-by-html .span-background-wrapper {
+  align-self: stretch;
+  height: 140px;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .overlap-group-wrapper {
+  border: 1px solid;
+  border-color: var(--yadeckcompampas-30);
+  border-radius: 10px;
+  height: 142px;
+  width: 100px;
+}
+
+.yadeck-com-by-html .ajoute-wrapper {
+  align-items: center;
+  display: inline-flex;
+  flex-direction: column;
+  left: 28px;
+  padding: 5px 0px;
+  position: absolute;
+  top: 12px;
+}
+
+.yadeck-com-by-html .ajoute-2 {
+  color: var(--yadeckcompampas);
+  font-family: var(--yadeck-com-inter-regular-10-31-upper-font-family);
+  font-size: var(--yadeck-com-inter-regular-10-31-upper-font-size);
+  font-style: var(--yadeck-com-inter-regular-10-31-upper-font-style);
+  font-weight: var(--yadeck-com-inter-regular-10-31-upper-font-weight);
+  letter-spacing: var(--yadeck-com-inter-regular-10-31-upper-letter-spacing);
+  line-height: var(--yadeck-com-inter-regular-10-31-upper-line-height);
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  width: 31.83px;
+}
+
+.yadeck-com-by-html .span-py-2 {
+  align-items: center;
+  display: inline-flex;
+  flex-direction: column;
+  left: 21px;
+  padding: 5px 0px;
+  position: absolute;
+  top: 80px;
+}
+
+.yadeck-com-by-html .une-carte-2 {
+  color: #e6821e;
+  font-family: var(--yadeck-com-inter-regular-10-31-upper-font-family);
+  font-size: var(--yadeck-com-inter-regular-10-31-upper-font-size);
+  font-style: var(--yadeck-com-inter-regular-10-31-upper-font-style);
+  font-weight: var(--yadeck-com-inter-regular-10-31-upper-font-weight);
+  letter-spacing: var(--yadeck-com-inter-regular-10-31-upper-letter-spacing);
+  line-height: var(--yadeck-com-inter-regular-10-31-upper-line-height);
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  width: 46.09px;
+}
+
+.yadeck-com-by-html .span-plus-container-2 {
+  height: 34px;
+  left: 27px;
+  position: absolute;
+  top: 46px;
+  width: 34px;
+}
+
+.yadeck-com-by-html .div-el-row-15 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-wrap: wrap;
+  gap: 0px 0px;
+  height: 146px;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-el-col-6 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  height: 146px;
+  max-width: 358px;
+  padding: 48px 29px;
+  position: relative;
+}
+
+.yadeck-com-by-html .link-2 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  position: relative;
+}
+
+.yadeck-com-by-html .button-2 {
+  all: unset;
+  align-items: center;
+  background-color: #e6821e;
+  border: 1px solid;
+  border-radius: 5px;
+  box-sizing: border-box;
+  display: inline-flex;
+  flex: 0 0 auto;
+  height: 50px;
+  justify-content: center;
+  max-width: 300px;
+  padding: 18px 100.59px 18px 100.41px;
+  position: relative;
+}
+
+.yadeck-com-by-html .span-5 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  position: relative;
+}
+
+.yadeck-com-by-html .text-wrapper-22 {
+  color: var(--yadeckcomnero);
+  font-family: "Inter", Helvetica;
+  font-size: 13.2px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 14px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.yadeck-com-by-html .div-el-row-16 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0px 0px;
+  height: 1020.19px;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .div-earning-wrapper {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  height: 1020.19px;
+  max-width: 390px;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-earning {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  max-width: 1440px;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-px-3 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .div-el-row-17 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-el-col-7 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  justify-content: center;
+  max-width: 390px;
+  padding: 128px 24px 80px;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-el-row-18 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0px 0px;
+  height: 318.36px;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .div-el-col-8 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 15.38px;
+  height: 318.36px;
+  max-width: 342px;
+  padding: 0px 0px 16px;
+  position: relative;
+}
+
+.yadeck-com-by-html .pour-gagner-des-lots-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 129px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .text-wrapper-23 {
+  color: var(--yadeckcomblack);
+  font-family: var(--yadeck-com-inter-bold-32-font-family);
+  font-size: var(--yadeck-com-inter-bold-32-font-size);
+  font-style: var(--yadeck-com-inter-bold-32-font-style);
+  font-weight: var(--yadeck-com-inter-bold-32-font-weight);
+  letter-spacing: var(--yadeck-com-inter-bold-32-letter-spacing);
+  line-height: var(--yadeck-com-inter-bold-32-line-height);
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.yadeck-com-by-html .p-pb {
+  height: 119.98px;
+  position: relative;
+  width: 342px;
+}
+
+.yadeck-com-by-html .overlap-group-6 {
+  height: 105px;
+  position: relative;
+  top: -2px;
+  width: 315px;
+}
+
+.yadeck-com-by-html .text-wrapper-24 {
+  color: var(--yadeckcomblack);
+  font-family: var(--yadeck-com-inter-thin-15-75-font-family);
+  font-size: var(--yadeck-com-inter-thin-15-75-font-size);
+  font-style: var(--yadeck-com-inter-thin-15-75-font-style);
+  font-weight: var(--yadeck-com-inter-thin-15-75-font-weight);
+  height: 21px;
+  left: 0;
+  letter-spacing: var(--yadeck-com-inter-thin-15-75-letter-spacing);
+  line-height: var(--yadeck-com-inter-thin-15-75-line-height);
+  position: absolute;
+  top: 1px;
+  white-space: nowrap;
+}
+
+.yadeck-com-by-html .text-wrapper-25 {
+  color: var(--yadeckcomblack);
+  font-family: var(--yadeck-com-inter-bold-14-5-font-family);
+  font-size: var(--yadeck-com-inter-bold-14-5-font-size);
+  font-style: var(--yadeck-com-inter-bold-14-5-font-style);
+  font-weight: var(--yadeck-com-inter-bold-14-5-font-weight);
+  height: 21px;
+  left: 181px;
+  letter-spacing: var(--yadeck-com-inter-bold-14-5-letter-spacing);
+  line-height: var(--yadeck-com-inter-bold-14-5-line-height);
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.yadeck-com-by-html .text-wrapper-26 {
+  color: var(--yadeckcomblack);
+  font-family: var(--yadeck-com-inter-thin-15-5-font-family);
+  font-size: var(--yadeck-com-inter-thin-15-5-font-size);
+  font-style: var(--yadeck-com-inter-thin-15-5-font-style);
+  font-weight: var(--yadeck-com-inter-thin-15-5-font-weight);
+  height: 42px;
+  left: 0;
+  letter-spacing: var(--yadeck-com-inter-thin-15-5-letter-spacing);
+  line-height: var(--yadeck-com-inter-thin-15-5-line-height);
+  position: absolute;
+  top: 22px;
+}
+
+.yadeck-com-by-html .text-wrapper-27 {
+  color: var(--yadeckcomblack);
+  font-family: var(--yadeck-com-inter-bold-15-13-font-family);
+  font-size: var(--yadeck-com-inter-bold-15-13-font-size);
+  font-style: var(--yadeck-com-inter-bold-15-13-font-style);
+  font-weight: var(--yadeck-com-inter-bold-15-13-font-weight);
+  height: 21px;
+  left: 210px;
+  letter-spacing: var(--yadeck-com-inter-bold-15-13-letter-spacing);
+  line-height: var(--yadeck-com-inter-bold-15-13-line-height);
+  position: absolute;
+  top: 42px;
+  white-space: nowrap;
+}
+
+.yadeck-com-by-html .text-wrapper-28 {
+  color: var(--yadeckcomblack);
+  font-family: var(--yadeck-com-inter-thin-16-font-family);
+  font-size: var(--yadeck-com-inter-thin-16-font-size);
+  font-style: var(--yadeck-com-inter-thin-16-font-style);
+  font-weight: var(--yadeck-com-inter-thin-16-font-weight);
+  height: 21px;
+  left: 249px;
+  letter-spacing: var(--yadeck-com-inter-thin-16-letter-spacing);
+  line-height: var(--yadeck-com-inter-thin-16-line-height);
+  position: absolute;
+  top: 43px;
+  white-space: nowrap;
+}
+
+.yadeck-com-by-html .text-wrapper-29 {
+  color: var(--yadeckcomblack);
+  font-family: var(--yadeck-com-inter-bold-14-5-font-family);
+  font-size: var(--yadeck-com-inter-bold-14-5-font-size);
+  font-style: var(--yadeck-com-inter-bold-14-5-font-style);
+  font-weight: var(--yadeck-com-inter-bold-14-5-font-weight);
+  height: 21px;
+  left: 258px;
+  letter-spacing: var(--yadeck-com-inter-bold-14-5-letter-spacing);
+  line-height: var(--yadeck-com-inter-bold-14-5-line-height);
+  position: absolute;
+  top: 42px;
+  white-space: nowrap;
+}
+
+.yadeck-com-by-html .text-wrapper-30 {
+  color: var(--yadeckcomblack);
+  font-family: var(--yadeck-com-inter-bold-14-13-font-family);
+  font-size: var(--yadeck-com-inter-bold-14-13-font-size);
+  font-style: var(--yadeck-com-inter-bold-14-13-font-style);
+  font-weight: var(--yadeck-com-inter-bold-14-13-font-weight);
+  height: 21px;
+  left: 0;
+  letter-spacing: var(--yadeck-com-inter-bold-14-13-letter-spacing);
+  line-height: var(--yadeck-com-inter-bold-14-13-line-height);
+  position: absolute;
+  top: 62px;
+  white-space: nowrap;
+}
+
+.yadeck-com-by-html .ou {
+  color: var(--yadeckcomblack);
+  font-family: var(--yadeck-com-inter-thin-16-font-family);
+  font-size: var(--yadeck-com-inter-thin-16-font-size);
+  font-style: var(--yadeck-com-inter-thin-16-font-style);
+  font-weight: var(--yadeck-com-inter-thin-16-font-weight);
+  height: 21px;
+  left: 51px;
+  letter-spacing: var(--yadeck-com-inter-thin-16-letter-spacing);
+  line-height: var(--yadeck-com-inter-thin-16-line-height);
+  position: absolute;
+  top: 63px;
+  white-space: nowrap;
+}
+
+.yadeck-com-by-html .text-wrapper-31 {
+  color: var(--yadeckcomblack);
+  font-family: var(--yadeck-com-inter-bold-14-88-font-family);
+  font-size: var(--yadeck-com-inter-bold-14-88-font-size);
+  font-style: var(--yadeck-com-inter-bold-14-88-font-style);
+  font-weight: var(--yadeck-com-inter-bold-14-88-font-weight);
+  height: 21px;
+  left: 77px;
+  letter-spacing: var(--yadeck-com-inter-bold-14-88-letter-spacing);
+  line-height: var(--yadeck-com-inter-bold-14-88-line-height);
+  position: absolute;
+  top: 62px;
+  white-space: nowrap;
+}
+
+.yadeck-com-by-html .text-wrapper-32 {
+  color: var(--yadeckcomblack);
+  font-family: var(--yadeck-com-inter-thin-15-25-font-family);
+  font-size: var(--yadeck-com-inter-thin-15-25-font-size);
+  font-style: var(--yadeck-com-inter-thin-15-25-font-style);
+  font-weight: var(--yadeck-com-inter-thin-15-25-font-weight);
+  height: 21px;
+  left: 118px;
+  letter-spacing: var(--yadeck-com-inter-thin-15-25-letter-spacing);
+  line-height: var(--yadeck-com-inter-thin-15-25-line-height);
+  position: absolute;
+  top: 63px;
+  white-space: nowrap;
+}
+
+.yadeck-com-by-html .text-wrapper-33 {
+  color: var(--yadeckcomblack);
+  font-family: var(--yadeck-com-inter-thin-15-38-font-family);
+  font-size: var(--yadeck-com-inter-thin-15-38-font-size);
+  font-style: var(--yadeck-com-inter-thin-15-38-font-style);
+  font-weight: var(--yadeck-com-inter-thin-15-38-font-weight);
+  height: 21px;
+  left: 0;
+  letter-spacing: var(--yadeck-com-inter-thin-15-38-letter-spacing);
+  line-height: var(--yadeck-com-inter-thin-15-38-line-height);
+  position: absolute;
+  top: 84px;
+  white-space: nowrap;
+}
+
+.yadeck-com-by-html .div-xs-earning {
+  align-items: center;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: var(--yadeckcomwestar);
+  border-top-style: solid;
+  border-top-width: 1px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  justify-content: center;
+  max-width: 390px;
+  padding: 1px 54.09px 1px 54.08px;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-earnings {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-corner {
+  align-items: center;
+  align-self: stretch;
+  background-image: url(https://cdn.animaapp.com/projects/64c03199d05949cd3e9fc7e2/releases/65432d3ce71150547576378f/img/div-corner-background@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .div-slider-wrapper {
+  border: 1px solid;
+  border-color: var(--yadeckcomtuatara);
+  border-radius: 281.83px;
+  height: 281.83px;
+  max-width: 400px;
+  overflow: hidden;
+  position: relative;
+  width: 281.83px;
+}
+
+.yadeck-com-by-html .div-slider {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  left: -279px;
+  position: relative;
+  top: 1px;
+}
+
+.yadeck-com-by-html .div-earnings-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  padding: 0px 0px 0px 69.95px;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .div-earning-2 {
+  align-items: center;
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  justify-content: center;
+  padding: 0px 26.94px 0px 26.92px;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-images-container {
+  height: 227.45px;
+  position: relative;
+  width: 86.05px;
+  z-index: 1;
+}
+
+.yadeck-com-by-html .div-label-container {
+  height: 52.38px;
+  position: relative;
+  width: 62.58px;
+  z-index: 0;
+}
+
+.yadeck-com-by-html .div-earning-3 {
+  align-items: center;
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  justify-content: center;
+  padding: 0px 31.67px 0px 31.67px;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-images-container-2 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  justify-content: center;
+  padding: 51.72px 7.65px 51.73px 7.66px;
+  position: relative;
+  z-index: 1;
+}
+
+.yadeck-com-by-html .image-wrapper {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 124px;
+  position: relative;
+  width: 61.25px;
+}
+
+.yadeck-com-by-html .image {
+  align-self: stretch;
+  background-image: url(https://cdn.animaapp.com/projects/64c03199d05949cd3e9fc7e2/releases/65432d3ce71150547576378f/img/image@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  flex: 1;
+  flex-grow: 1;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .ether-wrapper {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  margin-top: -11px;
+  padding: 0px 0px 21.38px;
+  position: relative;
+  z-index: 0;
+}
+
+.yadeck-com-by-html .ether {
+  color: var(--yadeckcomtuatara);
+  font-family: var(--yadeck-com-inter-thin-25-55-upper-font-family);
+  font-size: var(--yadeck-com-inter-thin-25-55-upper-font-size);
+  font-style: var(--yadeck-com-inter-thin-25-55-upper-font-style);
+  font-weight: var(--yadeck-com-inter-thin-25-55-upper-font-weight);
+  letter-spacing: var(--yadeck-com-inter-thin-25-55-upper-letter-spacing);
+  line-height: var(--yadeck-com-inter-thin-25-55-upper-line-height);
+  margin-top: -1px;
+  position: relative;
+  width: 63.62px;
+}
+
+.yadeck-com-by-html .div-earning-4 {
+  align-items: center;
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  justify-content: center;
+  padding: 0px 11.34px 0px 11.35px;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-container-wrapper {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  justify-content: center;
+  padding: 51.72px 11.74px 51.73px 11.72px;
+  position: relative;
+  z-index: 1;
+}
+
+.yadeck-com-by-html .div-container {
+  align-items: center;
+  display: inline-flex;
+  height: 124px;
+  justify-content: center;
+  max-height: 147.84px;
+  max-width: 93.78px;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-el-image-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 124px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 94px;
+}
+
+.yadeck-com-by-html .image-2 {
+  align-self: stretch;
+  background-image: url(https://cdn.animaapp.com/projects/64c03199d05949cd3e9fc7e2/releases/65432d3ce71150547576378f/img/image-1@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  flex: 1;
+  flex-grow: 1;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .div-el-image-4 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 124px;
+  position: relative;
+  width: 93.76px;
+}
+
+.yadeck-com-by-html .image-3 {
+  align-self: stretch;
+  background-image: url(https://cdn.animaapp.com/projects/64c03199d05949cd3e9fc7e2/releases/65432d3ce71150547576378f/img/image-2@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  flex: 1;
+  flex-grow: 1;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .exclus-wrapper {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  margin-top: -10px;
+  padding: 0px 0px 20.38px;
+  position: relative;
+  z-index: 0;
+}
+
+.yadeck-com-by-html .exclus {
+  color: var(--yadeckcomtuatara);
+  font-family: var(--yadeck-com-inter-thin-24-96-upper-font-family);
+  font-size: var(--yadeck-com-inter-thin-24-96-upper-font-size);
+  font-style: var(--yadeck-com-inter-thin-24-96-upper-font-style);
+  font-weight: var(--yadeck-com-inter-thin-24-96-upper-font-weight);
+  letter-spacing: var(--yadeck-com-inter-thin-24-96-upper-letter-spacing);
+  line-height: var(--yadeck-com-inter-thin-24-96-upper-line-height);
+  margin-top: -1px;
+  position: relative;
+  width: 75.42px;
+}
+
+.yadeck-com-by-html .div-el-row-19 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-wrap: wrap;
+  gap: 0px 0px;
+  height: 210px;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-el-col-9 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  height: 210px;
+  max-width: 390px;
+  padding: 80px 45px;
+  position: relative;
+}
+
+.yadeck-com-by-html .link-3 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  position: relative;
+}
+
+.yadeck-com-by-html .span-6 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-el-row-20 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0px 0px;
+  height: 817.75px;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .div-limited-width-wrapper {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  height: 817.75px;
+  max-width: 390px;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-limited-width-2 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  max-width: 1440px;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-el-row-21 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 24px;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .div-el-col-10 {
+  align-items: flex-start;
+  background: linear-gradient(180deg, rgb(244, 241, 237) 30%, rgba(255, 255, 255, 0) 76%);
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  justify-content: center;
+  max-width: 390px;
+  padding: 128px 0px 0px;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-el-row-22 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0px 0px;
+  height: 297.56px;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .div-el-col-11 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 15.37px;
+  height: 297.56px;
+  max-width: 342px;
+  padding: 0px 0px 16px;
+  position: relative;
+}
+
+.yadeck-com-by-html .les-cartes-yadeck-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 152px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .p-pb-2 {
+  height: 99.19px;
+  position: relative;
+  width: 342px;
+}
+
+.yadeck-com-by-html .overlap-group-7 {
+  height: 83px;
+  position: relative;
+  top: -2px;
+  width: 325px;
+}
+
+.yadeck-com-by-html .text-wrapper-34 {
+  color: var(--yadeckcomblack);
+  font-family: var(--yadeck-com-inter-thin-16-font-family);
+  font-size: var(--yadeck-com-inter-thin-16-font-size);
+  font-style: var(--yadeck-com-inter-thin-16-font-style);
+  font-weight: var(--yadeck-com-inter-thin-16-font-weight);
+  height: 21px;
+  left: 0;
+  letter-spacing: var(--yadeck-com-inter-thin-16-letter-spacing);
+  line-height: var(--yadeck-com-inter-thin-16-line-height);
+  position: absolute;
+  top: 1px;
+  white-space: nowrap;
+}
+
+.yadeck-com-by-html .text-wrapper-35 {
+  color: var(--yadeckcomblack);
+  font-family: var(--yadeck-com-inter-bold-15-5-font-family);
+  font-size: var(--yadeck-com-inter-bold-15-5-font-size);
+  font-style: var(--yadeck-com-inter-bold-15-5-font-style);
+  font-weight: var(--yadeck-com-inter-bold-15-5-font-weight);
+  height: 21px;
+  left: 22px;
+  letter-spacing: var(--yadeck-com-inter-bold-15-5-letter-spacing);
+  line-height: var(--yadeck-com-inter-bold-15-5-line-height);
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.yadeck-com-by-html .de-la-carte-et-le {
+  color: var(--yadeckcomblack);
+  font-family: var(--yadeck-com-inter-thin-15-75-font-family);
+  font-size: var(--yadeck-com-inter-thin-15-75-font-size);
+  font-style: var(--yadeck-com-inter-thin-15-75-font-style);
+  font-weight: var(--yadeck-com-inter-thin-15-75-font-weight);
+  height: 21px;
+  left: 67px;
+  letter-spacing: var(--yadeck-com-inter-thin-15-75-letter-spacing);
+  line-height: var(--yadeck-com-inter-thin-15-75-line-height);
+  position: absolute;
+  top: 1px;
+  white-space: nowrap;
+}
+
+.yadeck-com-by-html .text-wrapper-36 {
+  color: var(--yadeckcomblack);
+  font-family: var(--yadeck-com-inter-bold-13-88-font-family);
+  font-size: var(--yadeck-com-inter-bold-13-88-font-size);
+  font-style: var(--yadeck-com-inter-bold-13-88-font-style);
+  font-weight: var(--yadeck-com-inter-bold-13-88-font-weight);
+  height: 21px;
+  left: 184px;
+  letter-spacing: var(--yadeck-com-inter-bold-13-88-letter-spacing);
+  line-height: var(--yadeck-com-inter-bold-13-88-line-height);
+  position: absolute;
+  top: 1px;
+  white-space: nowrap;
+}
+
+.yadeck-com-by-html .de-l-artiste {
+  color: var(--yadeckcomblack);
+  font-family: var(--yadeck-com-inter-thin-15-63-font-family);
+  font-size: var(--yadeck-com-inter-thin-15-63-font-size);
+  font-style: var(--yadeck-com-inter-thin-15-63-font-style);
+  font-weight: var(--yadeck-com-inter-thin-15-63-font-weight);
+  height: 21px;
+  left: 233px;
+  letter-spacing: var(--yadeck-com-inter-thin-15-63-letter-spacing);
+  line-height: var(--yadeck-com-inter-thin-15-63-line-height);
+  position: absolute;
+  top: 1px;
+  white-space: nowrap;
+}
+
+.yadeck-com-by-html .text-wrapper-37 {
+  color: var(--yadeckcomblack);
+  font-family: var(--yadeck-com-inter-bold-15-font-family);
+  font-size: var(--yadeck-com-inter-bold-15-font-size);
+  font-style: var(--yadeck-com-inter-bold-15-font-style);
+  font-weight: var(--yadeck-com-inter-bold-15-font-weight);
+  height: 21px;
+  left: 0;
+  letter-spacing: var(--yadeck-com-inter-bold-15-letter-spacing);
+  line-height: var(--yadeck-com-inter-bold-15-line-height);
+  position: absolute;
+  top: 62px;
+  white-space: nowrap;
+}
+
+.yadeck-com-by-html .div-el-col-12 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  justify-content: center;
+  max-width: 390px;
+  position: relative;
+  width: 342px;
+}
+
+.yadeck-com-by-html .image-4 {
+  align-self: stretch;
+  background-image: url(https://cdn.animaapp.com/projects/64c03199d05949cd3e9fc7e2/releases/65432d3ce71150547576378f/img/image-3@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 316.19px;
+  max-width: 342px;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .div-el-row-23 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0px 0px;
+  height: 76px;
+  padding: 24px 48px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .link-button-wrapper {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  height: 52px;
+  max-width: 390px;
+  position: relative;
+}
+
+.yadeck-com-by-html .link-button {
+  align-items: flex-start;
+  background-color: #e6821e;
+  border-radius: 5px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  padding: 17px 83.41px 17px 83.59px;
+  position: relative;
+}
+
+.yadeck-com-by-html .text-wrapper-38 {
+  color: var(--yadeckcompampas);
+  font-family: var(--yadeck-com-inter-regular-14-88-font-family);
+  font-size: var(--yadeck-com-inter-regular-14-88-font-size);
+  font-style: var(--yadeck-com-inter-regular-14-88-font-style);
+  font-weight: var(--yadeck-com-inter-regular-14-88-font-weight);
+  letter-spacing: var(--yadeck-com-inter-regular-14-88-letter-spacing);
+  line-height: var(--yadeck-com-inter-regular-14-88-line-height);
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.yadeck-com-by-html .div-el-row-24 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0px 0px;
+  height: 634.38px;
+  padding: 72px 0px 48.01px;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .div-el-col-13 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  height: 514.37px;
+  max-width: 390px;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-m-xs-wrapper {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  max-width: 1440px;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-m-xs {
+  align-items: flex-start;
+  align-self: stretch;
+  background-image: url(https://cdn.animaapp.com/projects/64c03199d05949cd3e9fc7e2/releases/65432d3ce71150547576378f/img/div-m-0-xs.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 24px 16px 80px;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .div-el-row-25 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-wrap: wrap;
+  gap: 0px 0px;
+  height: 191px;
+  padding: 24px 0px 0px;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-el-col-14 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  height: 167px;
+  max-width: 358px;
+  position: relative;
+}
+
+.yadeck-com-by-html .suivez-l-actualit-de-wrapper {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 9.54e-7px 51.9px 0px 52.1px;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .suivez-l-actualit-de {
+  color: transparent;
+  font-family: "Inter", Helvetica;
+  font-size: 32px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 41.6px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.yadeck-com-by-html .text-wrapper-39 {
+  color: #f4f1ed;
+  font-family: var(--yadeck-com-inter-bold-32-upper-font-family);
+  font-size: var(--yadeck-com-inter-bold-32-upper-font-size);
+  font-style: var(--yadeck-com-inter-bold-32-upper-font-style);
+  font-weight: var(--yadeck-com-inter-bold-32-upper-font-weight);
+  letter-spacing: var(--yadeck-com-inter-bold-32-upper-letter-spacing);
+  line-height: var(--yadeck-com-inter-bold-32-upper-line-height);
+}
+
+.yadeck-com-by-html .text-wrapper-40 {
+  color: #ea9f3b;
+  font-family: var(--yadeck-com-inter-bold-32-lower-font-family);
+  font-size: var(--yadeck-com-inter-bold-32-lower-font-size);
+  font-style: var(--yadeck-com-inter-bold-32-lower-font-style);
+  font-weight: var(--yadeck-com-inter-bold-32-lower-font-weight);
+  letter-spacing: var(--yadeck-com-inter-bold-32-lower-letter-spacing);
+  line-height: var(--yadeck-com-inter-bold-32-lower-line-height);
+}
+
+.yadeck-com-by-html .div-el-row-26 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  margin-top: -0.63px;
+  padding: 0px 24px;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-el-col-15 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  max-width: 358px;
+  padding: 24px 0px 0px;
+  position: relative;
+}
+
+.yadeck-com-by-html .link-4 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  position: relative;
+}
+
+.yadeck-com-by-html .button-3 {
+  all: unset;
+  align-items: center;
+  background-color: var(--yadeckcompicton-blue);
+  border: 1px solid;
+  border-color: var(--yadeckcompicton-blue);
+  border-radius: 5px;
+  box-sizing: border-box;
+  display: inline-flex;
+  flex: 0 0 auto;
+  height: 50px;
+  justify-content: center;
+  max-width: 310px;
+  min-width: 310px;
+  padding: 13px 110.9px 13px 110.91px;
+  position: relative;
+}
+
+.yadeck-com-by-html .span-7 {
+  height: 24px;
+  position: relative;
+  width: 88.19px;
+}
+
+.yadeck-com-by-html .div-el-image-5 {
+  height: 24px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 24px;
+}
+
+.yadeck-com-by-html .twitter {
+  color: var(--yadeckcomnero);
+  font-family: "Inter", Helvetica;
+  font-size: 13.7px;
+  font-weight: 500;
+  height: 14px;
+  left: 27px;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  text-align: center;
+  top: 3px;
+  white-space: nowrap;
+}
+
+.yadeck-com-by-html .link-5 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  position: relative;
+}
+
+.yadeck-com-by-html .button-4 {
+  all: unset;
+  align-items: center;
+  background-color: var(--yadeckcomchetwode-blue);
+  border: 1px solid;
+  border-color: var(--yadeckcomchetwode-blue);
+  border-radius: 5px;
+  box-sizing: border-box;
+  display: inline-flex;
+  flex: 0 0 auto;
+  height: 50px;
+  justify-content: center;
+  max-width: 310px;
+  min-width: 310px;
+  padding: 13px 110.68px 13px 110.69px;
+  position: relative;
+}
+
+.yadeck-com-by-html .span-8 {
+  height: 24px;
+  position: relative;
+  width: 88.63px;
+}
+
+.yadeck-com-by-html .discord {
+  color: var(--yadeckcomnero);
+  font-family: "Inter", Helvetica;
+  font-size: 13.6px;
+  font-weight: 500;
+  height: 14px;
+  left: 27px;
+  letter-spacing: 0;
+  line-height: 14px;
+  position: absolute;
+  text-align: center;
+  top: 3px;
+  white-space: nowrap;
+}
+
+.yadeck-com-by-html .link-6 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  position: relative;
+}
+
+.yadeck-com-by-html .button-5 {
+  all: unset;
+  align-items: center;
+  background: radial-gradient(
+    50% 50% at 50% 50%,
+    rgb(55, 113, 200) 0%,
+    rgb(55, 113, 200) 12.8%,
+    rgba(102, 0, 255, 0) 100%
+  );
+  border-radius: 5px;
+  box-sizing: border-box;
+  display: inline-flex;
+  flex: 0 0 auto;
+  height: 48px;
+  justify-content: center;
+  max-width: 310px;
+  min-width: 310px;
+  padding: 10px 97.83px 10px 98.03px;
+  position: relative;
+}
+
+.yadeck-com-by-html .span-9 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 3.38px;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-el-image-6 {
+  height: 24px;
+  position: relative;
+  width: 24px;
+}
+
+.yadeck-com-by-html .instagram {
+  color: var(--yadeckcomnero);
+  font-family: "Inter", Helvetica;
+  font-size: 14px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 14px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  width: 86.76px;
+}
+
+.yadeck-com-by-html .footer {
+  align-items: flex-start;
+  background-color: var(--yadeckcomtuatara);
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  position: absolute;
+  top: 5970px;
+  width: 390px;
+}
+
+.yadeck-com-by-html .div-el-row-27 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0px 0px;
+  height: 525px;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .div-el-col-16 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  height: 525px;
+  max-width: 390px;
+  padding: 50px 0px;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-el-row-28 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .div-el-col-17 {
+  flex: 0 0 auto;
+  max-width: 390px;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-el-select-wrapper {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  justify-content: center;
+  max-width: 390px;
+  padding: 11.66px 111px 6.34px;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-wrapper-2 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-el-input-wrapper {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--yadeckcomnero-02);
+  border-radius: 4px;
+  box-shadow: inset 0px 0px 0px 1px #ffffff;
+  display: inline-flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  overflow: hidden;
+  padding: 1px 11px;
+  position: relative;
+}
+
+.yadeck-com-by-html .span-el-input-prefix {
+  align-items: center;
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  padding: 7px 8px 7px 0px;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-el-image-7 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  height: 16px;
+  position: relative;
+  width: 16px;
+}
+
+.yadeck-com-by-html .image-5 {
+  background-position: 50% 50%;
+  background-size: cover;
+  flex: 1;
+  flex-grow: 1;
+  position: relative;
+  width: 16px;
+}
+
+.yadeck-com-by-html .input {
+  align-items: flex-start;
+  background-color: var(--yadeckcomtuatara);
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  height: 30px;
+  padding: 0px 0px 0px 37px;
+  position: relative;
+}
+
+.yadeck-com-by-html .fr-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 45px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .fr {
+  color: var(--yadeckcompampas);
+  font-family: "Inter", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.yadeck-com-by-html .span-el-input-suffix {
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-el-row-29 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .div-el-col-18 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  max-width: 390px;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-el-row-30 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0px 0px;
+  height: 50px;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .link-politique-de-wrapper {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  height: 50px;
+  max-width: 390px;
+  padding: 0px 89.9px 0px 90.1px;
+  position: relative;
+}
+
+.yadeck-com-by-html .text-wrapper-41 {
+  color: var(--yadeckcompampas);
+  font-family: "Inter", Helvetica;
+  font-size: 17.3px;
+  font-weight: 100;
+  letter-spacing: 0;
+  line-height: 50px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.yadeck-com-by-html .div-el-row-31 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0px 0px;
+  height: 50px;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .link-conditions-g-n-wrapper {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  height: 50px;
+  max-width: 390px;
+  padding: 0px 111.4px 0px 111.6px;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-el-row-32 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0px 0px;
+  height: 50px;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .link-les-cartes-wrapper {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  height: 50px;
+  max-width: 195px;
+  padding: 0px 55.9px 0px 56.1px;
+  position: relative;
+}
+
+.yadeck-com-by-html .link-aide-wrapper {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  height: 50px;
+  max-width: 195px;
+  padding: 0px 79.9px 0px 80.1px;
+  position: relative;
+}
+
+.yadeck-com-by-html .link-aide {
+  color: var(--yadeckcompampas);
+  font-family: "Inter", Helvetica;
+  font-size: 17px;
+  font-weight: 100;
+  letter-spacing: 0;
+  line-height: 50px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.yadeck-com-by-html .div-el-row-33 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0px 0px;
+  height: 50px;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .link-le-concept-wrapper {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  height: 50px;
+  max-width: 195px;
+  padding: 0px 54.4px 0px 54.6px;
+  position: relative;
+}
+
+.yadeck-com-by-html .link-le-concept {
+  color: var(--yadeckcompampas);
+  font-family: "Inter", Helvetica;
+  font-size: 16.6px;
+  font-weight: 100;
+  letter-spacing: 0;
+  line-height: 50px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.yadeck-com-by-html .link-presse-wrapper {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  height: 50px;
+  max-width: 195px;
+  padding: 0px 69.91px 0px 70.09px;
+  position: relative;
+}
+
+.yadeck-com-by-html .link-presse {
+  color: var(--yadeckcompampas);
+  font-family: "Inter", Helvetica;
+  font-size: 17.9px;
+  font-weight: 100;
+  letter-spacing: 0;
+  line-height: 50px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.yadeck-com-by-html .div-el-row-34 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0px 0px;
+  height: 50px;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .link-le-jeu-wrapper {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  height: 50px;
+  max-width: 195px;
+  padding: 0px 72.89px 0px 73.11px;
+  position: relative;
+}
+
+.yadeck-com-by-html .link-contact-wrapper {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  height: 50px;
+  max-width: 195px;
+  padding: 0px 66.4px 0px 66.6px;
+  position: relative;
+}
+
+.yadeck-com-by-html .link-contact {
+  color: var(--yadeckcompampas);
+  font-family: "Inter", Helvetica;
+  font-size: 16.7px;
+  font-weight: 100;
+  letter-spacing: 0;
+  line-height: 50px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.yadeck-com-by-html .div-el-col-19 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  max-width: 390px;
+  padding: 8px 0px 0px;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-el-row-35 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0px 0px;
+  height: 51px;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .div-el-col-20 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  height: 51px;
+  max-width: 130px;
+  padding: 16px 20.88px 15px 20.88px;
+  position: relative;
+}
+
+.yadeck-com-by-html .link-7 {
+  height: 20px;
+  position: relative;
+  width: 88.22px;
+}
+
+.yadeck-com-by-html .text-wrapper-42 {
+  color: var(--yadeckcompampas);
+  font-family: "Inter", Helvetica;
+  font-size: 15.2px;
+  font-weight: 100;
+  height: 50px;
+  left: 40px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  text-align: center;
+  top: -16px;
+  white-space: nowrap;
+}
+
+.yadeck-com-by-html .div-el-col-21 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  height: 51px;
+  max-width: 130px;
+  padding: 16px 8.96px 15px 8.97px;
+  position: relative;
+}
+
+.yadeck-com-by-html .link-8 {
+  height: 20px;
+  position: relative;
+  width: 112.05px;
+}
+
+.yadeck-com-by-html .text-wrapper-43 {
+  color: var(--yadeckcompampas);
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 100;
+  height: 50px;
+  left: 40px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  text-align: center;
+  top: -16px;
+  white-space: nowrap;
+}
+
+.yadeck-com-by-html .div-el-col-22 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  height: 51px;
+  max-width: 130px;
+  padding: 16px 18.27px 15px 18.26px;
+  position: relative;
+}
+
+.yadeck-com-by-html .link-9 {
+  height: 20px;
+  position: relative;
+  width: 93.45px;
+}
+
+.yadeck-com-by-html .text-wrapper-44 {
+  color: var(--yadeckcompampas);
+  font-family: "Inter", Helvetica;
+  font-size: 15.4px;
+  font-weight: 100;
+  height: 50px;
+  left: 40px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  text-align: center;
+  top: -16px;
+  white-space: nowrap;
+}
+
+.yadeck-com-by-html .header {
+  background-color: var(--yadeckcompampas);
+  height: 70px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 390px;
+}
+
+.yadeck-com-by-html .div-el-row-36 {
+  align-items: flex-start;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0px 0px;
+  height: 71px;
+  position: relative;
+  width: 390px;
+}
+
+.yadeck-com-by-html .div-el-col-23 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  height: 71px;
+  max-width: 390px;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-el-row-37 {
+  align-items: flex-start;
+  align-self: stretch;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: var(--yadeckcomwestar);
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0px 0px;
+  height: 70px;
+  padding: 0px 0px 1px;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .div-el-col-24 {
+  flex: 0 0 auto;
+  height: 69px;
+  max-width: 81.25px;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-el-col-25 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  height: 69px;
+  max-width: 162.5px;
+  padding: 0px 16px 0px 0px;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-d-flex-5 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  justify-content: center;
+  padding: 8.41px 0px 8.4px 16px;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .button-6 {
+  all: unset;
+  align-items: center;
+  background-color: var(--yadeckcomchateau-green);
+  border: 1px solid;
+  border-color: var(--yadeckcomchateau-green);
+  border-radius: 5px;
+  box-sizing: border-box;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 16px 31.66px 17.19px 31.84px;
+  position: relative;
+}
+
+.yadeck-com-by-html .text-wrapper-45 {
+  color: var(--yadeckcomnero);
+  font-family: var(--yadeck-com-inter-bold-12-58-font-family);
+  font-size: var(--yadeck-com-inter-bold-12-58-font-size);
+  font-style: var(--yadeck-com-inter-bold-12-58-font-style);
+  font-weight: var(--yadeck-com-inter-bold-12-58-font-weight);
+  letter-spacing: var(--yadeck-com-inter-bold-12-58-letter-spacing);
+  line-height: var(--yadeck-com-inter-bold-12-58-line-height);
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.yadeck-com-by-html .div-el-col-26 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  height: 69px;
+  max-width: 146.25px;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-d-flex-6 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  justify-content: center;
+  padding: 8.41px 8px 8.4px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .button-7 {
+  all: unset;
+  align-items: center;
+  background-color: #e6821e;
+  border-radius: 5px;
+  box-sizing: border-box;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 16px 34.52px 17.19px 34.73px;
+  position: relative;
+}
+
+.yadeck-com-by-html .text-wrapper-46 {
+  color: var(--yadeckcompampas);
+  font-family: var(--yadeck-com-inter-bold-13-02-font-family);
+  font-size: var(--yadeck-com-inter-bold-13-02-font-size);
+  font-style: var(--yadeck-com-inter-bold-13-02-font-style);
+  font-weight: var(--yadeck-com-inter-bold-13-02-font-weight);
+  letter-spacing: var(--yadeck-com-inter-bold-13-02-letter-spacing);
+  line-height: var(--yadeck-com-inter-bold-13-02-line-height);
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.yadeck-com-by-html .menubar-wrapper {
+  align-self: stretch;
+  height: 1px;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .menubar {
+  align-items: flex-start;
+  border-color: var(--yadeckcommischka);
+  border-right-style: solid;
+  border-right-width: 1px;
+  display: flex;
+  flex-direction: column;
+  height: 1px;
+  padding: 0px 1px 0px 0px;
+  position: relative;
+  width: 390px;
+}
+
+.yadeck-com-by-html .main-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  position: absolute;
+}
+
+.yadeck-com-by-html .div-mx-wrapper {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  max-width: 1440px;
+  padding: 0px 112px;
+  position: absolute;
+  top: 0;
+}
+
+.yadeck-com-by-html .div-el-row-38 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .div-el-col-27 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-headband-2 {
+  align-items: flex-start;
+  flex: 0 0 auto;
+  flex-direction: column;
+  max-width: 1440px;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-el-row-39 {
+  align-self: stretch;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .div-el-col-28 {
+  align-items: flex-start;
+  flex-direction: column;
+}
+
+.yadeck-com-by-html .div-el-carousel-3 {
+  align-self: stretch;
+  height: 575.52px;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .overlap-group-8 {
+  height: 576px;
+  left: -597px;
+  position: relative;
+  width: 1791px;
+}
+
+.yadeck-com-by-html .div-el-carousel-item-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 576px;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 597px;
+}
+
+.yadeck-com-by-html .carroussel-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  height: 575.84px;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .carroussel-2 {
+  align-self: stretch;
+  background-image: url(https://cdn.animaapp.com/projects/64c03199d05949cd3e9fc7e2/releases/65432d3ce71150547576378f/img/carroussel1.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  flex: 1;
+  flex-grow: 1;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-el-carousel-item-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 576px;
+  left: 597px;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 597px;
+}
+
+.yadeck-com-by-html .carroussel-3 {
+  align-self: stretch;
+  background-image: url(https://cdn.animaapp.com/projects/64c03199d05949cd3e9fc7e2/releases/65432d3ce71150547576378f/img/carroussel2.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  flex: 1;
+  flex-grow: 1;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-el-carousel-item-4 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 576px;
+  left: 1194px;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 597px;
+}
+
+.yadeck-com-by-html .div-duplicated-title {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: -427px;
+  max-width: 248.89px;
+  padding: 80px 48px 80px 128px;
+  position: absolute;
+  top: 80px;
+  width: 249px;
+}
+
+.yadeck-com-by-html .heading-2 {
+  align-self: stretch;
+  height: 360px;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .digital-2 {
+  color: var(--yadeckcomnero);
+  font-family: "Inter", Helvetica;
+  font-size: 120px;
+  font-weight: 700;
+  height: 120px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 120px;
+  position: absolute;
+  top: 3px;
+  white-space: nowrap;
+}
+
+.yadeck-com-by-html .rap-2 {
+  color: var(--yadeckcomnero);
+  font-family: "Inter", Helvetica;
+  font-size: 120px;
+  font-weight: 700;
+  height: 120px;
+  left: 240px;
+  letter-spacing: 0;
+  line-height: 120px;
+  position: absolute;
+  top: 123px;
+  white-space: nowrap;
+}
+
+.yadeck-com-by-html .league-2 {
+  color: var(--yadeckcomnero);
+  font-family: "Inter", Helvetica;
+  font-size: 120px;
+  font-weight: 700;
+  height: 120px;
+  left: 120px;
+  letter-spacing: 0;
+  line-height: 120px;
+  position: absolute;
+  top: 243px;
+  white-space: nowrap;
+}
+
+.yadeck-com-by-html .digital-3 {
+  color: var(--yadeckcomblack);
+  font-family: "Inter", Helvetica;
+  font-size: 120px;
+  font-weight: 700;
+  height: 120px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 120px;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.yadeck-com-by-html .rap-3 {
+  color: var(--yadeckcomblack);
+  font-family: "Inter", Helvetica;
+  font-size: 120px;
+  font-weight: 700;
+  height: 120px;
+  left: 240px;
+  letter-spacing: 0;
+  line-height: 120px;
+  position: absolute;
+  top: 119px;
+  white-space: nowrap;
+}
+
+.yadeck-com-by-html .league-3 {
+  color: var(--yadeckcomblack);
+  font-family: "Inter", Helvetica;
+  font-size: 120px;
+  font-weight: 700;
+  height: 120px;
+  left: 120px;
+  letter-spacing: 0;
+  line-height: 120px;
+  position: absolute;
+  top: 239px;
+  white-space: nowrap;
+}
+
+.yadeck-com-by-html .div-4 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 16px;
+  position: relative;
+}
+
+.yadeck-com-by-html .p-appearing-2 {
+  height: 41.59px;
+  position: relative;
+  width: 424px;
+}
+
+.yadeck-com-by-html .overlap-group-9 {
+  height: 43px;
+  position: relative;
+  top: -2px;
+  width: 388px;
+}
+
+.yadeck-com-by-html .text-wrapper-47 {
+  color: var(--yadeckcomblack);
+  font-family: var(--yadeck-com-inter-bold-14-63-font-family);
+  font-size: var(--yadeck-com-inter-bold-14-63-font-size);
+  font-style: var(--yadeck-com-inter-bold-14-63-font-style);
+  font-weight: var(--yadeck-com-inter-bold-14-63-font-weight);
+  height: 21px;
+  left: 0;
+  letter-spacing: var(--yadeck-com-inter-bold-14-63-letter-spacing);
+  line-height: var(--yadeck-com-inter-bold-14-63-line-height);
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.yadeck-com-by-html .sur-tes-artistes-2 {
+  color: var(--yadeckcomblack);
+  font-family: var(--yadeck-com-inter-thin-15-75-font-family);
+  font-size: var(--yadeck-com-inter-thin-15-75-font-size);
+  font-style: var(--yadeck-com-inter-thin-15-75-font-style);
+  font-weight: var(--yadeck-com-inter-thin-15-75-font-weight);
+  height: 21px;
+  left: 34px;
+  letter-spacing: var(--yadeck-com-inter-thin-15-75-letter-spacing);
+  line-height: var(--yadeck-com-inter-thin-15-75-line-height);
+  position: absolute;
+  top: 1px;
+  white-space: nowrap;
+}
+
+.yadeck-com-by-html .text-wrapper-48 {
+  color: var(--yadeckcomblack);
+  font-family: var(--yadeck-com-inter-thin-16-font-family);
+  font-size: var(--yadeck-com-inter-thin-16-font-size);
+  font-style: var(--yadeck-com-inter-thin-16-font-style);
+  font-weight: var(--yadeck-com-inter-thin-16-font-weight);
+  height: 21px;
+  left: 0;
+  letter-spacing: var(--yadeck-com-inter-thin-16-letter-spacing);
+  line-height: var(--yadeck-com-inter-thin-16-line-height);
+  position: absolute;
+  top: 22px;
+  white-space: nowrap;
+}
+
+.yadeck-com-by-html .text-wrapper-49 {
+  color: var(--yadeckcomblack);
+  font-family: var(--yadeck-com-inter-bold-15-13-font-family);
+  font-size: var(--yadeck-com-inter-bold-15-13-font-size);
+  font-style: var(--yadeck-com-inter-bold-15-13-font-style);
+  font-weight: var(--yadeck-com-inter-bold-15-13-font-weight);
+  height: 21px;
+  left: 60px;
+  letter-spacing: var(--yadeck-com-inter-bold-15-13-letter-spacing);
+  line-height: var(--yadeck-com-inter-bold-15-13-line-height);
+  position: absolute;
+  top: 21px;
+  white-space: nowrap;
+}
+
+.yadeck-com-by-html .text-wrapper-50 {
+  color: var(--yadeckcomblack);
+  font-family: var(--yadeck-com-inter-thin-16-font-family);
+  font-size: var(--yadeck-com-inter-thin-16-font-size);
+  font-style: var(--yadeck-com-inter-thin-16-font-style);
+  font-weight: var(--yadeck-com-inter-thin-16-font-weight);
+  height: 21px;
+  left: 143px;
+  letter-spacing: var(--yadeck-com-inter-thin-16-letter-spacing);
+  line-height: var(--yadeck-com-inter-thin-16-line-height);
+  position: absolute;
+  top: 22px;
+  white-space: nowrap;
+}
+
+.yadeck-com-by-html .div-headband-3 {
+  align-items: flex-start;
+  flex-direction: column;
+}
+
+.yadeck-com-by-html .digital-4 {
+  color: var(--yadeckcomblack);
+  font-family: "Inter", Helvetica;
+  font-size: 120px;
+  font-weight: 700;
+  height: 120px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 120px;
+  position: absolute;
+  top: 3px;
+  white-space: nowrap;
+}
+
+.yadeck-com-by-html .rap-4 {
+  color: var(--yadeckcomblack);
+  font-family: "Inter", Helvetica;
+  font-size: 120px;
+  font-weight: 700;
+  height: 120px;
+  left: 240px;
+  letter-spacing: 0;
+  line-height: 120px;
+  position: absolute;
+  top: 123px;
+  white-space: nowrap;
+}
+
+.yadeck-com-by-html .league-4 {
+  color: var(--yadeckcomblack);
+  font-family: "Inter", Helvetica;
+  font-size: 120px;
+  font-weight: 700;
+  height: 120px;
+  left: 120px;
+  letter-spacing: 0;
+  line-height: 120px;
+  position: absolute;
+  top: 243px;
+  white-space: nowrap;
+}
+
+.yadeck-com-by-html .p-appearing-3 {
+  height: 62.39px;
+  position: relative;
+  width: 250.66px;
+}
+
+.yadeck-com-by-html .overlap-group-10 {
+  height: 64px;
+  position: relative;
+  top: -2px;
+  width: 241px;
+}
+
+.yadeck-com-by-html .text-wrapper-51 {
+  color: var(--yadeckcomblack);
+  font-family: var(--yadeck-com-inter-thin-15-63-font-family);
+  font-size: var(--yadeck-com-inter-thin-15-63-font-size);
+  font-style: var(--yadeck-com-inter-thin-15-63-font-style);
+  font-weight: var(--yadeck-com-inter-thin-15-63-font-weight);
+  height: 21px;
+  left: 0;
+  letter-spacing: var(--yadeck-com-inter-thin-15-63-letter-spacing);
+  line-height: var(--yadeck-com-inter-thin-15-63-line-height);
+  position: absolute;
+  top: 22px;
+  white-space: nowrap;
+}
+
+.yadeck-com-by-html .text-wrapper-52 {
+  color: var(--yadeckcomblack);
+  font-family: var(--yadeck-com-inter-bold-15-13-font-family);
+  font-size: var(--yadeck-com-inter-bold-15-13-font-size);
+  font-style: var(--yadeck-com-inter-bold-15-13-font-style);
+  font-weight: var(--yadeck-com-inter-bold-15-13-font-weight);
+  height: 21px;
+  left: 0;
+  letter-spacing: var(--yadeck-com-inter-bold-15-13-letter-spacing);
+  line-height: var(--yadeck-com-inter-bold-15-13-line-height);
+  position: absolute;
+  top: 42px;
+  white-space: nowrap;
+}
+
+.yadeck-com-by-html .text-wrapper-53 {
+  color: var(--yadeckcomblack);
+  font-family: var(--yadeck-com-inter-thin-16-font-family);
+  font-size: var(--yadeck-com-inter-thin-16-font-size);
+  font-style: var(--yadeck-com-inter-thin-16-font-style);
+  font-weight: var(--yadeck-com-inter-thin-16-font-weight);
+  height: 21px;
+  left: 83px;
+  letter-spacing: var(--yadeck-com-inter-thin-16-letter-spacing);
+  line-height: var(--yadeck-com-inter-thin-16-line-height);
+  position: absolute;
+  top: 43px;
+  white-space: nowrap;
+}
+
+.yadeck-com-by-html .button-8 {
+  all: unset;
+  align-items: center;
+  background-color: #e6821e;
+  border: 1px solid;
+  border-radius: 5px;
+  box-sizing: border-box;
+  display: inline-flex;
+  height: 50px;
+  justify-content: center;
+  max-width: 300px;
+  padding: 18px 62.08px 18px 62.06px;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-el-carousel-4 {
+  align-self: stretch;
+  height: 809.78px;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .div-el-carousel-item-5 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 810px;
+  position: relative;
+  width: 840px;
+}
+
+.yadeck-com-by-html .div-el-image-8 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  height: 809.78px;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .div-duplicated-title-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: -600px;
+  max-width: 350px;
+  padding: 80px 48px 80px 128px;
+  position: absolute;
+  top: 0;
+  width: 350px;
+}
+
+.yadeck-com-by-html .div-el-row-40 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0px 0px;
+  height: 608px;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .div-el-col-29 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  height: 608px;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-artists-and-2 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  max-width: 1440px;
+  position: relative;
+}
+
+.yadeck-com-by-html .body-wrapper {
+  align-self: stretch;
+  height: 608px;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .youtube-video-player-wrapper {
+  align-items: flex-start;
+  background-color: var(--yadeckcomblack);
+  display: flex;
+  flex-direction: column;
+  height: 472px;
+  position: relative;
+  top: 112px;
+  width: 840px;
+}
+
+.yadeck-com-by-html .youtube-video-player-2 {
+  align-self: stretch;
+  background-color: var(--yadeckcomblack);
+  flex: 1;
+  flex-grow: 1;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .overlap-group-11 {
+  height: 472px;
+  position: relative;
+  width: 840px;
+}
+
+.yadeck-com-by-html .img-wrapper {
+  background-size: 100% 100%;
+  height: 472px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 840px;
+}
+
+.yadeck-com-by-html .button-play-SVG-2 {
+  height: 48px;
+  left: 386px;
+  position: absolute;
+  top: 212px;
+  width: 68px;
+}
+
+.yadeck-com-by-html .link-watch-on {
+  align-items: flex-start;
+  background-color: var(--yadeckcomcod-gray-80);
+  border-radius: 0px 2px 2px 0px;
+  display: flex;
+  flex-direction: column;
+  height: 47px;
+  left: 0;
+  padding: 16px 0px 15px;
+  position: absolute;
+  top: 420px;
+  width: 172px;
+}
+
+.yadeck-com-by-html .div-ytp-impression {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 9px;
+  padding: 0px 12px;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .div-ytp-impression-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  padding: 0px 0.05px 0px 0px;
+  position: relative;
+  width: 67.05px;
+}
+
+.yadeck-com-by-html .text-wrapper-54 {
+  color: var(--yadeckcomnero);
+  font-family: "Roboto", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 16px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.yadeck-com-by-html .div-ytp-impression-3 {
+  align-self: stretch;
+  object-fit: cover;
+  position: relative;
+  width: 72px;
+}
+
+.yadeck-com-by-html .div-ytp-gradient-top-2 {
+  height: 99px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 840px;
+}
+
+.yadeck-com-by-html .div-ytp-chrome-top-2 {
+  align-items: flex-start;
+  display: flex;
+  justify-content: flex-end;
+  left: 12px;
+  position: absolute;
+  top: 0;
+  width: 816px;
+}
+
+.yadeck-com-by-html .div-ytp-title-text-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  min-height: 52px;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-ytp-title-text-2 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  max-width: 748px;
+  padding: 21px 0px 15.79px 50px;
+  position: relative;
+}
+
+.yadeck-com-by-html .link-10 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 244px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .button-share-wrapper {
+  all: unset;
+  align-items: flex-start;
+  align-self: stretch;
+  box-sizing: border-box;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 10px;
+  position: relative;
+}
+
+.yadeck-com-by-html .button-share {
+  all: unset;
+  align-items: center;
+  box-sizing: border-box;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  max-width: 80px;
+  min-width: 48px;
+  opacity: 0.9;
+  padding: 6px 0px 0px;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-ytp-share-icon {
+  height: 36px;
+  position: relative;
+  width: 36px;
+}
+
+.yadeck-com-by-html .div-ytp-share-title {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 5.35px 0px 5.65px;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .text-wrapper-55 {
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 0;
+  color: var(--yadeckcomgallery);
+  display: -webkit-box;
+  font-family: var(--yadeck-com-roboto-medium-14-font-family);
+  font-size: var(--yadeck-com-roboto-medium-14-font-size);
+  font-style: var(--yadeck-com-roboto-medium-14-font-style);
+  font-weight: var(--yadeck-com-roboto-medium-14-font-weight);
+  letter-spacing: var(--yadeck-com-roboto-medium-14-letter-spacing);
+  line-height: var(--yadeck-com-roboto-medium-14-line-height);
+  margin-top: -1px;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  text-overflow: ellipsis;
+  text-shadow: 0px 0px 2px #00000080;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.yadeck-com-by-html .div-ytp-title-beacon {
+  border-radius: 25px;
+  position: absolute;
+}
+
+.yadeck-com-by-html .div-el-row-41 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .div-el-col-30 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-text-align-2 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  max-width: 1440px;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-el-row-42 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-wrap: wrap;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .div-el-col-31 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  position: relative;
+}
+
+.yadeck-com-by-html .heading-3 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-5 {
+  color: var(--yadeckcomblack);
+  font-family: "Inter", Helvetica;
+  font-size: 40px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 52px;
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.yadeck-com-by-html .div-el-col-32 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 4px;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-el-col-33 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-d-flex-7 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .warnermusicgroup-2 {
+  background-position: 50% 50%;
+  background-size: cover;
+  flex: 1;
+  flex-grow: 1;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-el-col-34 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-d-flex-8 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .snep-da-png {
+  background-image: url(https://cdn.animaapp.com/projects/64c03199d05949cd3e9fc7e2/releases/65432d3ce71150547576378f/img/snep-d8a13431-png@2x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  flex: 1;
+  flex-grow: 1;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-el-col-35 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-d-flex-9 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .booskap-cf-png {
+  background-position: 50% 50%;
+  background-size: cover;
+  flex: 1;
+  flex-grow: 1;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-el-row-43 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .div-el-col-36 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-cards-2 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  max-width: 1440px;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-el-row-44 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .div-el-col-37 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  padding: 0px 48px;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-el-carousel-5 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .div-el-carousel-item-6 {
+  align-items: center;
+  display: inline-flex;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-image-container-2 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+}
+
+.yadeck-com-by-html .franglish-expert-wrapper {
+  align-items: flex-start;
+  display: inline-flex;
+  justify-content: center;
+  max-height: 553px;
+  padding: 0px 4px;
+  position: relative;
+}
+
+.yadeck-com-by-html .franglish-expert {
+  align-self: stretch;
+  background-position: 50% 50%;
+  background-size: cover;
+  flex: 1;
+  flex-grow: 1;
+  max-height: 553px;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-image-shadow-wrapper {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-image-shadow-3 {
+  background-color: var(--yadeckcomtuatara);
+  filter: blur(4px);
+  height: 13px;
+  opacity: 0.2;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-el-col-38 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-el-row-45 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .div-el-col-39 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 16px;
+  padding: 0px 0px 16px;
+  position: relative;
+}
+
+.yadeck-com-by-html .heading-4 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .p-pt-2 {
+  height: 73.59px;
+  position: relative;
+}
+
+.yadeck-com-by-html .overlap-4 {
+  height: 43px;
+  position: relative;
+  top: 6px;
+  width: 296px;
+}
+
+.yadeck-com-by-html .overlap-group-12 {
+  height: 43px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 249px;
+}
+
+.yadeck-com-by-html .text-wrapper-56 {
+  color: var(--yadeckcomblack);
+  font-family: var(--yadeck-com-inter-bold-14-25-font-family);
+  font-size: var(--yadeck-com-inter-bold-14-25-font-size);
+  font-style: var(--yadeck-com-inter-bold-14-25-font-style);
+  font-weight: var(--yadeck-com-inter-bold-14-25-font-weight);
+  height: 21px;
+  left: 0;
+  letter-spacing: var(--yadeck-com-inter-bold-14-25-letter-spacing);
+  line-height: var(--yadeck-com-inter-bold-14-25-line-height);
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.yadeck-com-by-html .text-wrapper-57 {
+  color: var(--yadeckcomblack);
+  font-family: var(--yadeck-com-inter-thin-16-font-family);
+  font-size: var(--yadeck-com-inter-thin-16-font-size);
+  font-style: var(--yadeck-com-inter-thin-16-font-style);
+  font-weight: var(--yadeck-com-inter-thin-16-font-weight);
+  height: 21px;
+  left: 50px;
+  letter-spacing: var(--yadeck-com-inter-thin-16-letter-spacing);
+  line-height: var(--yadeck-com-inter-thin-16-line-height);
+  position: absolute;
+  top: 1px;
+  white-space: nowrap;
+}
+
+.yadeck-com-by-html .text-wrapper-58 {
+  color: var(--yadeckcomblack);
+  font-family: var(--yadeck-com-inter-bold-14-63-font-family);
+  font-size: var(--yadeck-com-inter-bold-14-63-font-size);
+  font-style: var(--yadeck-com-inter-bold-14-63-font-style);
+  font-weight: var(--yadeck-com-inter-bold-14-63-font-weight);
+  height: 21px;
+  left: 58px;
+  letter-spacing: var(--yadeck-com-inter-bold-14-63-letter-spacing);
+  line-height: var(--yadeck-com-inter-bold-14-63-line-height);
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.yadeck-com-by-html .text-wrapper-59 {
+  color: var(--yadeckcomblack);
+  font-family: var(--yadeck-com-inter-thin-16-font-family);
+  font-size: var(--yadeck-com-inter-thin-16-font-size);
+  font-style: var(--yadeck-com-inter-thin-16-font-style);
+  font-weight: var(--yadeck-com-inter-thin-16-font-weight);
+  height: 21px;
+  left: 147px;
+  letter-spacing: var(--yadeck-com-inter-thin-16-letter-spacing);
+  line-height: var(--yadeck-com-inter-thin-16-line-height);
+  position: absolute;
+  top: 1px;
+  white-space: nowrap;
+}
+
+.yadeck-com-by-html .et-2 {
+  color: var(--yadeckcomblack);
+  font-family: var(--yadeck-com-inter-thin-16-font-family);
+  font-size: var(--yadeck-com-inter-thin-16-font-size);
+  font-style: var(--yadeck-com-inter-thin-16-font-style);
+  font-weight: var(--yadeck-com-inter-thin-16-font-weight);
+  height: 21px;
+  left: 216px;
+  letter-spacing: var(--yadeck-com-inter-thin-16-letter-spacing);
+  line-height: var(--yadeck-com-inter-thin-16-line-height);
+  position: absolute;
+  top: 1px;
+  white-space: nowrap;
+}
+
+.yadeck-com-by-html .text-wrapper-60 {
+  color: var(--yadeckcomblack);
+  font-family: var(--yadeck-com-inter-thin-15-5-font-family);
+  font-size: var(--yadeck-com-inter-thin-15-5-font-size);
+  font-style: var(--yadeck-com-inter-thin-15-5-font-style);
+  font-weight: var(--yadeck-com-inter-thin-15-5-font-weight);
+  height: 21px;
+  left: 0;
+  letter-spacing: var(--yadeck-com-inter-thin-15-5-letter-spacing);
+  line-height: var(--yadeck-com-inter-thin-15-5-line-height);
+  position: absolute;
+  top: 22px;
+  white-space: nowrap;
+}
+
+.yadeck-com-by-html .text-wrapper-61 {
+  color: var(--yadeckcomblack);
+  font-family: var(--yadeck-com-inter-bold-14-38-font-family);
+  font-size: var(--yadeck-com-inter-bold-14-38-font-size);
+  font-style: var(--yadeck-com-inter-bold-14-38-font-style);
+  font-weight: var(--yadeck-com-inter-bold-14-38-font-weight);
+  height: 21px;
+  left: 155px;
+  letter-spacing: var(--yadeck-com-inter-bold-14-38-letter-spacing);
+  line-height: var(--yadeck-com-inter-bold-14-38-line-height);
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.yadeck-com-by-html .text-wrapper-62 {
+  color: var(--yadeckcomblack);
+  font-family: var(--yadeck-com-inter-bold-14-63-font-family);
+  font-size: var(--yadeck-com-inter-bold-14-63-font-size);
+  font-style: var(--yadeck-com-inter-bold-14-63-font-style);
+  font-weight: var(--yadeck-com-inter-bold-14-63-font-weight);
+  height: 21px;
+  left: 238px;
+  letter-spacing: var(--yadeck-com-inter-bold-14-63-letter-spacing);
+  line-height: var(--yadeck-com-inter-bold-14-63-line-height);
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.yadeck-com-by-html .div-el-row-46 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0px 0px;
+  height: 50px;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .div-el-col-40 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  height: 50px;
+  position: relative;
+}
+
+.yadeck-com-by-html .link-11 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.yadeck-com-by-html .span-10 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-el-row-47 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .div-el-col-41 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-bet-for-success-2 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--yadeckcomcod-gray);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .div-px-wrapper {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  max-width: 1440px;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-px-4 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .div-el-row-48 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-wrap: wrap;
+  gap: 0px 0px;
+  height: 104px;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-el-col-42 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  height: 104px;
+  position: relative;
+}
+
+.yadeck-com-by-html .heading-5 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .mise-sur-le-succ-s-2 {
+  color: var(--yadeckcompampas);
+  font-family: "Inter", Helvetica;
+  font-size: 40px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 52px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.yadeck-com-by-html .div-el-row-49 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-wrap: wrap;
+  gap: 0px 0px;
+  height: 97.59px;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-el-col-43 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 97.59px;
+  position: relative;
+}
+
+.yadeck-com-by-html .p-px-xs-2 {
+  align-self: stretch;
+  height: 41.59px;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .overlap-group-13 {
+  position: relative;
+}
+
+.yadeck-com-by-html .text-wrapper-63 {
+  color: var(--yadeckcompampas);
+  font-family: var(--yadeck-com-inter-thin-15-5-font-family);
+  font-size: var(--yadeck-com-inter-thin-15-5-font-size);
+  font-style: var(--yadeck-com-inter-thin-15-5-font-style);
+  font-weight: var(--yadeck-com-inter-thin-15-5-font-weight);
+  height: 21px;
+  left: 0;
+  letter-spacing: var(--yadeck-com-inter-thin-15-5-letter-spacing);
+  line-height: var(--yadeck-com-inter-thin-15-5-line-height);
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.yadeck-com-by-html .text-wrapper-64 {
+  color: var(--yadeckcompampas);
+  font-family: var(--yadeck-com-inter-bold-14-63-font-family);
+  font-size: var(--yadeck-com-inter-bold-14-63-font-size);
+  font-style: var(--yadeck-com-inter-bold-14-63-font-style);
+  font-weight: var(--yadeck-com-inter-bold-14-63-font-weight);
+  height: 21px;
+  left: 256px;
+  letter-spacing: var(--yadeck-com-inter-bold-14-63-letter-spacing);
+  line-height: var(--yadeck-com-inter-bold-14-63-line-height);
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.yadeck-com-by-html .text-wrapper-65 {
+  color: var(--yadeckcompampas);
+  font-family: var(--yadeck-com-inter-thin-15-75-font-family);
+  font-size: var(--yadeck-com-inter-thin-15-75-font-size);
+  font-style: var(--yadeck-com-inter-thin-15-75-font-style);
+  font-weight: var(--yadeck-com-inter-thin-15-75-font-weight);
+  height: 21px;
+  left: 324px;
+  letter-spacing: var(--yadeck-com-inter-thin-15-75-letter-spacing);
+  line-height: var(--yadeck-com-inter-thin-15-75-line-height);
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.yadeck-com-by-html .text-wrapper-66 {
+  color: var(--yadeckcompampas);
+  font-family: var(--yadeck-com-inter-bold-14-5-font-family);
+  font-size: var(--yadeck-com-inter-bold-14-5-font-size);
+  font-style: var(--yadeck-com-inter-bold-14-5-font-style);
+  font-weight: var(--yadeck-com-inter-bold-14-5-font-weight);
+  height: 21px;
+  left: 578px;
+  letter-spacing: var(--yadeck-com-inter-bold-14-5-letter-spacing);
+  line-height: var(--yadeck-com-inter-bold-14-5-line-height);
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.yadeck-com-by-html .dans-le-tout-premier-2 {
+  color: var(--yadeckcompampas);
+  left: 727px;
+  position: absolute;
+  text-align: center;
+}
+
+.yadeck-com-by-html .ligne-bas-sur-les {
+  color: var(--yadeckcompampas);
+  height: 21px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.yadeck-com-by-html .div-el-row-50 {
+  height: 116.8px;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-triggers-scroll-2 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-el-row-51 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-wrap: wrap;
+  gap: 0px 0px;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-el-col-44 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-p-wrapper {
+  align-self: stretch;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: transparent;
+  border-image: linear-gradient(to bottom, rgba(230, 130, 30, 0.3), rgba(234, 159, 59, 0.3) 0%) 1;
+  border-top-style: solid;
+  border-top-width: 1px;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .semaine-du-au-wrapper {
+  align-items: center;
+  display: inline-flex;
+  flex-direction: column;
+  position: relative;
+  top: -28px;
+}
+
+.yadeck-com-by-html .semaine-du-au-2 {
+  color: transparent;
+  font-family: "Inter", Helvetica;
+  font-size: 31px;
+  font-weight: 100;
+  letter-spacing: 14px;
+  line-height: 74px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+}
+
+.yadeck-com-by-html .div-middle-2 {
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: var(--yadeckcompampas-70);
+  border-top-style: solid;
+  border-top-width: 1px;
+  position: absolute;
+  top: 0;
+}
+
+.yadeck-com-by-html .div-el-row-52 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-wrap: wrap;
+  gap: 0px 0px;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-el-col-45 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 0px 48px;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-triggers-bet-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: var(--yadeckcompampas-30);
+  display: flex;
+  flex: 0 0 auto;
+  padding: 48px 0px 49px;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .div-d-flex-10 {
+  align-items: center;
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  position: relative;
+}
+
+.yadeck-com-by-html .span-card-margin-2 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 16px;
+  position: relative;
+}
+
+.yadeck-com-by-html .span-card-2 {
+  position: relative;
+}
+
+.yadeck-com-by-html .span-background-2 {
+  border: 1px solid;
+  border-color: var(--yadeckcompampas-30);
+  border-radius: 10px;
+}
+
+.yadeck-com-by-html .overlap-group-14 {
+  position: relative;
+}
+
+.yadeck-com-by-html .span-py-3 {
+  align-items: center;
+  display: inline-flex;
+  flex-direction: column;
+  position: absolute;
+}
+
+.yadeck-com-by-html .ajoute-3 {
+  color: var(--yadeckcompampas);
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+}
+
+.yadeck-com-by-html .span-py-4 {
+  align-items: center;
+  display: inline-flex;
+  flex-direction: column;
+  position: absolute;
+}
+
+.yadeck-com-by-html .une-carte-3 {
+  color: #e6821e;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+}
+
+.yadeck-com-by-html .span-inside-border-2 {
+  border: 1px solid;
+  border-color: var(--yadeckcomtulip-tree-30);
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.yadeck-com-by-html .span-plus-container-3 {
+  height: 65px;
+  position: absolute;
+  width: 65px;
+}
+
+.yadeck-com-by-html .span-card-margin-3 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 16px;
+  position: relative;
+}
+
+.yadeck-com-by-html .span-card-3 {
+  position: relative;
+}
+
+.yadeck-com-by-html .span-background-3 {
+  border: 1px solid;
+  border-color: var(--yadeckcompampas-30);
+  border-radius: 10px;
+}
+
+.yadeck-com-by-html .overlap-group-15 {
+  position: relative;
+}
+
+.yadeck-com-by-html .span-py-5 {
+  align-items: center;
+  display: inline-flex;
+  flex-direction: column;
+  position: absolute;
+}
+
+.yadeck-com-by-html .ajoute-4 {
+  color: var(--yadeckcompampas);
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+}
+
+.yadeck-com-by-html .span-py-6 {
+  align-items: center;
+  display: inline-flex;
+  flex-direction: column;
+  position: absolute;
+}
+
+.yadeck-com-by-html .une-carte-4 {
+  color: #e6821e;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+}
+
+.yadeck-com-by-html .span-inside-border-3 {
+  border: 1px solid;
+  border-color: var(--yadeckcomtulip-tree-30);
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.yadeck-com-by-html .span-plus-container-4 {
+  height: 65px;
+  position: absolute;
+  width: 65px;
+}
+
+.yadeck-com-by-html .span-card-margin-4 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 16px;
+  position: relative;
+}
+
+.yadeck-com-by-html .span-card-4 {
+  position: relative;
+}
+
+.yadeck-com-by-html .span-background-4 {
+  border: 1px solid;
+  border-color: var(--yadeckcompampas-30);
+  border-radius: 10px;
+}
+
+.yadeck-com-by-html .overlap-group-16 {
+  position: relative;
+}
+
+.yadeck-com-by-html .span-py-7 {
+  align-items: center;
+  display: inline-flex;
+  flex-direction: column;
+  position: absolute;
+}
+
+.yadeck-com-by-html .ajoute-5 {
+  color: var(--yadeckcompampas);
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+}
+
+.yadeck-com-by-html .span-py-8 {
+  align-items: center;
+  display: inline-flex;
+  flex-direction: column;
+  position: absolute;
+}
+
+.yadeck-com-by-html .une-carte-5 {
+  color: #e6821e;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+}
+
+.yadeck-com-by-html .span-inside-border-4 {
+  border: 1px solid;
+  border-color: var(--yadeckcomtulip-tree-30);
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.yadeck-com-by-html .span-plus-container-5 {
+  height: 65px;
+  position: absolute;
+  width: 65px;
+}
+
+.yadeck-com-by-html .div-d-flex-11 {
+  align-items: center;
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  position: relative;
+}
+
+.yadeck-com-by-html .span-card-margin-5 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 16px;
+  position: relative;
+}
+
+.yadeck-com-by-html .span-card-5 {
+  position: relative;
+}
+
+.yadeck-com-by-html .span-background-5 {
+  border: 1px solid;
+  border-color: var(--yadeckcompampas-30);
+  border-radius: 10px;
+}
+
+.yadeck-com-by-html .overlap-group-17 {
+  position: relative;
+}
+
+.yadeck-com-by-html .span-py-9 {
+  align-items: center;
+  display: inline-flex;
+  flex-direction: column;
+  position: absolute;
+}
+
+.yadeck-com-by-html .ajoute-6 {
+  color: var(--yadeckcompampas);
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+}
+
+.yadeck-com-by-html .span-py-10 {
+  align-items: center;
+  display: inline-flex;
+  flex-direction: column;
+  position: absolute;
+}
+
+.yadeck-com-by-html .une-carte-6 {
+  color: #e6821e;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+}
+
+.yadeck-com-by-html .span-inside-border-5 {
+  border: 1px solid;
+  border-color: var(--yadeckcomtulip-tree-30);
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.yadeck-com-by-html .span-plus-container-6 {
+  height: 65px;
+  position: absolute;
+  width: 65px;
+}
+
+.yadeck-com-by-html .button-margin-2 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 16px;
+  position: relative;
+}
+
+.yadeck-com-by-html .button-9 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 2px;
+  position: relative;
+}
+
+.yadeck-com-by-html .span-card-6 {
+  align-self: stretch;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .span-background-6 {
+  border: 1px solid;
+  border-color: var(--yadeckcompampas-30);
+  border-radius: 10px;
+}
+
+.yadeck-com-by-html .overlap-group-18 {
+  position: relative;
+}
+
+.yadeck-com-by-html .span-py-11 {
+  align-items: center;
+  display: inline-flex;
+  flex-direction: column;
+  position: absolute;
+}
+
+.yadeck-com-by-html .ajoute-7 {
+  color: var(--yadeckcompampas);
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+}
+
+.yadeck-com-by-html .span-py-12 {
+  align-items: center;
+  display: inline-flex;
+  flex-direction: column;
+  position: absolute;
+}
+
+.yadeck-com-by-html .une-carte-7 {
+  color: #e6821e;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+}
+
+.yadeck-com-by-html .span-inside-border-6 {
+  border: 1px solid;
+  border-color: var(--yadeckcomtulip-tree-30);
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.yadeck-com-by-html .span-plus-container-7 {
+  height: 55px;
+  position: absolute;
+  width: 55px;
+}
+
+.yadeck-com-by-html .div-el-col-46 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  height: 146px;
+  position: relative;
+}
+
+.yadeck-com-by-html .link-12 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  position: relative;
+}
+
+.yadeck-com-by-html .span-11 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-el-row-53 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .div-el-col-47 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-earning-5 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  max-width: 1440px;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-el-row-54 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-wrap: wrap;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .div-el-col-48 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-el-row-55 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .div-el-col-49 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 16px;
+  padding: 0px 0px 16px;
+  position: relative;
+}
+
+.yadeck-com-by-html .heading-6 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .p-pb-3 {
+  position: relative;
+}
+
+.yadeck-com-by-html .overlap-group-19 {
+  position: relative;
+  top: -2px;
+}
+
+.yadeck-com-by-html .contenus {
+  color: var(--yadeckcomblack);
+  height: 21px;
+  left: 181px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.yadeck-com-by-html .exclusifs {
+  color: var(--yadeckcomblack);
+  height: 21px;
+  position: absolute;
+  white-space: nowrap;
+}
+
+.yadeck-com-by-html .propos-s-par-les {
+  color: var(--yadeckcomblack);
+  height: 21px;
+  position: absolute;
+  white-space: nowrap;
+}
+
+.yadeck-com-by-html .text-wrapper-67 {
+  color: var(--yadeckcomblack);
+  font-family: var(--yadeck-com-inter-thin-16-font-family);
+  font-size: var(--yadeck-com-inter-thin-16-font-size);
+  font-style: var(--yadeck-com-inter-thin-16-font-style);
+  font-weight: var(--yadeck-com-inter-thin-16-font-weight);
+  height: 21px;
+  left: 44px;
+  letter-spacing: var(--yadeck-com-inter-thin-16-letter-spacing);
+  line-height: var(--yadeck-com-inter-thin-16-line-height);
+  position: absolute;
+  top: 43px;
+  white-space: nowrap;
+}
+
+.yadeck-com-by-html .text-wrapper-68 {
+  color: var(--yadeckcomblack);
+  font-family: var(--yadeck-com-inter-bold-14-38-font-family);
+  font-size: var(--yadeck-com-inter-bold-14-38-font-size);
+  font-style: var(--yadeck-com-inter-bold-14-38-font-style);
+  font-weight: var(--yadeck-com-inter-bold-14-38-font-weight);
+  height: 21px;
+  left: 52px;
+  letter-spacing: var(--yadeck-com-inter-bold-14-38-letter-spacing);
+  line-height: var(--yadeck-com-inter-bold-14-38-line-height);
+  position: absolute;
+  top: 42px;
+  white-space: nowrap;
+}
+
+.yadeck-com-by-html .ou-2 {
+  color: var(--yadeckcomblack);
+  font-family: var(--yadeck-com-inter-thin-16-font-family);
+  font-size: var(--yadeck-com-inter-thin-16-font-size);
+  font-style: var(--yadeck-com-inter-thin-16-font-style);
+  font-weight: var(--yadeck-com-inter-thin-16-font-weight);
+  height: 21px;
+  left: 153px;
+  letter-spacing: var(--yadeck-com-inter-thin-16-letter-spacing);
+  line-height: var(--yadeck-com-inter-thin-16-line-height);
+  position: absolute;
+  top: 43px;
+  white-space: nowrap;
+}
+
+.yadeck-com-by-html .text-wrapper-69 {
+  color: var(--yadeckcomblack);
+  font-family: var(--yadeck-com-inter-bold-14-88-font-family);
+  font-size: var(--yadeck-com-inter-bold-14-88-font-size);
+  font-style: var(--yadeck-com-inter-bold-14-88-font-style);
+  font-weight: var(--yadeck-com-inter-bold-14-88-font-weight);
+  height: 21px;
+  left: 178px;
+  letter-spacing: var(--yadeck-com-inter-bold-14-88-letter-spacing);
+  line-height: var(--yadeck-com-inter-bold-14-88-line-height);
+  position: absolute;
+  top: 42px;
+  white-space: nowrap;
+}
+
+.yadeck-com-by-html .text-wrapper-70 {
+  color: var(--yadeckcomblack);
+  font-family: var(--yadeck-com-inter-thin-15-25-font-family);
+  font-size: var(--yadeck-com-inter-thin-15-25-font-size);
+  font-style: var(--yadeck-com-inter-thin-15-25-font-style);
+  font-weight: var(--yadeck-com-inter-thin-15-25-font-weight);
+  height: 21px;
+  left: 220px;
+  letter-spacing: var(--yadeck-com-inter-thin-15-25-letter-spacing);
+  line-height: var(--yadeck-com-inter-thin-15-25-line-height);
+  position: absolute;
+  top: 43px;
+  white-space: nowrap;
+}
+
+.yadeck-com-by-html .text-wrapper-71 {
+  color: var(--yadeckcomblack);
+  font-family: var(--yadeck-com-inter-thin-15-38-font-family);
+  font-size: var(--yadeck-com-inter-thin-15-38-font-size);
+  font-style: var(--yadeck-com-inter-thin-15-38-font-style);
+  font-weight: var(--yadeck-com-inter-thin-15-38-font-weight);
+  height: 21px;
+  left: 0;
+  letter-spacing: var(--yadeck-com-inter-thin-15-38-letter-spacing);
+  line-height: var(--yadeck-com-inter-thin-15-38-line-height);
+  position: absolute;
+  top: 63px;
+  white-space: nowrap;
+}
+
+.yadeck-com-by-html .achetant-leurs {
+  color: var(--yadeckcomblack);
+  font-family: var(--yadeck-com-inter-thin-15-5-font-family);
+  font-size: var(--yadeck-com-inter-thin-15-5-font-size);
+  font-style: var(--yadeck-com-inter-thin-15-5-font-style);
+  font-weight: var(--yadeck-com-inter-thin-15-5-font-weight);
+  height: 42px;
+  left: 0;
+  letter-spacing: var(--yadeck-com-inter-thin-15-5-letter-spacing);
+  line-height: var(--yadeck-com-inter-thin-15-5-line-height);
+  position: absolute;
+  top: 43px;
+}
+
+.yadeck-com-by-html .text-wrapper-72 {
+  color: var(--yadeckcomblack);
+  font-family: var(--yadeck-com-inter-bold-15-13-font-family);
+  font-size: var(--yadeck-com-inter-bold-15-13-font-size);
+  font-style: var(--yadeck-com-inter-bold-15-13-font-style);
+  font-weight: var(--yadeck-com-inter-bold-15-13-font-weight);
+  height: 21px;
+  left: 64px;
+  letter-spacing: var(--yadeck-com-inter-bold-15-13-letter-spacing);
+  line-height: var(--yadeck-com-inter-bold-15-13-line-height);
+  position: absolute;
+  top: 62px;
+  white-space: nowrap;
+}
+
+.yadeck-com-by-html .text-wrapper-73 {
+  color: var(--yadeckcomblack);
+  font-family: var(--yadeck-com-inter-thin-16-font-family);
+  font-size: var(--yadeck-com-inter-thin-16-font-size);
+  font-style: var(--yadeck-com-inter-thin-16-font-style);
+  font-weight: var(--yadeck-com-inter-thin-16-font-weight);
+  height: 21px;
+  left: 103px;
+  letter-spacing: var(--yadeck-com-inter-thin-16-letter-spacing);
+  line-height: var(--yadeck-com-inter-thin-16-line-height);
+  position: absolute;
+  top: 63px;
+  white-space: nowrap;
+}
+
+.yadeck-com-by-html .text-wrapper-74 {
+  color: var(--yadeckcomblack);
+  font-family: var(--yadeck-com-inter-bold-14-38-font-family);
+  font-size: var(--yadeck-com-inter-bold-14-38-font-size);
+  font-style: var(--yadeck-com-inter-bold-14-38-font-style);
+  font-weight: var(--yadeck-com-inter-bold-14-38-font-weight);
+  height: 21px;
+  left: 111px;
+  letter-spacing: var(--yadeck-com-inter-bold-14-38-letter-spacing);
+  line-height: var(--yadeck-com-inter-bold-14-38-line-height);
+  position: absolute;
+  top: 62px;
+  white-space: nowrap;
+}
+
+.yadeck-com-by-html .ou-3 {
+  color: var(--yadeckcomblack);
+  font-family: var(--yadeck-com-inter-thin-16-font-family);
+  font-size: var(--yadeck-com-inter-thin-16-font-size);
+  font-style: var(--yadeck-com-inter-thin-16-font-style);
+  font-weight: var(--yadeck-com-inter-thin-16-font-weight);
+  height: 42px;
+  left: 212px;
+  letter-spacing: var(--yadeck-com-inter-thin-16-letter-spacing);
+  line-height: var(--yadeck-com-inter-thin-16-line-height);
+  position: absolute;
+  top: 52px;
+  width: 22px;
+}
+
+.yadeck-com-by-html .text-wrapper-75 {
+  color: var(--yadeckcomblack);
+  font-family: var(--yadeck-com-inter-bold-14-88-font-family);
+  font-size: var(--yadeck-com-inter-bold-14-88-font-size);
+  font-style: var(--yadeck-com-inter-bold-14-88-font-style);
+  font-weight: var(--yadeck-com-inter-bold-14-88-font-weight);
+  height: 21px;
+  left: 0;
+  letter-spacing: var(--yadeck-com-inter-bold-14-88-letter-spacing);
+  line-height: var(--yadeck-com-inter-bold-14-88-line-height);
+  position: absolute;
+  top: 83px;
+  white-space: nowrap;
+}
+
+.yadeck-com-by-html .text-wrapper-76 {
+  color: var(--yadeckcomblack);
+  font-family: var(--yadeck-com-inter-thin-15-25-font-family);
+  font-size: var(--yadeck-com-inter-thin-15-25-font-size);
+  font-style: var(--yadeck-com-inter-thin-15-25-font-style);
+  font-weight: var(--yadeck-com-inter-thin-15-25-font-weight);
+  height: 21px;
+  left: 41px;
+  letter-spacing: var(--yadeck-com-inter-thin-15-25-letter-spacing);
+  line-height: var(--yadeck-com-inter-thin-15-25-line-height);
+  position: absolute;
+  top: 84px;
+  white-space: nowrap;
+}
+
+.yadeck-com-by-html .text-wrapper-77 {
+  color: var(--yadeckcomblack);
+  font-family: var(--yadeck-com-inter-thin-15-38-font-family);
+  font-size: var(--yadeck-com-inter-thin-15-38-font-size);
+  font-style: var(--yadeck-com-inter-thin-15-38-font-style);
+  font-weight: var(--yadeck-com-inter-thin-15-38-font-weight);
+  height: 21px;
+  left: 0;
+  letter-spacing: var(--yadeck-com-inter-thin-15-38-letter-spacing);
+  line-height: var(--yadeck-com-inter-thin-15-38-line-height);
+  position: absolute;
+  top: 105px;
+  white-space: nowrap;
+}
+
+.yadeck-com-by-html .div-el-row-56 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0px 0px;
+  height: 50px;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .div-el-col-50 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  height: 50px;
+  position: relative;
+}
+
+.yadeck-com-by-html .link-13 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.yadeck-com-by-html .button-10 {
+  all: unset;
+  align-items: center;
+  background-color: #e6821e;
+  border: 1px solid;
+  border-radius: 5px;
+  box-sizing: border-box;
+  display: inline-flex;
+  flex: 0 0 auto;
+  height: 50px;
+  justify-content: center;
+  max-width: 300px;
+  position: relative;
+}
+
+.yadeck-com-by-html .span-12 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-earnings-wrapper {
+  align-items: center;
+  background-color: var(--yadeckcompampas);
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-corner-wrapper {
+  align-items: flex-start;
+  background-position: 50% 50%;
+  background-size: cover;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-earnings-3 {
+  border: 1px solid;
+  border-color: var(--yadeckcomtuatara);
+  overflow: hidden;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-slider-2 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  position: relative;
+  top: 1px;
+}
+
+.yadeck-com-by-html .div-earnings-4 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .div-label-container-wrapper {
+  align-items: center;
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-label-container-2 {
+  flex: 1;
+  flex-grow: 1;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-earning-6 {
+  align-items: center;
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-images-container-3 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  justify-content: flex-end;
+  position: relative;
+  z-index: 1;
+}
+
+.yadeck-com-by-html .div-container-2 {
+  align-items: center;
+  display: inline-flex;
+  justify-content: center;
+  position: relative;
+  z-index: 1;
+}
+
+.yadeck-com-by-html .div-el-image-9 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.yadeck-com-by-html .image-6 {
+  align-self: stretch;
+  background-position: 50% 50%;
+  background-size: cover;
+  flex: 1;
+  flex-grow: 1;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .div-image-shadow-4 {
+  align-items: center;
+  display: inline-flex;
+  flex-direction: column;
+  height: 21px;
+  position: relative;
+  z-index: 0;
+}
+
+.yadeck-com-by-html .div-image-shadow-5 {
+  background-color: var(--yadeckcomtuatara);
+  filter: blur(2px);
+  height: 6px;
+  opacity: 0.2;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-label-container-3 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+  z-index: 0;
+}
+
+.yadeck-com-by-html .ether-2 {
+  color: var(--yadeckcomtuatara);
+  font-family: var(--yadeck-com-inter-thin-36-25-upper-font-family);
+  font-size: var(--yadeck-com-inter-thin-36-25-upper-font-size);
+  font-style: var(--yadeck-com-inter-thin-36-25-upper-font-style);
+  font-weight: var(--yadeck-com-inter-thin-36-25-upper-font-weight);
+  letter-spacing: var(--yadeck-com-inter-thin-36-25-upper-letter-spacing);
+  line-height: var(--yadeck-com-inter-thin-36-25-upper-line-height);
+  margin-top: -1px;
+  position: relative;
+  width: 78.09px;
+}
+
+.yadeck-com-by-html .div-earning-7 {
+  align-items: center;
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-images-container-4 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  justify-content: flex-end;
+  position: relative;
+  z-index: 1;
+}
+
+.yadeck-com-by-html .div-container-3 {
+  align-items: center;
+  display: inline-flex;
+  justify-content: center;
+  position: relative;
+  z-index: 1;
+}
+
+.yadeck-com-by-html .div-el-image-10 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.yadeck-com-by-html .image-7 {
+  align-self: stretch;
+  background-position: 50% 50%;
+  background-size: cover;
+  flex: 1;
+  flex-grow: 1;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .div-el-image-11 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.yadeck-com-by-html .image-8 {
+  align-self: stretch;
+  background-position: 50% 50%;
+  background-size: cover;
+  flex: 1;
+  flex-grow: 1;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .div-image-shadow-6 {
+  align-items: center;
+  display: inline-flex;
+  flex-direction: column;
+  height: 21px;
+  position: relative;
+  z-index: 0;
+}
+
+.yadeck-com-by-html .div-image-shadow-7 {
+  background-color: var(--yadeckcomtuatara);
+  filter: blur(2px);
+  height: 6px;
+  opacity: 0.2;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-label-container-4 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+  z-index: 0;
+}
+
+.yadeck-com-by-html .exclus-2 {
+  color: var(--yadeckcomtuatara);
+  font-family: var(--yadeck-com-inter-thin-40-upper-font-family);
+  font-size: var(--yadeck-com-inter-thin-40-upper-font-size);
+  font-style: var(--yadeck-com-inter-thin-40-upper-font-style);
+  font-weight: var(--yadeck-com-inter-thin-40-upper-font-weight);
+  letter-spacing: var(--yadeck-com-inter-thin-40-upper-letter-spacing);
+  line-height: var(--yadeck-com-inter-thin-40-upper-line-height);
+  margin-top: -1px;
+  position: relative;
+  width: 92.48px;
+}
+
+.yadeck-com-by-html .div-el-row-57 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .div-el-col-51 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-limited-width-3 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  max-width: 1440px;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-el-row-58 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0px 0px;
+  padding: 0px 128px;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .div-el-col-52 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+}
+
+.yadeck-com-by-html .image-9 {
+  align-self: stretch;
+  background-position: 50% 50%;
+  background-size: cover;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .div-el-col-53 {
+  align-items: flex-start;
+  background: linear-gradient(180deg, rgb(244, 241, 237) 30%, rgba(255, 255, 255, 0) 76%);
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-el-row-59 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .div-el-col-54 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 16px;
+  padding: 0px 0px 16px;
+  position: relative;
+}
+
+.yadeck-com-by-html .heading-7 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .p-pb-4 {
+  position: relative;
+}
+
+.yadeck-com-by-html .overlap-group-20 {
+  position: relative;
+  top: -2px;
+}
+
+.yadeck-com-by-html .de-la-carte-et-le-2 {
+  color: var(--yadeckcomblack);
+  height: 21px;
+  left: 67px;
+  position: absolute;
+  top: 1px;
+  white-space: nowrap;
+}
+
+.yadeck-com-by-html .text-wrapper-78 {
+  color: var(--yadeckcomblack);
+  font-family: var(--yadeck-com-inter-bold-13-88-font-family);
+  font-size: var(--yadeck-com-inter-bold-13-88-font-size);
+  font-style: var(--yadeck-com-inter-bold-13-88-font-style);
+  font-weight: var(--yadeck-com-inter-bold-13-88-font-weight);
+  height: 21px;
+  letter-spacing: var(--yadeck-com-inter-bold-13-88-letter-spacing);
+  line-height: var(--yadeck-com-inter-bold-13-88-line-height);
+  position: absolute;
+  white-space: nowrap;
+}
+
+.yadeck-com-by-html .de-l-artiste-sont {
+  color: var(--yadeckcomblack);
+  font-family: var(--yadeck-com-inter-thin-15-38-font-family);
+  font-size: var(--yadeck-com-inter-thin-15-38-font-size);
+  font-style: var(--yadeck-com-inter-thin-15-38-font-style);
+  font-weight: var(--yadeck-com-inter-thin-15-38-font-weight);
+  height: 21px;
+  letter-spacing: var(--yadeck-com-inter-thin-15-38-letter-spacing);
+  line-height: var(--yadeck-com-inter-thin-15-38-line-height);
+  position: absolute;
+  white-space: nowrap;
+}
+
+.yadeck-com-by-html .facteurs-d {
+  color: var(--yadeckcomblack);
+  font-family: var(--yadeck-com-inter-thin-15-63-font-family);
+  font-size: var(--yadeck-com-inter-thin-15-63-font-size);
+  font-style: var(--yadeck-com-inter-thin-15-63-font-style);
+  font-weight: var(--yadeck-com-inter-thin-15-63-font-weight);
+  left: 0;
+  letter-spacing: var(--yadeck-com-inter-thin-15-63-letter-spacing);
+  line-height: var(--yadeck-com-inter-thin-15-63-line-height);
+  position: absolute;
+}
+
+.yadeck-com-by-html .sois-le-joueur-qui {
+  color: var(--yadeckcomblack);
+  left: 0;
+  position: absolute;
+}
+
+.yadeck-com-by-html .div-el-row-60 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0px 0px;
+  height: 52px;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .div-el-col-55 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  height: 52px;
+  position: relative;
+}
+
+.yadeck-com-by-html .button-11 {
+  all: unset;
+  align-items: flex-start;
+  background-color: #e6821e;
+  border-radius: 5px;
+  box-sizing: border-box;
+  display: inline-flex;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-el-row-61 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0px 0px;
+  height: 810px;
+  padding: 160px 0px 48px;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .div-el-col-56 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  height: 602px;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-limited-width-4 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  max-width: 1440px;
+  padding: 48px 128px;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-m-xs-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .div-el-row-62 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-wrap: wrap;
+  gap: 0px 0px;
+  height: 128px;
+  padding: 24px 0px 0px;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-el-col-57 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  height: 104px;
+  position: relative;
+}
+
+.yadeck-com-by-html .heading-8 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .suivez-l-actualit-de-2 {
+  color: var(--yadeckcompampas);
+  font-family: "Inter", Helvetica;
+  font-size: 40px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 52px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.yadeck-com-by-html .la-ligue-yadeck-off {
+  color: transparent;
+  font-family: "Inter", Helvetica;
+  font-size: 40px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 52px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.yadeck-com-by-html .div-el-row-63 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-wrap: wrap;
+  gap: 0px 0px;
+  height: 122px;
+  padding: 24px 48px 48px;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-el-col-58 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  height: 50px;
+  padding: 0px 8px;
+  position: relative;
+}
+
+.yadeck-com-by-html .link-14 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  position: relative;
+}
+
+.yadeck-com-by-html .button-12 {
+  all: unset;
+  align-items: center;
+  background-color: var(--yadeckcompicton-blue);
+  border: 1px solid;
+  border-color: var(--yadeckcompicton-blue);
+  border-radius: 5px;
+  box-sizing: border-box;
+  display: inline-flex;
+  flex: 0 0 auto;
+  height: 50px;
+  justify-content: center;
+  max-width: 300px;
+  padding: 13px 25px;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-el-col-59 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  height: 50px;
+  padding: 0px 8px;
+  position: relative;
+}
+
+.yadeck-com-by-html .link-15 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  position: relative;
+}
+
+.yadeck-com-by-html .button-13 {
+  all: unset;
+  align-items: center;
+  background-color: var(--yadeckcomchetwode-blue);
+  border: 1px solid;
+  border-color: var(--yadeckcomchetwode-blue);
+  border-radius: 5px;
+  box-sizing: border-box;
+  display: inline-flex;
+  flex: 0 0 auto;
+  height: 50px;
+  justify-content: center;
+  max-width: 300px;
+  padding: 13px 25px;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-el-col-60 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  height: 50px;
+  padding: 0px 8px 2px;
+  position: relative;
+}
+
+.yadeck-com-by-html .link-16 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  position: relative;
+}
+
+.yadeck-com-by-html .button-14 {
+  all: unset;
+  align-items: center;
+  background: radial-gradient(
+    50% 50% at 50% 50%,
+    rgb(55, 113, 200) 0%,
+    rgb(55, 113, 200) 12.8%,
+    rgba(102, 0, 255, 0) 100%
+  );
+  border-radius: 5px;
+  box-sizing: border-box;
+  display: inline-flex;
+  flex: 0 0 auto;
+  height: 48px;
+  justify-content: center;
+  max-width: 300px;
+  padding: 10px 24px;
+  position: relative;
+}
+
+.yadeck-com-by-html .footer-2 {
+  align-items: flex-start;
+  background-color: var(--yadeckcomtuatara);
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  position: absolute;
+}
+
+.yadeck-com-by-html .div-el-row-64 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0px 0px;
+  height: 319px;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .div-el-col-61 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  height: 319px;
+  padding: 50px 110px;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-el-row-65 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0px 0px;
+  height: 66px;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .div-el-col-62 {
+  flex: 0 0 auto;
+  height: 66px;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-el-col-margin {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-el-col-63 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-el-select {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-el-input {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .image-10 {
+  background-position: 50% 50%;
+  background-size: cover;
+  flex: 1;
+  flex-grow: 1;
+  position: relative;
+  width: 16px;
+}
+
+.yadeck-com-by-html .span-el-input-suffix-2 {
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-el-row-66 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0px 0px;
+  height: 153px;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .div-el-col-64 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  height: 153px;
+  padding: 0px 0px 53px;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-el-row-67 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0px 0px;
+  height: 50px;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .div-el-col-65 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  height: 50px;
+  position: relative;
+}
+
+.yadeck-com-by-html .text-wrapper-79 {
+  color: var(--yadeckcompampas);
+  font-family: "Inter", Helvetica;
+  font-size: 17.3px;
+  font-weight: 100;
+  letter-spacing: 0;
+  line-height: 50px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.yadeck-com-by-html .div-el-row-68 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0px 0px;
+  height: 50px;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .div-el-col-66 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  height: 50px;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-el-col-67 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  height: 153px;
+  padding: 0px 0px 3px;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-el-row-69 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0px 0px;
+  height: 50px;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .div-el-col-68 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  height: 50px;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-el-col-69 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  height: 50px;
+  position: relative;
+}
+
+.yadeck-com-by-html .link-aide-2 {
+  color: var(--yadeckcompampas);
+  font-family: "Inter", Helvetica;
+  font-size: 17px;
+  font-weight: 100;
+  letter-spacing: 0;
+  line-height: 50px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.yadeck-com-by-html .div-el-row-70 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0px 0px;
+  height: 50px;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .div-el-col-70 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  height: 50px;
+  position: relative;
+}
+
+.yadeck-com-by-html .link-le-concept-2 {
+  color: var(--yadeckcompampas);
+  font-family: "Inter", Helvetica;
+  font-size: 16.6px;
+  font-weight: 100;
+  letter-spacing: 0;
+  line-height: 50px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.yadeck-com-by-html .div-el-col-71 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  height: 50px;
+  position: relative;
+}
+
+.yadeck-com-by-html .link-presse-2 {
+  color: var(--yadeckcompampas);
+  font-family: "Inter", Helvetica;
+  font-size: 17.9px;
+  font-weight: 100;
+  letter-spacing: 0;
+  line-height: 50px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.yadeck-com-by-html .div-el-row-71 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0px 0px;
+  height: 50px;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .div-el-col-72 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  height: 50px;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-el-col-73 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  height: 50px;
+  position: relative;
+}
+
+.yadeck-com-by-html .link-contact-2 {
+  color: var(--yadeckcompampas);
+  font-family: "Inter", Helvetica;
+  font-size: 16.7px;
+  font-weight: 100;
+  letter-spacing: 0;
+  line-height: 50px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.yadeck-com-by-html .div-el-col-74 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  height: 153px;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-el-row-72 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .div-el-col-75 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+}
+
+.yadeck-com-by-html .text-wrapper-80 {
+  color: var(--yadeckcompampas);
+  font-family: "Inter", Helvetica;
+  font-size: 15.2px;
+  font-weight: 100;
+  height: 50px;
+  left: 40px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: -16px;
+  white-space: nowrap;
+}
+
+.yadeck-com-by-html .div-el-col-76 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+}
+
+.yadeck-com-by-html .text-wrapper-81 {
+  color: var(--yadeckcompampas);
+  font-family: "Inter", Helvetica;
+  font-size: 16px;
+  font-weight: 100;
+  height: 50px;
+  left: 40px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: -16px;
+  white-space: nowrap;
+}
+
+.yadeck-com-by-html .div-el-col-77 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+}
+
+.yadeck-com-by-html .text-wrapper-82 {
+  color: var(--yadeckcompampas);
+  font-family: "Inter", Helvetica;
+  font-size: 15.4px;
+  font-weight: 100;
+  height: 50px;
+  left: 40px;
+  letter-spacing: 0;
+  line-height: 50px;
+  position: absolute;
+  top: -16px;
+  white-space: nowrap;
+}
+
+.yadeck-com-by-html .header-2 {
+  align-items: flex-start;
+  background-color: var(--yadeckcompampas);
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.yadeck-com-by-html .div-el-row-73 {
+  align-items: flex-start;
+  align-self: stretch;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-color: var(--yadeckcomwestar);
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .div-el-col-78 {
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-el-col-79 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+}
+
+.yadeck-com-by-html .menubar-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: flex-end;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .div-6 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+}
+
+.yadeck-com-by-html .menuitem {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .cartes {
+  color: var(--yadeckcomtuatara);
+  font-family: "Inter", Helvetica;
+  font-size: 12.8px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 56px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.yadeck-com-by-html .div-wrapper-3 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  margin-left: -0.1px;
+  position: relative;
+}
+
+.yadeck-com-by-html .menuitem-2 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .packs-wrapper {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  justify-content: flex-end;
+  position: relative;
+}
+
+.yadeck-com-by-html .packs {
+  color: var(--yadeckcomtuatara);
+  font-family: "Inter", Helvetica;
+  font-size: 13.1px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 56px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.yadeck-com-by-html .div-position {
+  height: 1px;
+  margin-left: -0.02px;
+  position: relative;
+  width: 1px;
+}
+
+.yadeck-com-by-html .div-position-2 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  left: -25px;
+  position: relative;
+  top: 7px;
+}
+
+.yadeck-com-by-html .text-wrapper-83 {
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 0;
+  color: var(--yadeckcomred);
+  display: -webkit-box;
+  font-family: var(--yadeck-com-inter-bold-10-69-upper-font-family);
+  font-size: var(--yadeck-com-inter-bold-10-69-upper-font-size);
+  font-style: var(--yadeck-com-inter-bold-10-69-upper-font-style);
+  font-weight: var(--yadeck-com-inter-bold-10-69-upper-font-weight);
+  letter-spacing: var(--yadeck-com-inter-bold-10-69-upper-letter-spacing);
+  line-height: var(--yadeck-com-inter-bold-10-69-upper-line-height);
+  margin-top: -1px;
+  overflow: hidden;
+  position: relative;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.yadeck-com-by-html .jeu-wrapper {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .jeu {
+  color: var(--yadeckcomtuatara);
+  font-family: "Inter", Helvetica;
+  font-size: 13.2px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 56px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.yadeck-com-by-html .artistes-wrapper {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .artistes {
+  color: var(--yadeckcomtuatara);
+  font-family: "Inter", Helvetica;
+  font-size: 13px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 56px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.yadeck-com-by-html .le-concept-wrapper {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .text-wrapper-84 {
+  color: var(--yadeckcomtuatara);
+  font-family: "Inter", Helvetica;
+  font-size: 12.9px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 56px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.yadeck-com-by-html .div-el-sub-menu {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .aide-wrapper {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .aide {
+  color: var(--yadeckcomtuatara);
+  font-family: "Inter", Helvetica;
+  font-size: 13.3px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 56px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.yadeck-com-by-html .div-d-flex-margin {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  margin-left: -0.1px;
+  padding: 0px 48px 0px 0px;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-d-flex-12 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.yadeck-com-by-html .button-margin-3 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 0px 0px 16px;
+  position: relative;
+}
+
+.yadeck-com-by-html .button-15 {
+  all: unset;
+  align-items: center;
+  background-color: var(--yadeckcomchateau-green);
+  border: 1px solid;
+  border-color: var(--yadeckcomchateau-green);
+  border-radius: 5px;
+  box-sizing: border-box;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 16px 16.69px 17.19px 16.89px;
+  position: relative;
+}
+
+.yadeck-com-by-html .button-margin-4 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  margin-left: -0.01px;
+  padding: 0px 0px 0px 16px;
+  position: relative;
+}
+
+.yadeck-com-by-html .button-16 {
+  all: unset;
+  align-items: center;
+  background-color: #e6821e;
+  border-radius: 5px;
+  box-sizing: border-box;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 16px 16.65px 17.19px 16.85px;
+  position: relative;
+}
+
+.yadeck-com-by-html .button-open-chat {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+}
+
+.yadeck-com-by-html .span-cc-imbb {
+  background-color: var(--yadeckcomclementine);
+  box-shadow: 0px 4px 10px #0000000d;
+  position: relative;
+}
+
+.yadeck-com-by-html .span-cc {
+  position: absolute;
+}
+
+.yadeck-com-by-html .div-wisepops {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+}
+
+.yadeck-com-by-html .div-wisepops-overlay {
+  background-color: var(--yadeckcomblack-51);
+  left: 0;
+  position: absolute;
+  top: 0;
+}
+
+.yadeck-com-by-html .dialog-information {
+  align-items: flex-start;
+  background-color: var(--yadeckcomblack-45);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  margin-left: -0.19px;
+  margin-right: -0.19px;
+  position: relative;
+}
+
+.yadeck-com-by-html .section-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .div-7 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  min-height: 1px;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .div-popup-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .div-popup {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  padding: 40px;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-blockscontainer {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-wisepops-blocks {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  min-height: 1px;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .div-blockreadonly {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  min-height: 41px;
+  padding: 0px 0px 40px;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-blockreadonly-2 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  min-height: 1px;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-8 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .span-13 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.yadeck-com-by-html .div-9 {
+  background-position: 50% 50%;
+  background-size: cover;
+  position: relative;
+}
+
+.yadeck-com-by-html .div-buttonpopupblock {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  position: relative;
+}
+
+.yadeck-com-by-html .button-17 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--yadeckcomzest);
+  border-radius: 4px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  position: relative;
+}
+
+.yadeck-com-by-html .c-e-st-par-ti-wrapper {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+}
+
+.yadeck-com-by-html .c-e-st-par-ti {
+  color: var(--yadeckcomnero);
+  font-family: "Roboto", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 16px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.yadeck-com-by-html .SVG {
+  height: 16px;
+  position: relative;
+  width: 16px;
+}
