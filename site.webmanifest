@@ -1,0 +1,29 @@
+{
+  "name": "RhymeChain - La Future Ligue Internationale de Rap & Hip Hop",
+  "short_name": "RhymeChain",
+  "description": "The premier international platform for rap and hip-hop competitions. Battle, compete and demonstrate your talent in the next generation of rap leagues.",
+  "icons": [
+    {
+      "src": "/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "theme_color": "#1a1a1a",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/",
+  "orientation": "portrait-primary",
+  "categories": ["music", "entertainment", "games"],
+  "lang": "en",
+  "dir": "ltr"
+}
+

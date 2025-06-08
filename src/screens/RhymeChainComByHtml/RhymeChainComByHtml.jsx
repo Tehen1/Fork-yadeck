@@ -2,11 +2,11 @@ import React from "react";
 import { useWindowWidth } from "../../breakpoints";
 import "./style.css";
 
-export const YadeckComByHtml = () => {
+export const RhymeChainComByHtml = () => {
   const screenWidth = useWindowWidth();
 
   return (
-    <div className="yadeck-com-by-html">
+    <div className="rhymechain-com-by-html">
       <div
         className="overlap-wrapper"
         style={{
@@ -89,18 +89,19 @@ export const YadeckComByHtml = () => {
                             <div className="div-headband-wrapper">
                               <div className="div-wrapper">
                                 <div className="div-headband-wrapper-2">
-                                  <div className="heading">
-                                    <div className="digital">DIGITAL</div>
-                                    <div className="rap">RAP</div>
-                                    <div className="league">LEAGUE</div>
-                                  </div>
+                                <div className="heading">
+                                  <div className="digital">DIGITAL</div>
+                                  <div className="rap">RAP</div>
+                                  <div className="league">LEAGUE</div>
+                                  <div className="french-tagline">La Future Ligue Internationale de Rap & Hip Hop</div>
+                                </div>
                                   <div className="div-2">
                                     <div className="p-appearing">
                                       <div className="text-wrapper">Mise</div>
                                       <div className="overlap-group-2">
-                                        <p className="sur-tes-artistes"> sur tes artistes urbains préférés dans la</p>
-                                        <div className="text-wrapper-2">première ligue de</div>
-                                        <div className="text-wrapper-3">rap digitale</div>
+                                      <p className="sur-tes-artistes"> sur tes artistes urbains préférés dans la</p>
+                                        <div className="text-wrapper-2">première ligue internationale de</div>
+                                        <div className="text-wrapper-3">rap digitale NFT</div>
                                         <div className="text-wrapper-4">.</div>
                                       </div>
                                     </div>
@@ -151,7 +152,7 @@ export const YadeckComByHtml = () => {
                                                     rel="noopener noreferrer"
                                                     target="_blank"
                                                   >
-                                                    <p className="p">Découvre Yadeck, le premier j…</p>
+                                                    <p className="p">Découvre RhymeChain, le premier j…</p>
                                                   </a>
                                                 </div>
                                               </div>
@@ -244,7 +245,7 @@ export const YadeckComByHtml = () => {
                                           <div className="text-wrapper-8">,</div>
                                           <div className="text-wrapper-9">,</div>
                                           <div className="et"> et</div>
-                                          <p className="text-wrapper-10">tes cartes sur la plateforme Yadeck</p>
+                                          <p className="text-wrapper-10">tes cartes sur la plateforme RhymeChain</p>
                                         </div>
                                         <div className="text-wrapper-11">collectionne</div>
                                         <div className="text-wrapper-12">échange</div>
@@ -280,7 +281,7 @@ export const YadeckComByHtml = () => {
                                     <div className="span-2">
                                       <a
                                         className="text-wrapper-14"
-                                        href="https://yadeck.com/fr/cartes/details"
+                                        href="https://rhymechain.com/fr/cartes/details"
                                         rel="noopener noreferrer"
                                         target="_blank"
                                       >
@@ -324,7 +325,7 @@ export const YadeckComByHtml = () => {
                                       <div className="text-wrapper-17">, et</div>
                                       <p className="text-wrapper-18">affronte les autres joueurs de la</p>
                                       <div className="text-wrapper-19">communauté</div>
-                                      <div className="text-wrapper-20">Yadeck</div>
+                                      <div className="text-wrapper-20">RhymeChain</div>
                                       <p className="dans-le-tout-premier">
                                         {" "}
                                         dans le tout premier jeu en ligne basé sur
@@ -476,7 +477,7 @@ export const YadeckComByHtml = () => {
                                       <div className="span-5">
                                         <a
                                           className="text-wrapper-22"
-                                          href="https://yadeck.com/fr/inscription"
+                                          href="https://rhymechain.com/fr/inscription"
                                           rel="noopener noreferrer"
                                           target="_blank"
                                         >
@@ -523,7 +524,7 @@ export const YadeckComByHtml = () => {
                                         <div className="text-wrapper-27">ether</div>
                                         <div className="text-wrapper-28">,</div>
                                         <div className="text-wrapper-29">cartes</div>
-                                        <div className="text-wrapper-30">Yadeck</div>
+                                        <div className="text-wrapper-30">RhymeChain</div>
                                         <div className="ou"> ou</div>
                                         <div className="text-wrapper-31">euros</div>
                                         <div className="text-wrapper-32">) en participant aux</div>
@@ -582,7 +583,7 @@ export const YadeckComByHtml = () => {
                                     <div className="span-6">
                                       <a
                                         className="text-wrapper-22"
-                                        href="https://yadeck.com/fr/jeu/details"
+                                        href="https://rhymechain.com/fr/jeu/details"
                                         rel="noopener noreferrer"
                                         target="_blank"
                                       >
@@ -604,11 +605,11 @@ export const YadeckComByHtml = () => {
                             <div className="div-el-col-10">
                               <div className="div-el-row-22">
                                 <div className="div-el-col-11">
-                                  <div className="les-cartes-yadeck-wrapper">
+                                  <div className="les-cartes-rhymechain-wrapper">
                                     <div className="text-wrapper-23">
                                       Les cartes
                                       <br />
-                                      Yadeck
+                                      RhymeChain
                                       <br />
                                       prennent de
                                       <br />
@@ -642,7 +643,7 @@ export const YadeckComByHtml = () => {
                               <div className="link-button">
                                 <a
                                   className="text-wrapper-38"
-                                  href="https://yadeck.com/fr/cartes/liste"
+                                  href="https://rhymechain.com/fr/cartes/liste"
                                   rel="noopener noreferrer"
                                   target="_blank"
                                 >
@@ -670,7 +671,7 @@ export const YadeckComByHtml = () => {
                                       la ligue
                                       <br />
                                     </span>
-                                    <span className="text-wrapper-40">#Yadeck_off</span>
+                                    <span className="text-wrapper-40">#RhymeChain_off</span>
                                   </p>
                                 </div>
                               </div>
@@ -687,7 +688,7 @@ export const YadeckComByHtml = () => {
                                       />
                                       <a
                                         className="twitter"
-                                        href="https://twitter.com/yadeck_off"
+                                        href="https://twitter.com/rhymechain_off"
                                         rel="noopener noreferrer"
                                         target="_blank"
                                       >
@@ -729,7 +730,7 @@ export const YadeckComByHtml = () => {
                                       />
                                       <a
                                         className="instagram"
-                                        href="https://www.instagram.com/yadeck_off"
+                                        href="https://www.instagram.com/rhymechain_off"
                                         rel="noopener noreferrer"
                                         target="_blank"
                                       >
@@ -786,7 +787,7 @@ export const YadeckComByHtml = () => {
                               <div className="link-politique-de-wrapper">
                                 <a
                                   className="text-wrapper-41"
-                                  href="https://yadeck.com/fr/confidentialite"
+                                  href="https://rhymechain.com/fr/confidentialite"
                                   rel="noopener noreferrer"
                                   target="_blank"
                                 >
@@ -798,7 +799,7 @@ export const YadeckComByHtml = () => {
                               <div className="link-conditions-g-n-wrapper">
                                 <a
                                   className="text-wrapper-41"
-                                  href="https://yadeck.com/fr/cgv"
+                                  href="https://rhymechain.com/fr/cgv"
                                   rel="noopener noreferrer"
                                   target="_blank"
                                 >
@@ -812,7 +813,7 @@ export const YadeckComByHtml = () => {
                               <div className="link-les-cartes-wrapper">
                                 <a
                                   className="text-wrapper-41"
-                                  href="https://yadeck.com/fr/cartes/details"
+                                  href="https://rhymechain.com/fr/cartes/details"
                                   rel="noopener noreferrer"
                                   target="_blank"
                                 >
@@ -822,7 +823,7 @@ export const YadeckComByHtml = () => {
                               <div className="link-aide-wrapper">
                                 <a
                                   className="link-aide"
-                                  href="https://help.yadeck.com/fr"
+                                  href="https://help.rhymechain.com/fr"
                                   rel="noopener noreferrer"
                                   target="_blank"
                                 >
@@ -834,7 +835,7 @@ export const YadeckComByHtml = () => {
                               <div className="link-le-concept-wrapper">
                                 <a
                                   className="link-le-concept"
-                                  href="https://yadeck.com/fr/concept"
+                                  href="https://rhymechain.com/fr/concept"
                                   rel="noopener noreferrer"
                                   target="_blank"
                                 >
@@ -844,7 +845,7 @@ export const YadeckComByHtml = () => {
                               <div className="link-presse-wrapper">
                                 <a
                                   className="link-presse"
-                                  href="mailto:presse@yadeck.com"
+                                  href="mailto:presse@rhymechain.com"
                                   rel="noopener noreferrer"
                                   target="_blank"
                                 >
@@ -856,7 +857,7 @@ export const YadeckComByHtml = () => {
                               <div className="link-le-jeu-wrapper">
                                 <a
                                   className="text-wrapper-41"
-                                  href="https://yadeck.com/fr/jeu/details"
+                                  href="https://rhymechain.com/fr/jeu/details"
                                   rel="noopener noreferrer"
                                   target="_blank"
                                 >
@@ -881,7 +882,7 @@ export const YadeckComByHtml = () => {
                                 <div className="link-7">
                                   <a
                                     className="text-wrapper-42"
-                                    href="https://twitter.com/yadeck_off"
+                                    href="https://twitter.com/rhymechain_off"
                                     rel="noopener noreferrer"
                                     target="_blank"
                                   >
@@ -898,7 +899,7 @@ export const YadeckComByHtml = () => {
                                 <div className="link-8">
                                   <a
                                     className="text-wrapper-43"
-                                    href="https://www.instagram.com/yadeck_off"
+                                    href="https://www.instagram.com/rhymechain_off"
                                     rel="noopener noreferrer"
                                     target="_blank"
                                   >
@@ -1338,13 +1339,13 @@ export const YadeckComByHtml = () => {
                                           target="_blank"
                                         >
                                           <p className="p">
-                                            Découvre Yadeck, le premier jeu en ligne du rap français !
+                                            Découvre RhymeChain, le premier jeu en ligne du rap français !
                                           </p>
                                         </a>
                                       </div>
                                     </div>
                                   </div>
-                                  <button className="button-share-wrapper">
+                                  <div className="button-share-wrapper">
                                     <button className="button-share">
                                       <img
                                         className="div-ytp-share-icon"
@@ -1361,16 +1362,16 @@ export const YadeckComByHtml = () => {
                                         <div className="text-wrapper-55">Share</div>
                                       </div>
                                     </button>
-                                  </button>
+                                  </div>
                                   <div className="div-ytp-title-2">
                                     <div
                                       className="div-ytp-title-beacon"
                                       style={{
                                         backgroundColor:
                                           screenWidth >= 1024 && screenWidth < 1920
-                                            ? "var(--yadeckcomblack-93)"
+                                            ? "var(--rhymechaincomblack-93)"
                                             : screenWidth >= 1920
-                                            ? "var(--yadeckcomblack-08)"
+                                            ? "var(--rhymechaincomblack-08)"
                                             : undefined,
                                         height:
                                           screenWidth >= 1024 && screenWidth < 1920
@@ -1403,7 +1404,7 @@ export const YadeckComByHtml = () => {
                                       alt="Link photo image of"
                                       src={
                                         screenWidth >= 1024 && screenWidth < 1920
-                                          ? "https://cdn.animaapp.com/projects/64c03199d05949cd3e9fc7e2/releases/65432d3ce71150547576378f/img/link---photo-image-of-yadeck@2x.png"
+                                          ? "https://cdn.animaapp.com/projects/64c03199d05949cd3e9fc7e2/releases/65432d3ce71150547576378f/img/link---photo-image-of-rhymechain@2x.png"
                                           : undefined
                                       }
                                     />
@@ -1958,7 +1959,7 @@ export const YadeckComByHtml = () => {
                                       <div className="text-wrapper-58">collectionne</div>
                                       <div className="text-wrapper-59">,</div>
                                       <div className="et-2"> et</div>
-                                      <p className="text-wrapper-60">tes cartes sur la plateforme Yadeck</p>
+                                      <p className="text-wrapper-60">tes cartes sur la plateforme RhymeChain</p>
                                     </div>
                                     <div className="text-wrapper-61">échange</div>
                                     <div className="text-wrapper-62">revends</div>
@@ -1989,7 +1990,7 @@ export const YadeckComByHtml = () => {
                                     <div className="span-10">
                                       <a
                                         className="text-wrapper-14"
-                                        href="https://yadeck.com/fr/cartes/details"
+                                        href="https://rhymechain.com/fr/cartes/details"
                                         rel="noopener noreferrer"
                                         target="_blank"
                                       >
@@ -2199,34 +2200,34 @@ export const YadeckComByHtml = () => {
                                             : undefined,
                                       }}
                                     >
-                                      communauté Yadeck
+                                      communauté RhymeChain
                                     </div>
                                     <div
                                       className="dans-le-tout-premier-2"
                                       style={{
                                         fontFamily:
                                           screenWidth >= 1024 && screenWidth < 1920
-                                            ? "var(--yadeck-com-inter-thin-15-5-font-family)"
+                                            ? "var(--rhymechain-com-inter-thin-15-5-font-family)"
                                             : screenWidth >= 1920
-                                            ? "var(--yadeck-com-inter-thin-16-font-family)"
+                                            ? "var(--rhymechain-com-inter-thin-16-font-family)"
                                             : undefined,
                                         fontSize:
                                           screenWidth >= 1024 && screenWidth < 1920
-                                            ? "var(--yadeck-com-inter-thin-15-5-font-size)"
+                                            ? "var(--rhymechain-com-inter-thin-15-5-font-size)"
                                             : screenWidth >= 1920
-                                            ? "var(--yadeck-com-inter-thin-16-font-size)"
+                                            ? "var(--rhymechain-com-inter-thin-16-font-size)"
                                             : undefined,
                                         fontStyle:
                                           screenWidth >= 1024 && screenWidth < 1920
-                                            ? "var(--yadeck-com-inter-thin-15-5-font-style)"
+                                            ? "var(--rhymechain-com-inter-thin-15-5-font-style)"
                                             : screenWidth >= 1920
-                                            ? "var(--yadeck-com-inter-thin-16-font-style)"
+                                            ? "var(--rhymechain-com-inter-thin-16-font-style)"
                                             : undefined,
                                         fontWeight:
                                           screenWidth >= 1024 && screenWidth < 1920
-                                            ? "var(--yadeck-com-inter-thin-15-5-font-weight)"
+                                            ? "var(--rhymechain-com-inter-thin-15-5-font-weight)"
                                             : screenWidth >= 1920
-                                            ? "var(--yadeck-com-inter-thin-16-font-weight)"
+                                            ? "var(--rhymechain-com-inter-thin-16-font-weight)"
                                             : undefined,
                                         height:
                                           screenWidth >= 1024 && screenWidth < 1920
@@ -2236,15 +2237,15 @@ export const YadeckComByHtml = () => {
                                             : undefined,
                                         letterSpacing:
                                           screenWidth >= 1024 && screenWidth < 1920
-                                            ? "var(--yadeck-com-inter-thin-15-5-letter-spacing)"
+                                            ? "var(--rhymechain-com-inter-thin-15-5-letter-spacing)"
                                             : screenWidth >= 1920
-                                            ? "var(--yadeck-com-inter-thin-16-letter-spacing)"
+                                            ? "var(--rhymechain-com-inter-thin-16-letter-spacing)"
                                             : undefined,
                                         lineHeight:
                                           screenWidth >= 1024 && screenWidth < 1920
-                                            ? "var(--yadeck-com-inter-thin-15-5-line-height)"
+                                            ? "var(--rhymechain-com-inter-thin-15-5-line-height)"
                                             : screenWidth >= 1920
-                                            ? "var(--yadeck-com-inter-thin-16-line-height)"
+                                            ? "var(--rhymechain-com-inter-thin-16-line-height)"
                                             : undefined,
                                         top:
                                           screenWidth >= 1024 && screenWidth < 1920
@@ -2267,27 +2268,27 @@ export const YadeckComByHtml = () => {
                                       style={{
                                         fontFamily:
                                           screenWidth >= 1024 && screenWidth < 1920
-                                            ? "var(--yadeck-com-inter-thin-15-75-font-family)"
+                                            ? "var(--rhymechain-com-inter-thin-15-75-font-family)"
                                             : screenWidth >= 1920
-                                            ? "var(--yadeck-com-inter-thin-15-63-font-family)"
+                                            ? "var(--rhymechain-com-inter-thin-15-63-font-family)"
                                             : undefined,
                                         fontSize:
                                           screenWidth >= 1024 && screenWidth < 1920
-                                            ? "var(--yadeck-com-inter-thin-15-75-font-size)"
+                                            ? "var(--rhymechain-com-inter-thin-15-75-font-size)"
                                             : screenWidth >= 1920
-                                            ? "var(--yadeck-com-inter-thin-15-63-font-size)"
+                                            ? "var(--rhymechain-com-inter-thin-15-63-font-size)"
                                             : undefined,
                                         fontStyle:
                                           screenWidth >= 1024 && screenWidth < 1920
-                                            ? "var(--yadeck-com-inter-thin-15-75-font-style)"
+                                            ? "var(--rhymechain-com-inter-thin-15-75-font-style)"
                                             : screenWidth >= 1920
-                                            ? "var(--yadeck-com-inter-thin-15-63-font-style)"
+                                            ? "var(--rhymechain-com-inter-thin-15-63-font-style)"
                                             : undefined,
                                         fontWeight:
                                           screenWidth >= 1024 && screenWidth < 1920
-                                            ? "var(--yadeck-com-inter-thin-15-75-font-weight)"
+                                            ? "var(--rhymechain-com-inter-thin-15-75-font-weight)"
                                             : screenWidth >= 1920
-                                            ? "var(--yadeck-com-inter-thin-15-63-font-weight)"
+                                            ? "var(--rhymechain-com-inter-thin-15-63-font-weight)"
                                             : undefined,
                                         left:
                                           screenWidth >= 1024 && screenWidth < 1920
@@ -2297,15 +2298,15 @@ export const YadeckComByHtml = () => {
                                             : undefined,
                                         letterSpacing:
                                           screenWidth >= 1024 && screenWidth < 1920
-                                            ? "var(--yadeck-com-inter-thin-15-75-letter-spacing)"
+                                            ? "var(--rhymechain-com-inter-thin-15-75-letter-spacing)"
                                             : screenWidth >= 1920
-                                            ? "var(--yadeck-com-inter-thin-15-63-letter-spacing)"
+                                            ? "var(--rhymechain-com-inter-thin-15-63-letter-spacing)"
                                             : undefined,
                                         lineHeight:
                                           screenWidth >= 1024 && screenWidth < 1920
-                                            ? "var(--yadeck-com-inter-thin-15-75-line-height)"
+                                            ? "var(--rhymechain-com-inter-thin-15-75-line-height)"
                                             : screenWidth >= 1920
-                                            ? "var(--yadeck-com-inter-thin-15-63-line-height)"
+                                            ? "var(--rhymechain-com-inter-thin-15-63-line-height)"
                                             : undefined,
                                         top:
                                           screenWidth >= 1024 && screenWidth < 1920
@@ -2588,39 +2589,39 @@ export const YadeckComByHtml = () => {
                                                   style={{
                                                     fontFamily:
                                                       screenWidth >= 1024 && screenWidth < 1920
-                                                        ? "var(--yadeck-com-inter-thin-7-5-upper-font-family)"
+                                                        ? "var(--rhymechain-com-inter-thin-7-5-upper-font-family)"
                                                         : screenWidth >= 1920
-                                                        ? "var(--yadeck-com-inter-thin-15-38-upper-font-family)"
+                                                        ? "var(--rhymechain-com-inter-thin-15-38-upper-font-family)"
                                                         : undefined,
                                                     fontSize:
                                                       screenWidth >= 1024 && screenWidth < 1920
-                                                        ? "var(--yadeck-com-inter-thin-7-5-upper-font-size)"
+                                                        ? "var(--rhymechain-com-inter-thin-7-5-upper-font-size)"
                                                         : screenWidth >= 1920
-                                                        ? "var(--yadeck-com-inter-thin-15-38-upper-font-size)"
+                                                        ? "var(--rhymechain-com-inter-thin-15-38-upper-font-size)"
                                                         : undefined,
                                                     fontStyle:
                                                       screenWidth >= 1024 && screenWidth < 1920
-                                                        ? "var(--yadeck-com-inter-thin-7-5-upper-font-style)"
+                                                        ? "var(--rhymechain-com-inter-thin-7-5-upper-font-style)"
                                                         : screenWidth >= 1920
-                                                        ? "var(--yadeck-com-inter-thin-15-38-upper-font-style)"
+                                                        ? "var(--rhymechain-com-inter-thin-15-38-upper-font-style)"
                                                         : undefined,
                                                     fontWeight:
                                                       screenWidth >= 1024 && screenWidth < 1920
-                                                        ? "var(--yadeck-com-inter-thin-7-5-upper-font-weight)"
+                                                        ? "var(--rhymechain-com-inter-thin-7-5-upper-font-weight)"
                                                         : screenWidth >= 1920
-                                                        ? "var(--yadeck-com-inter-thin-15-38-upper-font-weight)"
+                                                        ? "var(--rhymechain-com-inter-thin-15-38-upper-font-weight)"
                                                         : undefined,
                                                     letterSpacing:
                                                       screenWidth >= 1024 && screenWidth < 1920
-                                                        ? "var(--yadeck-com-inter-thin-7-5-upper-letter-spacing)"
+                                                        ? "var(--rhymechain-com-inter-thin-7-5-upper-letter-spacing)"
                                                         : screenWidth >= 1920
-                                                        ? "var(--yadeck-com-inter-thin-15-38-upper-letter-spacing)"
+                                                        ? "var(--rhymechain-com-inter-thin-15-38-upper-letter-spacing)"
                                                         : undefined,
                                                     lineHeight:
                                                       screenWidth >= 1024 && screenWidth < 1920
-                                                        ? "var(--yadeck-com-inter-thin-7-5-upper-line-height)"
+                                                        ? "var(--rhymechain-com-inter-thin-7-5-upper-line-height)"
                                                         : screenWidth >= 1920
-                                                        ? "var(--yadeck-com-inter-thin-15-38-upper-line-height)"
+                                                        ? "var(--rhymechain-com-inter-thin-15-38-upper-line-height)"
                                                         : undefined,
                                                     width:
                                                       screenWidth >= 1024 && screenWidth < 1920
@@ -2661,39 +2662,39 @@ export const YadeckComByHtml = () => {
                                                   style={{
                                                     fontFamily:
                                                       screenWidth >= 1024 && screenWidth < 1920
-                                                        ? "var(--yadeck-com-inter-thin-7-5-upper-font-family)"
+                                                        ? "var(--rhymechain-com-inter-thin-7-5-upper-font-family)"
                                                         : screenWidth >= 1920
-                                                        ? "var(--yadeck-com-inter-thin-15-38-upper-font-family)"
+                                                        ? "var(--rhymechain-com-inter-thin-15-38-upper-font-family)"
                                                         : undefined,
                                                     fontSize:
                                                       screenWidth >= 1024 && screenWidth < 1920
-                                                        ? "var(--yadeck-com-inter-thin-7-5-upper-font-size)"
+                                                        ? "var(--rhymechain-com-inter-thin-7-5-upper-font-size)"
                                                         : screenWidth >= 1920
-                                                        ? "var(--yadeck-com-inter-thin-15-38-upper-font-size)"
+                                                        ? "var(--rhymechain-com-inter-thin-15-38-upper-font-size)"
                                                         : undefined,
                                                     fontStyle:
                                                       screenWidth >= 1024 && screenWidth < 1920
-                                                        ? "var(--yadeck-com-inter-thin-7-5-upper-font-style)"
+                                                        ? "var(--rhymechain-com-inter-thin-7-5-upper-font-style)"
                                                         : screenWidth >= 1920
-                                                        ? "var(--yadeck-com-inter-thin-15-38-upper-font-style)"
+                                                        ? "var(--rhymechain-com-inter-thin-15-38-upper-font-style)"
                                                         : undefined,
                                                     fontWeight:
                                                       screenWidth >= 1024 && screenWidth < 1920
-                                                        ? "var(--yadeck-com-inter-thin-7-5-upper-font-weight)"
+                                                        ? "var(--rhymechain-com-inter-thin-7-5-upper-font-weight)"
                                                         : screenWidth >= 1920
-                                                        ? "var(--yadeck-com-inter-thin-15-38-upper-font-weight)"
+                                                        ? "var(--rhymechain-com-inter-thin-15-38-upper-font-weight)"
                                                         : undefined,
                                                     letterSpacing:
                                                       screenWidth >= 1024 && screenWidth < 1920
-                                                        ? "var(--yadeck-com-inter-thin-7-5-upper-letter-spacing)"
+                                                        ? "var(--rhymechain-com-inter-thin-7-5-upper-letter-spacing)"
                                                         : screenWidth >= 1920
-                                                        ? "var(--yadeck-com-inter-thin-15-38-upper-letter-spacing)"
+                                                        ? "var(--rhymechain-com-inter-thin-15-38-upper-letter-spacing)"
                                                         : undefined,
                                                     lineHeight:
                                                       screenWidth >= 1024 && screenWidth < 1920
-                                                        ? "var(--yadeck-com-inter-thin-7-5-upper-line-height)"
+                                                        ? "var(--rhymechain-com-inter-thin-7-5-upper-line-height)"
                                                         : screenWidth >= 1920
-                                                        ? "var(--yadeck-com-inter-thin-15-38-upper-line-height)"
+                                                        ? "var(--rhymechain-com-inter-thin-15-38-upper-line-height)"
                                                         : undefined,
                                                     width:
                                                       screenWidth >= 1024 && screenWidth < 1920
@@ -2844,39 +2845,39 @@ export const YadeckComByHtml = () => {
                                                   style={{
                                                     fontFamily:
                                                       screenWidth >= 1024 && screenWidth < 1920
-                                                        ? "var(--yadeck-com-inter-thin-7-5-upper-font-family)"
+                                                        ? "var(--rhymechain-com-inter-thin-7-5-upper-font-family)"
                                                         : screenWidth >= 1920
-                                                        ? "var(--yadeck-com-inter-thin-15-38-upper-font-family)"
+                                                        ? "var(--rhymechain-com-inter-thin-15-38-upper-font-family)"
                                                         : undefined,
                                                     fontSize:
                                                       screenWidth >= 1024 && screenWidth < 1920
-                                                        ? "var(--yadeck-com-inter-thin-7-5-upper-font-size)"
+                                                        ? "var(--rhymechain-com-inter-thin-7-5-upper-font-size)"
                                                         : screenWidth >= 1920
-                                                        ? "var(--yadeck-com-inter-thin-15-38-upper-font-size)"
+                                                        ? "var(--rhymechain-com-inter-thin-15-38-upper-font-size)"
                                                         : undefined,
                                                     fontStyle:
                                                       screenWidth >= 1024 && screenWidth < 1920
-                                                        ? "var(--yadeck-com-inter-thin-7-5-upper-font-style)"
+                                                        ? "var(--rhymechain-com-inter-thin-7-5-upper-font-style)"
                                                         : screenWidth >= 1920
-                                                        ? "var(--yadeck-com-inter-thin-15-38-upper-font-style)"
+                                                        ? "var(--rhymechain-com-inter-thin-15-38-upper-font-style)"
                                                         : undefined,
                                                     fontWeight:
                                                       screenWidth >= 1024 && screenWidth < 1920
-                                                        ? "var(--yadeck-com-inter-thin-7-5-upper-font-weight)"
+                                                        ? "var(--rhymechain-com-inter-thin-7-5-upper-font-weight)"
                                                         : screenWidth >= 1920
-                                                        ? "var(--yadeck-com-inter-thin-15-38-upper-font-weight)"
+                                                        ? "var(--rhymechain-com-inter-thin-15-38-upper-font-weight)"
                                                         : undefined,
                                                     letterSpacing:
                                                       screenWidth >= 1024 && screenWidth < 1920
-                                                        ? "var(--yadeck-com-inter-thin-7-5-upper-letter-spacing)"
+                                                        ? "var(--rhymechain-com-inter-thin-7-5-upper-letter-spacing)"
                                                         : screenWidth >= 1920
-                                                        ? "var(--yadeck-com-inter-thin-15-38-upper-letter-spacing)"
+                                                        ? "var(--rhymechain-com-inter-thin-15-38-upper-letter-spacing)"
                                                         : undefined,
                                                     lineHeight:
                                                       screenWidth >= 1024 && screenWidth < 1920
-                                                        ? "var(--yadeck-com-inter-thin-7-5-upper-line-height)"
+                                                        ? "var(--rhymechain-com-inter-thin-7-5-upper-line-height)"
                                                         : screenWidth >= 1920
-                                                        ? "var(--yadeck-com-inter-thin-15-38-upper-line-height)"
+                                                        ? "var(--rhymechain-com-inter-thin-15-38-upper-line-height)"
                                                         : undefined,
                                                     width:
                                                       screenWidth >= 1024 && screenWidth < 1920
@@ -2917,39 +2918,39 @@ export const YadeckComByHtml = () => {
                                                   style={{
                                                     fontFamily:
                                                       screenWidth >= 1024 && screenWidth < 1920
-                                                        ? "var(--yadeck-com-inter-thin-7-5-upper-font-family)"
+                                                        ? "var(--rhymechain-com-inter-thin-7-5-upper-font-family)"
                                                         : screenWidth >= 1920
-                                                        ? "var(--yadeck-com-inter-thin-15-38-upper-font-family)"
+                                                        ? "var(--rhymechain-com-inter-thin-15-38-upper-font-family)"
                                                         : undefined,
                                                     fontSize:
                                                       screenWidth >= 1024 && screenWidth < 1920
-                                                        ? "var(--yadeck-com-inter-thin-7-5-upper-font-size)"
+                                                        ? "var(--rhymechain-com-inter-thin-7-5-upper-font-size)"
                                                         : screenWidth >= 1920
-                                                        ? "var(--yadeck-com-inter-thin-15-38-upper-font-size)"
+                                                        ? "var(--rhymechain-com-inter-thin-15-38-upper-font-size)"
                                                         : undefined,
                                                     fontStyle:
                                                       screenWidth >= 1024 && screenWidth < 1920
-                                                        ? "var(--yadeck-com-inter-thin-7-5-upper-font-style)"
+                                                        ? "var(--rhymechain-com-inter-thin-7-5-upper-font-style)"
                                                         : screenWidth >= 1920
-                                                        ? "var(--yadeck-com-inter-thin-15-38-upper-font-style)"
+                                                        ? "var(--rhymechain-com-inter-thin-15-38-upper-font-style)"
                                                         : undefined,
                                                     fontWeight:
                                                       screenWidth >= 1024 && screenWidth < 1920
-                                                        ? "var(--yadeck-com-inter-thin-7-5-upper-font-weight)"
+                                                        ? "var(--rhymechain-com-inter-thin-7-5-upper-font-weight)"
                                                         : screenWidth >= 1920
-                                                        ? "var(--yadeck-com-inter-thin-15-38-upper-font-weight)"
+                                                        ? "var(--rhymechain-com-inter-thin-15-38-upper-font-weight)"
                                                         : undefined,
                                                     letterSpacing:
                                                       screenWidth >= 1024 && screenWidth < 1920
-                                                        ? "var(--yadeck-com-inter-thin-7-5-upper-letter-spacing)"
+                                                        ? "var(--rhymechain-com-inter-thin-7-5-upper-letter-spacing)"
                                                         : screenWidth >= 1920
-                                                        ? "var(--yadeck-com-inter-thin-15-38-upper-letter-spacing)"
+                                                        ? "var(--rhymechain-com-inter-thin-15-38-upper-letter-spacing)"
                                                         : undefined,
                                                     lineHeight:
                                                       screenWidth >= 1024 && screenWidth < 1920
-                                                        ? "var(--yadeck-com-inter-thin-7-5-upper-line-height)"
+                                                        ? "var(--rhymechain-com-inter-thin-7-5-upper-line-height)"
                                                         : screenWidth >= 1920
-                                                        ? "var(--yadeck-com-inter-thin-15-38-upper-line-height)"
+                                                        ? "var(--rhymechain-com-inter-thin-15-38-upper-line-height)"
                                                         : undefined,
                                                     width:
                                                       screenWidth >= 1024 && screenWidth < 1920
@@ -3100,39 +3101,39 @@ export const YadeckComByHtml = () => {
                                                   style={{
                                                     fontFamily:
                                                       screenWidth >= 1024 && screenWidth < 1920
-                                                        ? "var(--yadeck-com-inter-thin-7-5-upper-font-family)"
+                                                        ? "var(--rhymechain-com-inter-thin-7-5-upper-font-family)"
                                                         : screenWidth >= 1920
-                                                        ? "var(--yadeck-com-inter-thin-15-38-upper-font-family)"
+                                                        ? "var(--rhymechain-com-inter-thin-15-38-upper-font-family)"
                                                         : undefined,
                                                     fontSize:
                                                       screenWidth >= 1024 && screenWidth < 1920
-                                                        ? "var(--yadeck-com-inter-thin-7-5-upper-font-size)"
+                                                        ? "var(--rhymechain-com-inter-thin-7-5-upper-font-size)"
                                                         : screenWidth >= 1920
-                                                        ? "var(--yadeck-com-inter-thin-15-38-upper-font-size)"
+                                                        ? "var(--rhymechain-com-inter-thin-15-38-upper-font-size)"
                                                         : undefined,
                                                     fontStyle:
                                                       screenWidth >= 1024 && screenWidth < 1920
-                                                        ? "var(--yadeck-com-inter-thin-7-5-upper-font-style)"
+                                                        ? "var(--rhymechain-com-inter-thin-7-5-upper-font-style)"
                                                         : screenWidth >= 1920
-                                                        ? "var(--yadeck-com-inter-thin-15-38-upper-font-style)"
+                                                        ? "var(--rhymechain-com-inter-thin-15-38-upper-font-style)"
                                                         : undefined,
                                                     fontWeight:
                                                       screenWidth >= 1024 && screenWidth < 1920
-                                                        ? "var(--yadeck-com-inter-thin-7-5-upper-font-weight)"
+                                                        ? "var(--rhymechain-com-inter-thin-7-5-upper-font-weight)"
                                                         : screenWidth >= 1920
-                                                        ? "var(--yadeck-com-inter-thin-15-38-upper-font-weight)"
+                                                        ? "var(--rhymechain-com-inter-thin-15-38-upper-font-weight)"
                                                         : undefined,
                                                     letterSpacing:
                                                       screenWidth >= 1024 && screenWidth < 1920
-                                                        ? "var(--yadeck-com-inter-thin-7-5-upper-letter-spacing)"
+                                                        ? "var(--rhymechain-com-inter-thin-7-5-upper-letter-spacing)"
                                                         : screenWidth >= 1920
-                                                        ? "var(--yadeck-com-inter-thin-15-38-upper-letter-spacing)"
+                                                        ? "var(--rhymechain-com-inter-thin-15-38-upper-letter-spacing)"
                                                         : undefined,
                                                     lineHeight:
                                                       screenWidth >= 1024 && screenWidth < 1920
-                                                        ? "var(--yadeck-com-inter-thin-7-5-upper-line-height)"
+                                                        ? "var(--rhymechain-com-inter-thin-7-5-upper-line-height)"
                                                         : screenWidth >= 1920
-                                                        ? "var(--yadeck-com-inter-thin-15-38-upper-line-height)"
+                                                        ? "var(--rhymechain-com-inter-thin-15-38-upper-line-height)"
                                                         : undefined,
                                                     width:
                                                       screenWidth >= 1024 && screenWidth < 1920
@@ -3173,39 +3174,39 @@ export const YadeckComByHtml = () => {
                                                   style={{
                                                     fontFamily:
                                                       screenWidth >= 1024 && screenWidth < 1920
-                                                        ? "var(--yadeck-com-inter-thin-7-5-upper-font-family)"
+                                                        ? "var(--rhymechain-com-inter-thin-7-5-upper-font-family)"
                                                         : screenWidth >= 1920
-                                                        ? "var(--yadeck-com-inter-thin-15-38-upper-font-family)"
+                                                        ? "var(--rhymechain-com-inter-thin-15-38-upper-font-family)"
                                                         : undefined,
                                                     fontSize:
                                                       screenWidth >= 1024 && screenWidth < 1920
-                                                        ? "var(--yadeck-com-inter-thin-7-5-upper-font-size)"
+                                                        ? "var(--rhymechain-com-inter-thin-7-5-upper-font-size)"
                                                         : screenWidth >= 1920
-                                                        ? "var(--yadeck-com-inter-thin-15-38-upper-font-size)"
+                                                        ? "var(--rhymechain-com-inter-thin-15-38-upper-font-size)"
                                                         : undefined,
                                                     fontStyle:
                                                       screenWidth >= 1024 && screenWidth < 1920
-                                                        ? "var(--yadeck-com-inter-thin-7-5-upper-font-style)"
+                                                        ? "var(--rhymechain-com-inter-thin-7-5-upper-font-style)"
                                                         : screenWidth >= 1920
-                                                        ? "var(--yadeck-com-inter-thin-15-38-upper-font-style)"
+                                                        ? "var(--rhymechain-com-inter-thin-15-38-upper-font-style)"
                                                         : undefined,
                                                     fontWeight:
                                                       screenWidth >= 1024 && screenWidth < 1920
-                                                        ? "var(--yadeck-com-inter-thin-7-5-upper-font-weight)"
+                                                        ? "var(--rhymechain-com-inter-thin-7-5-upper-font-weight)"
                                                         : screenWidth >= 1920
-                                                        ? "var(--yadeck-com-inter-thin-15-38-upper-font-weight)"
+                                                        ? "var(--rhymechain-com-inter-thin-15-38-upper-font-weight)"
                                                         : undefined,
                                                     letterSpacing:
                                                       screenWidth >= 1024 && screenWidth < 1920
-                                                        ? "var(--yadeck-com-inter-thin-7-5-upper-letter-spacing)"
+                                                        ? "var(--rhymechain-com-inter-thin-7-5-upper-letter-spacing)"
                                                         : screenWidth >= 1920
-                                                        ? "var(--yadeck-com-inter-thin-15-38-upper-letter-spacing)"
+                                                        ? "var(--rhymechain-com-inter-thin-15-38-upper-letter-spacing)"
                                                         : undefined,
                                                     lineHeight:
                                                       screenWidth >= 1024 && screenWidth < 1920
-                                                        ? "var(--yadeck-com-inter-thin-7-5-upper-line-height)"
+                                                        ? "var(--rhymechain-com-inter-thin-7-5-upper-line-height)"
                                                         : screenWidth >= 1920
-                                                        ? "var(--yadeck-com-inter-thin-15-38-upper-line-height)"
+                                                        ? "var(--rhymechain-com-inter-thin-15-38-upper-line-height)"
                                                         : undefined,
                                                     width:
                                                       screenWidth >= 1024 && screenWidth < 1920
@@ -3363,39 +3364,39 @@ export const YadeckComByHtml = () => {
                                                   style={{
                                                     fontFamily:
                                                       screenWidth >= 1024 && screenWidth < 1920
-                                                        ? "var(--yadeck-com-inter-thin-7-5-upper-font-family)"
+                                                        ? "var(--rhymechain-com-inter-thin-7-5-upper-font-family)"
                                                         : screenWidth >= 1920
-                                                        ? "var(--yadeck-com-inter-thin-15-38-upper-font-family)"
+                                                        ? "var(--rhymechain-com-inter-thin-15-38-upper-font-family)"
                                                         : undefined,
                                                     fontSize:
                                                       screenWidth >= 1024 && screenWidth < 1920
-                                                        ? "var(--yadeck-com-inter-thin-7-5-upper-font-size)"
+                                                        ? "var(--rhymechain-com-inter-thin-7-5-upper-font-size)"
                                                         : screenWidth >= 1920
-                                                        ? "var(--yadeck-com-inter-thin-15-38-upper-font-size)"
+                                                        ? "var(--rhymechain-com-inter-thin-15-38-upper-font-size)"
                                                         : undefined,
                                                     fontStyle:
                                                       screenWidth >= 1024 && screenWidth < 1920
-                                                        ? "var(--yadeck-com-inter-thin-7-5-upper-font-style)"
+                                                        ? "var(--rhymechain-com-inter-thin-7-5-upper-font-style)"
                                                         : screenWidth >= 1920
-                                                        ? "var(--yadeck-com-inter-thin-15-38-upper-font-style)"
+                                                        ? "var(--rhymechain-com-inter-thin-15-38-upper-font-style)"
                                                         : undefined,
                                                     fontWeight:
                                                       screenWidth >= 1024 && screenWidth < 1920
-                                                        ? "var(--yadeck-com-inter-thin-7-5-upper-font-weight)"
+                                                        ? "var(--rhymechain-com-inter-thin-7-5-upper-font-weight)"
                                                         : screenWidth >= 1920
-                                                        ? "var(--yadeck-com-inter-thin-15-38-upper-font-weight)"
+                                                        ? "var(--rhymechain-com-inter-thin-15-38-upper-font-weight)"
                                                         : undefined,
                                                     letterSpacing:
                                                       screenWidth >= 1024 && screenWidth < 1920
-                                                        ? "var(--yadeck-com-inter-thin-7-5-upper-letter-spacing)"
+                                                        ? "var(--rhymechain-com-inter-thin-7-5-upper-letter-spacing)"
                                                         : screenWidth >= 1920
-                                                        ? "var(--yadeck-com-inter-thin-15-38-upper-letter-spacing)"
+                                                        ? "var(--rhymechain-com-inter-thin-15-38-upper-letter-spacing)"
                                                         : undefined,
                                                     lineHeight:
                                                       screenWidth >= 1024 && screenWidth < 1920
-                                                        ? "var(--yadeck-com-inter-thin-7-5-upper-line-height)"
+                                                        ? "var(--rhymechain-com-inter-thin-7-5-upper-line-height)"
                                                         : screenWidth >= 1920
-                                                        ? "var(--yadeck-com-inter-thin-15-38-upper-line-height)"
+                                                        ? "var(--rhymechain-com-inter-thin-15-38-upper-line-height)"
                                                         : undefined,
                                                     width:
                                                       screenWidth >= 1024 && screenWidth < 1920
@@ -3436,39 +3437,39 @@ export const YadeckComByHtml = () => {
                                                   style={{
                                                     fontFamily:
                                                       screenWidth >= 1024 && screenWidth < 1920
-                                                        ? "var(--yadeck-com-inter-thin-7-5-upper-font-family)"
+                                                        ? "var(--rhymechain-com-inter-thin-7-5-upper-font-family)"
                                                         : screenWidth >= 1920
-                                                        ? "var(--yadeck-com-inter-thin-15-38-upper-font-family)"
+                                                        ? "var(--rhymechain-com-inter-thin-15-38-upper-font-family)"
                                                         : undefined,
                                                     fontSize:
                                                       screenWidth >= 1024 && screenWidth < 1920
-                                                        ? "var(--yadeck-com-inter-thin-7-5-upper-font-size)"
+                                                        ? "var(--rhymechain-com-inter-thin-7-5-upper-font-size)"
                                                         : screenWidth >= 1920
-                                                        ? "var(--yadeck-com-inter-thin-15-38-upper-font-size)"
+                                                        ? "var(--rhymechain-com-inter-thin-15-38-upper-font-size)"
                                                         : undefined,
                                                     fontStyle:
                                                       screenWidth >= 1024 && screenWidth < 1920
-                                                        ? "var(--yadeck-com-inter-thin-7-5-upper-font-style)"
+                                                        ? "var(--rhymechain-com-inter-thin-7-5-upper-font-style)"
                                                         : screenWidth >= 1920
-                                                        ? "var(--yadeck-com-inter-thin-15-38-upper-font-style)"
+                                                        ? "var(--rhymechain-com-inter-thin-15-38-upper-font-style)"
                                                         : undefined,
                                                     fontWeight:
                                                       screenWidth >= 1024 && screenWidth < 1920
-                                                        ? "var(--yadeck-com-inter-thin-7-5-upper-font-weight)"
+                                                        ? "var(--rhymechain-com-inter-thin-7-5-upper-font-weight)"
                                                         : screenWidth >= 1920
-                                                        ? "var(--yadeck-com-inter-thin-15-38-upper-font-weight)"
+                                                        ? "var(--rhymechain-com-inter-thin-15-38-upper-font-weight)"
                                                         : undefined,
                                                     letterSpacing:
                                                       screenWidth >= 1024 && screenWidth < 1920
-                                                        ? "var(--yadeck-com-inter-thin-7-5-upper-letter-spacing)"
+                                                        ? "var(--rhymechain-com-inter-thin-7-5-upper-letter-spacing)"
                                                         : screenWidth >= 1920
-                                                        ? "var(--yadeck-com-inter-thin-15-38-upper-letter-spacing)"
+                                                        ? "var(--rhymechain-com-inter-thin-15-38-upper-letter-spacing)"
                                                         : undefined,
                                                     lineHeight:
                                                       screenWidth >= 1024 && screenWidth < 1920
-                                                        ? "var(--yadeck-com-inter-thin-7-5-upper-line-height)"
+                                                        ? "var(--rhymechain-com-inter-thin-7-5-upper-line-height)"
                                                         : screenWidth >= 1920
-                                                        ? "var(--yadeck-com-inter-thin-15-38-upper-line-height)"
+                                                        ? "var(--rhymechain-com-inter-thin-15-38-upper-line-height)"
                                                         : undefined,
                                                     width:
                                                       screenWidth >= 1024 && screenWidth < 1920
@@ -3629,39 +3630,39 @@ export const YadeckComByHtml = () => {
                                                     style={{
                                                       fontFamily:
                                                         screenWidth >= 1024 && screenWidth < 1920
-                                                          ? "var(--yadeck-com-inter-regular-10-31-upper-font-family)"
+                                                          ? "var(--rhymechain-com-inter-regular-10-31-upper-font-family)"
                                                           : screenWidth >= 1920
-                                                          ? "var(--yadeck-com-inter-regular-15-94-upper-font-family)"
+                                                          ? "var(--rhymechain-com-inter-regular-15-94-upper-font-family)"
                                                           : undefined,
                                                       fontSize:
                                                         screenWidth >= 1024 && screenWidth < 1920
-                                                          ? "var(--yadeck-com-inter-regular-10-31-upper-font-size)"
+                                                          ? "var(--rhymechain-com-inter-regular-10-31-upper-font-size)"
                                                           : screenWidth >= 1920
-                                                          ? "var(--yadeck-com-inter-regular-15-94-upper-font-size)"
+                                                          ? "var(--rhymechain-com-inter-regular-15-94-upper-font-size)"
                                                           : undefined,
                                                       fontStyle:
                                                         screenWidth >= 1024 && screenWidth < 1920
-                                                          ? "var(--yadeck-com-inter-regular-10-31-upper-font-style)"
+                                                          ? "var(--rhymechain-com-inter-regular-10-31-upper-font-style)"
                                                           : screenWidth >= 1920
-                                                          ? "var(--yadeck-com-inter-regular-15-94-upper-font-style)"
+                                                          ? "var(--rhymechain-com-inter-regular-15-94-upper-font-style)"
                                                           : undefined,
                                                       fontWeight:
                                                         screenWidth >= 1024 && screenWidth < 1920
-                                                          ? "var(--yadeck-com-inter-regular-10-31-upper-font-weight)"
+                                                          ? "var(--rhymechain-com-inter-regular-10-31-upper-font-weight)"
                                                           : screenWidth >= 1920
-                                                          ? "var(--yadeck-com-inter-regular-15-94-upper-font-weight)"
+                                                          ? "var(--rhymechain-com-inter-regular-15-94-upper-font-weight)"
                                                           : undefined,
                                                       letterSpacing:
                                                         screenWidth >= 1024 && screenWidth < 1920
-                                                          ? "var(--yadeck-com-inter-regular-10-31-upper-letter-spacing)"
+                                                          ? "var(--rhymechain-com-inter-regular-10-31-upper-letter-spacing)"
                                                           : screenWidth >= 1920
-                                                          ? "var(--yadeck-com-inter-regular-15-94-upper-letter-spacing)"
+                                                          ? "var(--rhymechain-com-inter-regular-15-94-upper-letter-spacing)"
                                                           : undefined,
                                                       lineHeight:
                                                         screenWidth >= 1024 && screenWidth < 1920
-                                                          ? "var(--yadeck-com-inter-regular-10-31-upper-line-height)"
+                                                          ? "var(--rhymechain-com-inter-regular-10-31-upper-line-height)"
                                                           : screenWidth >= 1920
-                                                          ? "var(--yadeck-com-inter-regular-15-94-upper-line-height)"
+                                                          ? "var(--rhymechain-com-inter-regular-15-94-upper-line-height)"
                                                           : undefined,
                                                       width:
                                                         screenWidth >= 1024 && screenWidth < 1920
@@ -3702,39 +3703,39 @@ export const YadeckComByHtml = () => {
                                                     style={{
                                                       fontFamily:
                                                         screenWidth >= 1024 && screenWidth < 1920
-                                                          ? "var(--yadeck-com-inter-regular-10-31-upper-font-family)"
+                                                          ? "var(--rhymechain-com-inter-regular-10-31-upper-font-family)"
                                                           : screenWidth >= 1920
-                                                          ? "var(--yadeck-com-inter-regular-16-13-upper-font-family)"
+                                                          ? "var(--rhymechain-com-inter-regular-16-13-upper-font-family)"
                                                           : undefined,
                                                       fontSize:
                                                         screenWidth >= 1024 && screenWidth < 1920
-                                                          ? "var(--yadeck-com-inter-regular-10-31-upper-font-size)"
+                                                          ? "var(--rhymechain-com-inter-regular-10-31-upper-font-size)"
                                                           : screenWidth >= 1920
-                                                          ? "var(--yadeck-com-inter-regular-16-13-upper-font-size)"
+                                                          ? "var(--rhymechain-com-inter-regular-16-13-upper-font-size)"
                                                           : undefined,
                                                       fontStyle:
                                                         screenWidth >= 1024 && screenWidth < 1920
-                                                          ? "var(--yadeck-com-inter-regular-10-31-upper-font-style)"
+                                                          ? "var(--rhymechain-com-inter-regular-10-31-upper-font-style)"
                                                           : screenWidth >= 1920
-                                                          ? "var(--yadeck-com-inter-regular-16-13-upper-font-style)"
+                                                          ? "var(--rhymechain-com-inter-regular-16-13-upper-font-style)"
                                                           : undefined,
                                                       fontWeight:
                                                         screenWidth >= 1024 && screenWidth < 1920
-                                                          ? "var(--yadeck-com-inter-regular-10-31-upper-font-weight)"
+                                                          ? "var(--rhymechain-com-inter-regular-10-31-upper-font-weight)"
                                                           : screenWidth >= 1920
-                                                          ? "var(--yadeck-com-inter-regular-16-13-upper-font-weight)"
+                                                          ? "var(--rhymechain-com-inter-regular-16-13-upper-font-weight)"
                                                           : undefined,
                                                       letterSpacing:
                                                         screenWidth >= 1024 && screenWidth < 1920
-                                                          ? "var(--yadeck-com-inter-regular-10-31-upper-letter-spacing)"
+                                                          ? "var(--rhymechain-com-inter-regular-10-31-upper-letter-spacing)"
                                                           : screenWidth >= 1920
-                                                          ? "var(--yadeck-com-inter-regular-16-13-upper-letter-spacing)"
+                                                          ? "var(--rhymechain-com-inter-regular-16-13-upper-letter-spacing)"
                                                           : undefined,
                                                       lineHeight:
                                                         screenWidth >= 1024 && screenWidth < 1920
-                                                          ? "var(--yadeck-com-inter-regular-10-31-upper-line-height)"
+                                                          ? "var(--rhymechain-com-inter-regular-10-31-upper-line-height)"
                                                           : screenWidth >= 1920
-                                                          ? "var(--yadeck-com-inter-regular-16-13-upper-line-height)"
+                                                          ? "var(--rhymechain-com-inter-regular-16-13-upper-line-height)"
                                                           : undefined,
                                                       width:
                                                         screenWidth >= 1024 && screenWidth < 1920
@@ -3822,7 +3823,7 @@ export const YadeckComByHtml = () => {
                                     <div className="span-11">
                                       <a
                                         className="text-wrapper-22"
-                                        href="https://yadeck.com/fr/inscription"
+                                        href="https://rhymechain.com/fr/inscription"
                                         rel="noopener noreferrer"
                                         target="_blank"
                                       >
@@ -4023,39 +4024,39 @@ export const YadeckComByHtml = () => {
                                       style={{
                                         fontFamily:
                                           screenWidth >= 1024 && screenWidth < 1920
-                                            ? "var(--yadeck-com-inter-bold-14-25-font-family)"
+                                            ? "var(--rhymechain-com-inter-bold-14-25-font-family)"
                                             : screenWidth >= 1920
-                                            ? "var(--yadeck-com-inter-bold-14-5-font-family)"
+                                            ? "var(--rhymechain-com-inter-bold-14-5-font-family)"
                                             : undefined,
                                         fontSize:
                                           screenWidth >= 1024 && screenWidth < 1920
-                                            ? "var(--yadeck-com-inter-bold-14-25-font-size)"
+                                            ? "var(--rhymechain-com-inter-bold-14-25-font-size)"
                                             : screenWidth >= 1920
-                                            ? "var(--yadeck-com-inter-bold-14-5-font-size)"
+                                            ? "var(--rhymechain-com-inter-bold-14-5-font-size)"
                                             : undefined,
                                         fontStyle:
                                           screenWidth >= 1024 && screenWidth < 1920
-                                            ? "var(--yadeck-com-inter-bold-14-25-font-style)"
+                                            ? "var(--rhymechain-com-inter-bold-14-25-font-style)"
                                             : screenWidth >= 1920
-                                            ? "var(--yadeck-com-inter-bold-14-5-font-style)"
+                                            ? "var(--rhymechain-com-inter-bold-14-5-font-style)"
                                             : undefined,
                                         fontWeight:
                                           screenWidth >= 1024 && screenWidth < 1920
-                                            ? "var(--yadeck-com-inter-bold-14-25-font-weight)"
+                                            ? "var(--rhymechain-com-inter-bold-14-25-font-weight)"
                                             : screenWidth >= 1920
-                                            ? "var(--yadeck-com-inter-bold-14-5-font-weight)"
+                                            ? "var(--rhymechain-com-inter-bold-14-5-font-weight)"
                                             : undefined,
                                         letterSpacing:
                                           screenWidth >= 1024 && screenWidth < 1920
-                                            ? "var(--yadeck-com-inter-bold-14-25-letter-spacing)"
+                                            ? "var(--rhymechain-com-inter-bold-14-25-letter-spacing)"
                                             : screenWidth >= 1920
-                                            ? "var(--yadeck-com-inter-bold-14-5-letter-spacing)"
+                                            ? "var(--rhymechain-com-inter-bold-14-5-letter-spacing)"
                                             : undefined,
                                         lineHeight:
                                           screenWidth >= 1024 && screenWidth < 1920
-                                            ? "var(--yadeck-com-inter-bold-14-25-line-height)"
+                                            ? "var(--rhymechain-com-inter-bold-14-25-line-height)"
                                             : screenWidth >= 1920
-                                            ? "var(--yadeck-com-inter-bold-14-5-line-height)"
+                                            ? "var(--rhymechain-com-inter-bold-14-5-line-height)"
                                             : undefined,
                                       }}
                                     >
@@ -4068,27 +4069,27 @@ export const YadeckComByHtml = () => {
                                       style={{
                                         fontFamily:
                                           screenWidth >= 1024 && screenWidth < 1920
-                                            ? "var(--yadeck-com-inter-bold-14-63-font-family)"
+                                            ? "var(--rhymechain-com-inter-bold-14-63-font-family)"
                                             : screenWidth >= 1920
-                                            ? "var(--yadeck-com-inter-thin-15-5-font-family)"
+                                            ? "var(--rhymechain-com-inter-thin-15-5-font-family)"
                                             : undefined,
                                         fontSize:
                                           screenWidth >= 1024 && screenWidth < 1920
-                                            ? "var(--yadeck-com-inter-bold-14-63-font-size)"
+                                            ? "var(--rhymechain-com-inter-bold-14-63-font-size)"
                                             : screenWidth >= 1920
-                                            ? "var(--yadeck-com-inter-thin-15-5-font-size)"
+                                            ? "var(--rhymechain-com-inter-thin-15-5-font-size)"
                                             : undefined,
                                         fontStyle:
                                           screenWidth >= 1024 && screenWidth < 1920
-                                            ? "var(--yadeck-com-inter-bold-14-63-font-style)"
+                                            ? "var(--rhymechain-com-inter-bold-14-63-font-style)"
                                             : screenWidth >= 1920
-                                            ? "var(--yadeck-com-inter-thin-15-5-font-style)"
+                                            ? "var(--rhymechain-com-inter-thin-15-5-font-style)"
                                             : undefined,
                                         fontWeight:
                                           screenWidth >= 1024 && screenWidth < 1920
-                                            ? "var(--yadeck-com-inter-bold-14-63-font-weight)"
+                                            ? "var(--rhymechain-com-inter-bold-14-63-font-weight)"
                                             : screenWidth >= 1920
-                                            ? "var(--yadeck-com-inter-thin-15-5-font-weight)"
+                                            ? "var(--rhymechain-com-inter-thin-15-5-font-weight)"
                                             : undefined,
                                         left:
                                           screenWidth >= 1024 && screenWidth < 1920
@@ -4098,15 +4099,15 @@ export const YadeckComByHtml = () => {
                                             : undefined,
                                         letterSpacing:
                                           screenWidth >= 1024 && screenWidth < 1920
-                                            ? "var(--yadeck-com-inter-bold-14-63-letter-spacing)"
+                                            ? "var(--rhymechain-com-inter-bold-14-63-letter-spacing)"
                                             : screenWidth >= 1920
-                                            ? "var(--yadeck-com-inter-thin-15-5-letter-spacing)"
+                                            ? "var(--rhymechain-com-inter-thin-15-5-letter-spacing)"
                                             : undefined,
                                         lineHeight:
                                           screenWidth >= 1024 && screenWidth < 1920
-                                            ? "var(--yadeck-com-inter-bold-14-63-line-height)"
+                                            ? "var(--rhymechain-com-inter-bold-14-63-line-height)"
                                             : screenWidth >= 1920
-                                            ? "var(--yadeck-com-inter-thin-15-5-line-height)"
+                                            ? "var(--rhymechain-com-inter-thin-15-5-line-height)"
                                             : undefined,
                                         top:
                                           screenWidth >= 1024 && screenWidth < 1920
@@ -4132,27 +4133,27 @@ export const YadeckComByHtml = () => {
                                       style={{
                                         fontFamily:
                                           screenWidth >= 1024 && screenWidth < 1920
-                                            ? "var(--yadeck-com-inter-thin-15-5-font-family)"
+                                            ? "var(--rhymechain-com-inter-thin-15-5-font-family)"
                                             : screenWidth >= 1920
-                                            ? "var(--yadeck-com-inter-bold-15-13-font-family)"
+                                            ? "var(--rhymechain-com-inter-bold-15-13-font-family)"
                                             : undefined,
                                         fontSize:
                                           screenWidth >= 1024 && screenWidth < 1920
-                                            ? "var(--yadeck-com-inter-thin-15-5-font-size)"
+                                            ? "var(--rhymechain-com-inter-thin-15-5-font-size)"
                                             : screenWidth >= 1920
-                                            ? "var(--yadeck-com-inter-bold-15-13-font-size)"
+                                            ? "var(--rhymechain-com-inter-bold-15-13-font-size)"
                                             : undefined,
                                         fontStyle:
                                           screenWidth >= 1024 && screenWidth < 1920
-                                            ? "var(--yadeck-com-inter-thin-15-5-font-style)"
+                                            ? "var(--rhymechain-com-inter-thin-15-5-font-style)"
                                             : screenWidth >= 1920
-                                            ? "var(--yadeck-com-inter-bold-15-13-font-style)"
+                                            ? "var(--rhymechain-com-inter-bold-15-13-font-style)"
                                             : undefined,
                                         fontWeight:
                                           screenWidth >= 1024 && screenWidth < 1920
-                                            ? "var(--yadeck-com-inter-thin-15-5-font-weight)"
+                                            ? "var(--rhymechain-com-inter-thin-15-5-font-weight)"
                                             : screenWidth >= 1920
-                                            ? "var(--yadeck-com-inter-bold-15-13-font-weight)"
+                                            ? "var(--rhymechain-com-inter-bold-15-13-font-weight)"
                                             : undefined,
                                         left:
                                           screenWidth >= 1024 && screenWidth < 1920
@@ -4162,15 +4163,15 @@ export const YadeckComByHtml = () => {
                                             : undefined,
                                         letterSpacing:
                                           screenWidth >= 1024 && screenWidth < 1920
-                                            ? "var(--yadeck-com-inter-thin-15-5-letter-spacing)"
+                                            ? "var(--rhymechain-com-inter-thin-15-5-letter-spacing)"
                                             : screenWidth >= 1920
-                                            ? "var(--yadeck-com-inter-bold-15-13-letter-spacing)"
+                                            ? "var(--rhymechain-com-inter-bold-15-13-letter-spacing)"
                                             : undefined,
                                         lineHeight:
                                           screenWidth >= 1024 && screenWidth < 1920
-                                            ? "var(--yadeck-com-inter-thin-15-5-line-height)"
+                                            ? "var(--rhymechain-com-inter-thin-15-5-line-height)"
                                             : screenWidth >= 1920
-                                            ? "var(--yadeck-com-inter-bold-15-13-line-height)"
+                                            ? "var(--rhymechain-com-inter-bold-15-13-line-height)"
                                             : undefined,
                                         top:
                                           screenWidth >= 1024 && screenWidth < 1920
@@ -4189,7 +4190,7 @@ export const YadeckComByHtml = () => {
                                     {screenWidth >= 1920 && (
                                       <>
                                         <div className="text-wrapper-67">,</div>
-                                        <div className="text-wrapper-68">cartes Yadeck</div>
+                                        <div className="text-wrapper-68">cartes RhymeChain</div>
                                         <div className="ou-2"> ou</div>
                                         <div className="text-wrapper-69">euros</div>
                                         <div className="text-wrapper-70">) en participant aux</div>
@@ -4206,7 +4207,7 @@ export const YadeckComByHtml = () => {
                                         </p>
                                         <div className="text-wrapper-72">ether</div>
                                         <div className="text-wrapper-73">,</div>
-                                        <div className="text-wrapper-74">cartes Yadeck</div>
+                                        <div className="text-wrapper-74">cartes RhymeChain</div>
                                         <div className="ou-3"> ou</div>
                                         <div className="text-wrapper-75">euros</div>
                                         <div className="text-wrapper-76">) en participant aux</div>
@@ -4250,7 +4251,7 @@ export const YadeckComByHtml = () => {
                                     <div className="span-12">
                                       <a
                                         className="text-wrapper-22"
-                                        href="https://yadeck.com/fr/jeu/details"
+                                        href="https://rhymechain.com/fr/jeu/details"
                                         rel="noopener noreferrer"
                                         target="_blank"
                                       >
@@ -4812,7 +4813,7 @@ export const YadeckComByHtml = () => {
                                         <br />
                                         cartes
                                         <br />
-                                        Yadeck
+                                        RhymeChain
                                         <br />
                                         prennent
                                         <br />
@@ -4826,7 +4827,7 @@ export const YadeckComByHtml = () => {
                                       <>
                                         Les cartes
                                         <br />
-                                        Yadeck
+                                        RhymeChain
                                         <br />
                                         prennent de
                                         <br />
@@ -4876,39 +4877,39 @@ export const YadeckComByHtml = () => {
                                       style={{
                                         fontFamily:
                                           screenWidth >= 1024 && screenWidth < 1920
-                                            ? "var(--yadeck-com-inter-thin-15-13-font-family)"
+                                            ? "var(--rhymechain-com-inter-thin-15-13-font-family)"
                                             : screenWidth >= 1920
-                                            ? "var(--yadeck-com-inter-thin-15-75-font-family)"
+                                            ? "var(--rhymechain-com-inter-thin-15-75-font-family)"
                                             : undefined,
                                         fontSize:
                                           screenWidth >= 1024 && screenWidth < 1920
-                                            ? "var(--yadeck-com-inter-thin-15-13-font-size)"
+                                            ? "var(--rhymechain-com-inter-thin-15-13-font-size)"
                                             : screenWidth >= 1920
-                                            ? "var(--yadeck-com-inter-thin-15-75-font-size)"
+                                            ? "var(--rhymechain-com-inter-thin-15-75-font-size)"
                                             : undefined,
                                         fontStyle:
                                           screenWidth >= 1024 && screenWidth < 1920
-                                            ? "var(--yadeck-com-inter-thin-15-13-font-style)"
+                                            ? "var(--rhymechain-com-inter-thin-15-13-font-style)"
                                             : screenWidth >= 1920
-                                            ? "var(--yadeck-com-inter-thin-15-75-font-style)"
+                                            ? "var(--rhymechain-com-inter-thin-15-75-font-style)"
                                             : undefined,
                                         fontWeight:
                                           screenWidth >= 1024 && screenWidth < 1920
-                                            ? "var(--yadeck-com-inter-thin-15-13-font-weight)"
+                                            ? "var(--rhymechain-com-inter-thin-15-13-font-weight)"
                                             : screenWidth >= 1920
-                                            ? "var(--yadeck-com-inter-thin-15-75-font-weight)"
+                                            ? "var(--rhymechain-com-inter-thin-15-75-font-weight)"
                                             : undefined,
                                         letterSpacing:
                                           screenWidth >= 1024 && screenWidth < 1920
-                                            ? "var(--yadeck-com-inter-thin-15-13-letter-spacing)"
+                                            ? "var(--rhymechain-com-inter-thin-15-13-letter-spacing)"
                                             : screenWidth >= 1920
-                                            ? "var(--yadeck-com-inter-thin-15-75-letter-spacing)"
+                                            ? "var(--rhymechain-com-inter-thin-15-75-letter-spacing)"
                                             : undefined,
                                         lineHeight:
                                           screenWidth >= 1024 && screenWidth < 1920
-                                            ? "var(--yadeck-com-inter-thin-15-13-line-height)"
+                                            ? "var(--rhymechain-com-inter-thin-15-13-line-height)"
                                             : screenWidth >= 1920
-                                            ? "var(--yadeck-com-inter-thin-15-75-line-height)"
+                                            ? "var(--rhymechain-com-inter-thin-15-75-line-height)"
                                             : undefined,
                                       }}
                                     >
@@ -4991,27 +4992,27 @@ export const YadeckComByHtml = () => {
                                       style={{
                                         fontFamily:
                                           screenWidth >= 1024 && screenWidth < 1920
-                                            ? "var(--yadeck-com-inter-bold-15-13-font-family)"
+                                            ? "var(--rhymechain-com-inter-bold-15-13-font-family)"
                                             : screenWidth >= 1920
-                                            ? "var(--yadeck-com-inter-bold-15-font-family)"
+                                            ? "var(--rhymechain-com-inter-bold-15-font-family)"
                                             : undefined,
                                         fontSize:
                                           screenWidth >= 1024 && screenWidth < 1920
-                                            ? "var(--yadeck-com-inter-bold-15-13-font-size)"
+                                            ? "var(--rhymechain-com-inter-bold-15-13-font-size)"
                                             : screenWidth >= 1920
-                                            ? "var(--yadeck-com-inter-bold-15-font-size)"
+                                            ? "var(--rhymechain-com-inter-bold-15-font-size)"
                                             : undefined,
                                         fontStyle:
                                           screenWidth >= 1024 && screenWidth < 1920
-                                            ? "var(--yadeck-com-inter-bold-15-13-font-style)"
+                                            ? "var(--rhymechain-com-inter-bold-15-13-font-style)"
                                             : screenWidth >= 1920
-                                            ? "var(--yadeck-com-inter-bold-15-font-style)"
+                                            ? "var(--rhymechain-com-inter-bold-15-font-style)"
                                             : undefined,
                                         fontWeight:
                                           screenWidth >= 1024 && screenWidth < 1920
-                                            ? "var(--yadeck-com-inter-bold-15-13-font-weight)"
+                                            ? "var(--rhymechain-com-inter-bold-15-13-font-weight)"
                                             : screenWidth >= 1920
-                                            ? "var(--yadeck-com-inter-bold-15-font-weight)"
+                                            ? "var(--rhymechain-com-inter-bold-15-font-weight)"
                                             : undefined,
                                         height:
                                           screenWidth >= 1024 && screenWidth < 1920
@@ -5021,15 +5022,15 @@ export const YadeckComByHtml = () => {
                                             : undefined,
                                         letterSpacing:
                                           screenWidth >= 1024 && screenWidth < 1920
-                                            ? "var(--yadeck-com-inter-bold-15-13-letter-spacing)"
+                                            ? "var(--rhymechain-com-inter-bold-15-13-letter-spacing)"
                                             : screenWidth >= 1920
-                                            ? "var(--yadeck-com-inter-bold-15-letter-spacing)"
+                                            ? "var(--rhymechain-com-inter-bold-15-letter-spacing)"
                                             : undefined,
                                         lineHeight:
                                           screenWidth >= 1024 && screenWidth < 1920
-                                            ? "var(--yadeck-com-inter-bold-15-13-line-height)"
+                                            ? "var(--rhymechain-com-inter-bold-15-13-line-height)"
                                             : screenWidth >= 1920
-                                            ? "var(--yadeck-com-inter-bold-15-line-height)"
+                                            ? "var(--rhymechain-com-inter-bold-15-line-height)"
                                             : undefined,
                                         top:
                                           screenWidth >= 1024 && screenWidth < 1920
@@ -5089,7 +5090,7 @@ export const YadeckComByHtml = () => {
                                   >
                                     <a
                                       className="text-wrapper-38"
-                                      href="https://yadeck.com/fr/cartes/liste"
+                                      href="https://rhymechain.com/fr/cartes/liste"
                                       rel="noopener noreferrer"
                                       target="_blank"
                                     >
@@ -5163,13 +5164,13 @@ export const YadeckComByHtml = () => {
 
                                   {screenWidth >= 1920 && <>SUIVEZ L&#39;ACTUALITÉ DE LA</>}
                                 </div>
-                                <div className="la-ligue-yadeck-off">
+                                <div className="la-ligue-rhymechain-off">
                                   <span className="span-3">
                                     {screenWidth >= 1024 && screenWidth < 1920 && <>la ligue </>}
 
                                     {screenWidth >= 1920 && <>ligue </>}
                                   </span>
-                                  <span className="span-4">#Yadeck_off</span>
+                                  <span className="span-4">#RhymeChain_off</span>
                                 </div>
                               </div>
                             </div>
@@ -5212,7 +5213,7 @@ export const YadeckComByHtml = () => {
                                     />
                                     <a
                                       className="twitter"
-                                      href="https://twitter.com/yadeck_off"
+                                      href="https://twitter.com/rhymechain_off"
                                       rel="noopener noreferrer"
                                       target="_blank"
                                     >
@@ -5306,7 +5307,7 @@ export const YadeckComByHtml = () => {
                                     />
                                     <a
                                       className="instagram"
-                                      href="https://www.instagram.com/yadeck_off"
+                                      href="https://www.instagram.com/rhymechain_off"
                                       rel="noopener noreferrer"
                                       target="_blank"
                                     >
@@ -5484,7 +5485,7 @@ export const YadeckComByHtml = () => {
                             >
                               <a
                                 className="text-wrapper-79"
-                                href="https://yadeck.com/fr/confidentialite"
+                                href="https://rhymechain.com/fr/confidentialite"
                                 rel="noopener noreferrer"
                                 target="_blank"
                               >
@@ -5512,7 +5513,7 @@ export const YadeckComByHtml = () => {
                             >
                               <a
                                 className="text-wrapper-79"
-                                href="https://yadeck.com/fr/cgv"
+                                href="https://rhymechain.com/fr/cgv"
                                 rel="noopener noreferrer"
                                 target="_blank"
                               >
@@ -5552,7 +5553,7 @@ export const YadeckComByHtml = () => {
                             >
                               <a
                                 className="text-wrapper-79"
-                                href="https://yadeck.com/fr/cartes/details"
+                                href="https://rhymechain.com/fr/cartes/details"
                                 rel="noopener noreferrer"
                                 target="_blank"
                               >
@@ -5578,7 +5579,7 @@ export const YadeckComByHtml = () => {
                             >
                               <a
                                 className="link-aide-2"
-                                href="https://help.yadeck.com/fr"
+                                href="https://help.rhymechain.com/fr"
                                 rel="noopener noreferrer"
                                 target="_blank"
                               >
@@ -5606,7 +5607,7 @@ export const YadeckComByHtml = () => {
                             >
                               <a
                                 className="link-le-concept-2"
-                                href="https://yadeck.com/fr/concept"
+                                href="https://rhymechain.com/fr/concept"
                                 rel="noopener noreferrer"
                                 target="_blank"
                               >
@@ -5632,7 +5633,7 @@ export const YadeckComByHtml = () => {
                             >
                               <a
                                 className="link-presse-2"
-                                href="mailto:presse@yadeck.com"
+                                href="mailto:presse@rhymechain.com"
                                 rel="noopener noreferrer"
                                 target="_blank"
                               >
@@ -5660,7 +5661,7 @@ export const YadeckComByHtml = () => {
                             >
                               <a
                                 className="text-wrapper-79"
-                                href="https://yadeck.com/fr/jeu/details"
+                                href="https://rhymechain.com/fr/jeu/details"
                                 rel="noopener noreferrer"
                                 target="_blank"
                               >
@@ -5727,7 +5728,7 @@ export const YadeckComByHtml = () => {
                               <div className="link-7">
                                 <a
                                   className="text-wrapper-80"
-                                  href="https://twitter.com/yadeck_off"
+                                  href="https://twitter.com/rhymechain_off"
                                   rel="noopener noreferrer"
                                   target="_blank"
                                 >
@@ -5766,7 +5767,7 @@ export const YadeckComByHtml = () => {
                               <div className="link-8">
                                 <a
                                   className="text-wrapper-81"
-                                  href="https://www.instagram.com/yadeck_off"
+                                  href="https://www.instagram.com/rhymechain_off"
                                   rel="noopener noreferrer"
                                   target="_blank"
                                 >
@@ -5910,7 +5911,7 @@ export const YadeckComByHtml = () => {
                           >
                             <a
                               className="cartes"
-                              href="https://yadeck.com/fr/cartes/liste"
+                              href="https://rhymechain.com/fr/cartes/liste"
                               rel="noopener noreferrer"
                               target="_blank"
                             >
@@ -5933,7 +5934,7 @@ export const YadeckComByHtml = () => {
                             <div className="packs-wrapper">
                               <a
                                 className="packs"
-                                href="https://yadeck.com/fr/packs/liste"
+                                href="https://rhymechain.com/fr/packs/liste"
                                 rel="noopener noreferrer"
                                 target="_blank"
                               >
@@ -5944,7 +5945,7 @@ export const YadeckComByHtml = () => {
                               <div className="div-position-2">
                                 <a
                                   className="text-wrapper-83"
-                                  href="https://yadeck.com/fr/packs/liste"
+                                  href="https://rhymechain.com/fr/packs/liste"
                                   rel="noopener noreferrer"
                                   target="_blank"
                                 >
@@ -5968,7 +5969,7 @@ export const YadeckComByHtml = () => {
                           >
                             <a
                               className="jeu"
-                              href="https://yadeck.com/fr/jeu/details"
+                              href="https://rhymechain.com/fr/jeu/details"
                               rel="noopener noreferrer"
                               target="_blank"
                             >
@@ -5990,7 +5991,7 @@ export const YadeckComByHtml = () => {
                           >
                             <a
                               className="artistes"
-                              href="https://yadeck.com/fr/artistes/apercu"
+                              href="https://rhymechain.com/fr/artistes/apercu"
                               rel="noopener noreferrer"
                               target="_blank"
                             >
@@ -6012,7 +6013,7 @@ export const YadeckComByHtml = () => {
                           >
                             <a
                               className="text-wrapper-84"
-                              href="https://yadeck.com/fr/concept"
+                              href="https://rhymechain.com/fr/concept"
                               rel="noopener noreferrer"
                               target="_blank"
                             >
@@ -6049,7 +6050,7 @@ export const YadeckComByHtml = () => {
                           >
                             <a
                               className="aide"
-                              href="https://help.yadeck.com/fr"
+                              href="https://help.rhymechain.com/fr"
                               rel="noopener noreferrer"
                               target="_blank"
                             >
@@ -6396,7 +6397,7 @@ export const YadeckComByHtml = () => {
                                         ? "nowrap"
                                         : undefined,
                                   }}
-                                  href="https://yadeck.com/fr"
+                                  href="https://rhymechain.com/fr"
                                   rel="noopener noreferrer"
                                   target="_blank"
                                 >
